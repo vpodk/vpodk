@@ -1,4 +1,10 @@
-### Hi there 👋
+### About me
+
+I have been working as a software engineer since 1999. Over these years I have worked on over 500 projects for various markets and industries such as Analytics, Automotive, Banking, Entertainment, Government, Health Care, Marketing, Multimedia, Publishing, and Real Estate for small startups as well as for well-established companies from Fortune 500.
+
+This experience allows me to code in most programming languages and technologies that exist today. Although I prefer the programming languages Python and JavaScript, I can happily code in other languages such as C/C++/C#, Java, PHP, Perl, Ruby, or Swift. Presently, for me it does not matter - to create web, mobile or desktop applications.
+
+Feel free to contact me on any social networks: [vpodk.com](https://vpodk.com/)
 
 <!--
 **vpodk/vpodk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
