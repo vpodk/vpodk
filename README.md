@@ -4,7 +4,18 @@ I have been working as a software engineer since 1999. Over these years I have w
 
 This experience allows me to code in most programming languages and technologies that exist today. Although I prefer the programming languages Python and JavaScript, I can happily code in other languages such as C/C++/C#, Java, PHP, Perl, Ruby, or Swift. Presently, for me it does not matter - to create web, mobile or desktop applications.
 
-### Latest Blog Posts
+### Connect with me:
+Feel free to contact me on any social networks:
+
+[<img align="left" alt="vpodk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="vpodk | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="vpodk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="vpodk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="vpodk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vpodk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+<br>
+
+### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Configure a Read Replica Database in Django](https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1?source=rss-22947912adc0------2)
@@ -14,19 +25,13 @@ This experience allows me to code in most programming languages and technologies
 - [5 Reasons to Build Hybrid Mobile App](https://medium.com/swlh/5-reasons-to-build-hybrid-mobile-app-db94f885e99d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 
-Feel free to contact me on any social networks: [vpodk.com](https://vpodk.com/)
+➡️ [more blog posts...](https://medium.com/@vpodk)
 
-<!--
-**vpodk/vpodk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Meta data -->
+[website]: https://vpodk.com
+[twitter]: https://twitter.com/vpodk
+[youtube]: https://youtube.com/vpodkamenyi
+[instagram]: https://instagram.com/vpodk
+[linkedin]: https://linkedin.com/in/vpodk
+[facebook]: https://linkedin.com/in/facebook
