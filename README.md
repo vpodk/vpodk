@@ -4,7 +4,7 @@ I have been working as a software engineer since 1999. Over these years I have w
 
 This experience allows me to code in most programming languages and technologies that exist today. Although I prefer the programming languages Python and JavaScript, I can happily code in other languages such as C/C++/C#, Java, PHP, Perl, Ruby, or Swift. Presently, for me it does not matter - to create web, mobile or desktop applications.
 
-### Connect with me:
+### Connect with me
 Feel free to contact me on any social networks:
 
 [<img align="left" alt="vpodk.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
