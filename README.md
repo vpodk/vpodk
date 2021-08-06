@@ -4,6 +4,17 @@ I have been working as a software engineer since 1999. Over these years I have w
 
 This experience allows me to code in most programming languages and technologies that exist today. Although I prefer the programming languages Python and JavaScript, I can happily code in other languages such as C/C++/C#, Java, PHP, Perl, Ruby, or Swift. Presently, for me it does not matter - to create web, mobile or desktop applications.
 
+### Latest blog posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Configure a Read Replica Database in Django](https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1?source=rss-22947912adc0------2)
+- [Principles of Software Engineering](https://vpodk.medium.com/principles-of-software-engineering-6b702faf74a6?source=rss-22947912adc0------2)
+- [Benefitting from a Dedicated Software Development Team](https://medium.com/datamart/benefitting-from-a-dedicated-software-development-team-f89d8557693b?source=rss-22947912adc0------2)
+- [How to Minimize Risks in Software Development Outsourcing](https://medium.com/datamart/how-to-minimize-risks-in-software-development-outsourcing-977054d66af?source=rss-22947912adc0------2)
+- [5 Reasons to Build Hybrid Mobile App](https://medium.com/swlh/5-reasons-to-build-hybrid-mobile-app-db94f885e99d?source=rss-22947912adc0------2)
+<!-- BLOG-POST-LIST:END -->
+- [more posts...](https://medium.com/@vpodk)
+
 ### Connect with me
 Feel free to contact me on any social networks:
 
@@ -14,19 +25,6 @@ Feel free to contact me on any social networks:
 [<img align="left" alt="vpodk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vpodk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 <br>
-
-### Latest blog posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Configure a Read Replica Database in Django](https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1?source=rss-22947912adc0------2)
-- [Principles of Software Engineering](https://vpodk.medium.com/principles-of-software-engineering-6b702faf74a6?source=rss-22947912adc0------2)
-- [Benefitting from a Dedicated Software Development Team](https://medium.com/datamart/benefitting-from-a-dedicated-software-development-team-f89d8557693b?source=rss-22947912adc0------2)
-- [How to Minimize Risks in Software Development Outsourcing](https://medium.com/datamart/how-to-minimize-risks-in-software-development-outsourcing-977054d66af?source=rss-22947912adc0------2)
-- [5 Reasons to Build Hybrid Mobile App](https://medium.com/swlh/5-reasons-to-build-hybrid-mobile-app-db94f885e99d?source=rss-22947912adc0------2)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://medium.com/@vpodk)
-
 
 <!-- Meta data -->
 [website]: https://vpodk.com
