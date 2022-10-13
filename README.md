@@ -29,7 +29,7 @@ Feel free to contact me on any social networks:
 <!-- Meta data -->
 [website]: https://vpodk.com
 [twitter]: https://twitter.com/vpodk
-[youtube]: https://youtube.com/vpodkamenyi
+[youtube]: https://youtube.com/@vpodk
 [instagram]: https://instagram.com/vpodk
 [linkedin]: https://linkedin.com/in/vpodk
 [facebook]: https://linkedin.com/in/facebook
