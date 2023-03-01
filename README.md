@@ -33,5 +33,5 @@ Feel free to contact me on any social networks:
 [youtube]: https://youtube.com/@vpodk
 [instagram]: https://instagram.com/vpodk
 [linkedin]: https://linkedin.com/in/vpodk
-[facebook]: https://linkedin.com/in/vpodk
+[facebook]: https://facebook.com/vpodk
 [buymeacoffee]: https://www.buymeacoffee.com/vpodk
