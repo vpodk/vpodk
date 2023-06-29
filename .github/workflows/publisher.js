@@ -1,8 +1,7 @@
 const fs = require("fs");
 const path = require("path");
 
-
-const PUBLISHER_JSON_PATH = './publisher.json';
+const PUBLISHER_JSON_PATH = process.argv[2];
 const PUBLISHER_DATA = require(PUBLISHER_JSON_PATH);
 
 const run = () => {
