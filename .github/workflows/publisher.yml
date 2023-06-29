@@ -22,6 +22,11 @@ jobs:
     - name: Publish 🔧 
       run: |
         node .github/workflows/publisher.js
+        git config --global user.name 'Valentin Podkamennyi'
+        git config --global user.email 'vpodk@users.noreply.github.com'
+        git add -A
+        git commit -m "[skip ci] Updated publisher JSON data."
+        git push
       # env:
       #     TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
       #     TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
