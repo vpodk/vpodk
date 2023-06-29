@@ -21,7 +21,7 @@ jobs:
 
     - name: Publish 🔧 
       run: |
-        node .github/workflows/publisher.js publisher.json
+        node .github/workflows/publisher.js "../../publisher.json"
         git config --global user.name 'Valentin Podkamennyi'
         git config --global user.email 'vpodk@users.noreply.github.com'
         git add -A
