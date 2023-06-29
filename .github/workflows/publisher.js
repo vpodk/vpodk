@@ -45,14 +45,13 @@ const run = () => {
   PUBLISHER_JSON_DATA.push(post);
   fs.writeFileSync(
     PUBLISHER_JSON_PATH,
-    JSON.stringify(PUBLISHER_JSON_DATA),
+    JSON.stringify(PUBLISHER_JSON_DATA, null, 2),
     "utf8"
   );
 
   const [message, hashtags, url] = post;
   const text = message + (hashtags ? "\n" + hashtags : "") + " " + url;
-  console.log(text);
-  // tweet(text);
+  tweet(text);
 };
 
 run();
