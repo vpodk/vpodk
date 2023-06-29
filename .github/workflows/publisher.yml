@@ -21,6 +21,7 @@ jobs:
 
     - name: Publish 🔧 
       run: |
+        echo "$PWD"
         node .github/workflows/publisher.js "../../publisher.json"
         cat publisher.json
         git config --global user.name 'Valentin Podkamennyi'
