@@ -7,26 +7,30 @@ on:
   #   - cron: '0 */1 * * *'
 
 jobs:
-  build:
+  ublish:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout 🛎️
       uses: actions/checkout@v3
   
-    - name: Publish
+    - name: Before Publish
       run: |
         pwd
         ls -la
-        cat publisher.json
         cat .github/workflow/publisher.json
 
-    # - name: Publish 🔧 
-    #   run: |
-    #     node publisher.js
-    #   # env:
-    #   #     TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
-    #   #     TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
-    #   #     TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-    #   #     TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
-    #   #     INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
+    - name: Publish 🔧 
+      run: |
+        node publisher.js
+      # env:
+      #     TWITTER_API_KEY: ${{ secrets.TWITTER_API_KEY }}
+      #     TWITTER_API_SECRET: ${{ secrets.TWITTER_API_SECRET }}
+      #     TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+      #     TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      #     INSTAGRAM_ACCESS_TOKEN: ${{ secrets.INSTAGRAM_ACCESS_TOKEN }}
 
+    - name: After Publish
+      run: |
+        pwd
+        ls -la
+        cat .github/workflow/publisher.json
