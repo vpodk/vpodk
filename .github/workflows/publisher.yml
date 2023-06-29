@@ -20,6 +20,7 @@ jobs:
       run: |
         pwd
         ls -R
+        cat publisher.json
 
     # - name: Install and Publish 🔧 
     #   run: |
@@ -33,5 +34,4 @@ jobs:
 
     - uses: actions/upload-artifact@v3
       with:
-        name: publisher
         path: publisher.json
