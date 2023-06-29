@@ -43,10 +43,16 @@ const tweet = async (/** @type {string} */ text) => {
 const run = () => {
   const post = PUBLISHER_JSON_DATA.shift();
   PUBLISHER_JSON_DATA.push(post);
-  fs.writeFileSync(PUBLISHER_JSON_PATH, JSON.stringify(PUBLISHER_JSON_DATA), 'utf8');
+  fs.writeFileSync(
+    PUBLISHER_JSON_PATH,
+    JSON.stringify(PUBLISHER_JSON_DATA),
+    "utf8"
+  );
 
-  const text = post[2] + ' ' + post[3];
-  tweet(text);
+  const [message, hashtags, url] = post;
+  const text = message + (hashtags ? "\n" + hashtags : "") + " " + url;
+  console.log(text);
+  // tweet(text);
 };
 
 run();
