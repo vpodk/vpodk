@@ -1,0 +1,25 @@
+{
+  "name": "vpodk",
+  "version": "0.0.1",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:vpodk/vpodk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vpodk/vpodk/issues"
+  },
+  "scripts": {
+    "publish": "node ./.github/workflows/publisher.js \"$PWD/publisher.json\"",
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "author": {
+    "name": "Valentin Podkamennyi",
+    "email": "valentin@dtm.io",
+    "url": "https://vpodk.com/"
+  },
+  "dependencies": {
+    "oauth": "^0.10.0"
+  },
+  "license": "UNLICENSED"
+}

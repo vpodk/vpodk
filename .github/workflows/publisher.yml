@@ -16,7 +16,8 @@ jobs:
       - name: Publish 🔧
         run: |
           cat publisher.json
-          node .github/workflows/publisher.js "$PWD/publisher.json"
+          npm install
+          npm run publish
           cat publisher.json
           git config --global user.name 'Valentin Podkamennyi'
           git config --global user.email 'vpodk@users.noreply.github.com'
