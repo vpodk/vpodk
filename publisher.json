@@ -1,10 +1,5 @@
 [
   [
-    "UI and UX are two terms often used interchangeably. Although there are some important fundamental differences between both. Learn more about #UI vs #UX.",
-    "",
-    "https://medium.com/datamart/ui-vs-ux-7c1d7de17255"
-  ],
-  [
     "The procedure to turn on read replicas instances within #Django is quite straight-forward.",
     "",
     "https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1"
@@ -183,5 +178,10 @@
     "Read your favorite authors, influencers and brands, follow your interests by topics and hashtags. Enjoy this app anonymously, securely, free of charge, without sign-up and ads.",
     "",
     "https://anonace.com"
+  ],
+  [
+    "UI and UX are two terms often used interchangeably. Although there are some important fundamental differences between both. Learn more about #UI vs #UX.",
+    "",
+    "https://medium.com/datamart/ui-vs-ux-7c1d7de17255"
   ]
 ]
