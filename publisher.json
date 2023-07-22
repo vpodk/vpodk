@@ -1,10 +1,5 @@
 [
   [
-    "Camel case vs. Pascal case - What's the difference between the two common naming conventions?",
-    "#SoftwareDevelopment #Programming #Coding #100DaysOfCode",
-    "https://medium.com/@eliza.podk/camel-case-vs-pascal-case-cd3a6d016b21"
-  ],
-  [
     "🔁 Focus looping component based on focus bounders.",
     "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
     "https://github.com/wayfair-incubator/react-focus-bounder"
@@ -183,5 +178,10 @@
     "Just because you don't like coding doesn't mean you can't have a job in the tech sector.",
     "#Resume #Careers #Jobs #FutureAhead",
     "https://medium.com/datamart/coding-isnt-for-everyone-9-tech-jobs-you-can-get-without-it-ae82f536c740"
+  ],
+  [
+    "Camel case vs. Pascal case - What's the difference between the two common naming conventions?",
+    "#SoftwareDevelopment #Programming #Coding #100DaysOfCode",
+    "https://medium.com/@eliza.podk/camel-case-vs-pascal-case-cd3a6d016b21"
   ]
 ]
