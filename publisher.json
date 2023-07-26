@@ -1,10 +1,5 @@
 [
   [
-    "In order to pass programming interviews you need to solve algorithms and to solve algorithms you need data structures.",
-    "#DataStructures #Algorithms #LinkedLists #Arrays #Hashmap #100DaysOfCode",
-    "https://towardsdatascience.com/data-structures-simplified-and-classified-e0c1e304436b"
-  ],
-  [
     "The Holy Grail, in simple words, is a web page layout with multiple, columns having same heights and are specified with styling sheets.",
     "#Flexbox #CSS #WebDevelopment #Coding #Programming #100DaysOfCode",
     "https://levelup.gitconnected.com/clean-application-flexible-box-layout-98e439bb7d96"
@@ -183,5 +178,10 @@
     "This article will detail out the most crucial tips and tricks to design your resume, so as to get an edge over the usual applicants while applying for a position of interest.",
     "#Resume #Careers #Jobs #FutureAhead",
     "https://medium.com/@vpodk/how-to-increase-your-chances-of-getting-a-job-254c97c3b448"
+  ],
+  [
+    "In order to pass programming interviews you need to solve algorithms and to solve algorithms you need data structures.",
+    "#DataStructures #Algorithms #LinkedLists #Arrays #Hashmap #100DaysOfCode",
+    "https://towardsdatascience.com/data-structures-simplified-and-classified-e0c1e304436b"
   ]
 ]
