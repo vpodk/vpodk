@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How Artificial Intelligence is Transforming Various Industries](https://vpodk.medium.com/how-artificial-intelligence-is-transforming-various-industries-ed10f86e57c4?source=rss-22947912adc0------2)
 - [Progressive Web Apps: Revolutionizing The Mobile Web Experience](https://vpodk.medium.com/pwa-revolutionizing-the-mobile-web-experience-a8586b17e2f4?source=rss-22947912adc0------2)
 - [Pros And Cons Of Using ChatGPT](https://vpodk.medium.com/pros-and-cons-of-using-chatgpt-ceb854dbd452?source=rss-22947912adc0------2)
 - [Configure a Read Replica Database in Django](https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1?source=rss-22947912adc0------2)
 - [Principles of Software Engineering](https://vpodk.medium.com/principles-of-software-engineering-6b702faf74a6?source=rss-22947912adc0------2)
-- [Benefitting from a Dedicated Software Development Team](https://medium.com/datamart/benefitting-from-a-dedicated-software-development-team-f89d8557693b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
