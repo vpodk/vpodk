@@ -1,10 +1,5 @@
 [
   [
-    "The procedure to turn on read replicas instances within #Django is quite straight-forward.",
-    "",
-    "https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1"
-  ],
-  [
     "Integrating and configuring #KomitoAnalytics to the websites has become much easier than ever with #npm package!",
     "#Analytics #WebAnalytics #measure",
     "https://www.npmjs.com/package/komito-analytics"
@@ -188,5 +183,10 @@
     "UI and UX are two terms often used interchangeably. Although there are some important fundamental differences between both. Learn more about #UI vs #UX.",
     "",
     "https://medium.com/datamart/ui-vs-ux-7c1d7de17255"
+  ],
+  [
+    "The procedure to turn on read replicas instances within #Django is quite straight-forward.",
+    "",
+    "https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1"
   ]
 ]
