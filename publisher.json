@@ -1,10 +1,5 @@
 [
   [
-    "Is implicit coercion evil and harmful? In certain cases, yes! In a broad sense, not really.",
-    "#JavaScript #Programming #SoftwareDevelopment #Coding #WebDevelopment #100DaysOfCode",
-    "https://medium.com/javascript-in-plain-english/javascript-loose-equals-and-strict-equals-ab2144fcbe"
-  ],
-  [
     "The second part of step-by-step tutorial to build a clean, lightweight, and extremely fast web application.",
     "#CSS #WebDevelopment #WebAppDevelopment #Coding #Programming #100DaysOfCode",
     "https://levelup.gitconnected.com/clean-application-block-positions-4e46fbb86674"
@@ -188,5 +183,10 @@
     "With so many applications available within the internet, learning new things everyday has never been easier.",
     "#Videos #YouTube #Tutorial #FutureAhead",
     "https://vpodk.medium.com/how-to-create-your-own-high-quality-video-in-4-simple-steps-c0db78f8c36c"
+  ],
+  [
+    "Is implicit coercion evil and harmful? In certain cases, yes! In a broad sense, not really.",
+    "#JavaScript #Programming #SoftwareDevelopment #Coding #WebDevelopment #100DaysOfCode",
+    "https://medium.com/javascript-in-plain-english/javascript-loose-equals-and-strict-equals-ab2144fcbe"
   ]
 ]
