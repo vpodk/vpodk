@@ -1,10 +1,5 @@
 [
   [
-    "🗄️ Implementation of an expirable data storage based on native Web Storage API.",
-    "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
-    "https://github.com/wayfair-incubator/expirable-storage"
-  ],
-  [
     "Many people don’t even know that a lot of the popular everyday use apps are actually Progressive Web Apps.",
     "#ProgressiveWebApp #PWA #AppDevelopment #WebDevelopment #WebAppDevelopment #FutureAhead",
     "https://medium.com/@vpodk/progressive-web-apps-and-their-advantages-70d3e119f165"
@@ -188,5 +183,10 @@
     "The Holy Grail, in simple words, is a web page layout with multiple, columns having same heights and are specified with styling sheets.",
     "#Flexbox #CSS #WebDevelopment #Coding #Programming #100DaysOfCode",
     "https://levelup.gitconnected.com/clean-application-flexible-box-layout-98e439bb7d96"
+  ],
+  [
+    "🗄️ Implementation of an expirable data storage based on native Web Storage API.",
+    "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
+    "https://github.com/wayfair-incubator/expirable-storage"
   ]
 ]
