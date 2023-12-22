@@ -13,7 +13,7 @@ This experience allows me to code in most programming languages and technologies
 - [Pros and cons of using ChatGPT](https://vpodk.com/pros-and-cons-of-using-chatgpt/)
 - [Configure a Read Replica Database in Django](https://vpodk.com/configure-a-read-replica-database-in-django/)
 <!-- BLOG-POST-LIST:END -->
-- [more posts...](https://medium.com/@vpodk)
+- [more posts...](https://vpodk.com/)
 
 ### Connect with me
 Feel free to contact me on any social networks:
