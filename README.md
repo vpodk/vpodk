@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Think Twice Before Buying Indexed Universal Life &lpar;IUL&rpar; Insurance](https://vpodk.medium.com/indexed-universal-life-insurance-b3d7fe31b299?source=rss-22947912adc0------2)
-- [How Artificial Intelligence is Transforming Various Industries](https://vpodk.medium.com/how-artificial-intelligence-is-transforming-various-industries-ed10f86e57c4?source=rss-22947912adc0------2)
-- [Progressive Web Apps: Revolutionizing The Mobile Web Experience](https://vpodk.medium.com/pwa-revolutionizing-the-mobile-web-experience-a8586b17e2f4?source=rss-22947912adc0------2)
-- [Pros And Cons Of Using ChatGPT](https://vpodk.medium.com/pros-and-cons-of-using-chatgpt-ceb854dbd452?source=rss-22947912adc0------2)
-- [Configure a Read Replica Database in Django](https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1?source=rss-22947912adc0------2)
+- [Why You Should Think Twice Before Buying Indexed Universal Life &lpar;IUL&rpar; Insurance](https://vpodk.com/iul/)
+- [How Artificial Intelligence is Transforming Various Industries](https://vpodk.com/how-artificial-intelligence-is-transforming-various-industries/)
+- [Progressive Web Apps: Revolutionizing the Mobile Web Experience](https://vpodk.com/pwa-revolutionizing-the-mobile-web-experience/)
+- [Pros and cons of using ChatGPT](https://vpodk.com/pros-and-cons-of-using-chatgpt/)
+- [Configure a Read Replica Database in Django](https://vpodk.com/configure-a-read-replica-database-in-django/)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
