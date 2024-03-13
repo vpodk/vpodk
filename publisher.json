@@ -1,10 +1,5 @@
 [
   [
-    "Many people don’t even know that a lot of the popular everyday use apps are actually Progressive Web Apps.",
-    "#ProgressiveWebApp #PWA #AppDevelopment #WebDevelopment #WebAppDevelopment #FutureAhead",
-    "https://vpodk.com/progressive-web-apps-and-their-advantages/"
-  ],
-  [
     "Progressive Web Apps have revolutionized the mobile web experience by bridging the gap between traditional websites and native apps.",
     "#ProgressiveWebApp #PWA #AppDevelopment #WebDevelopment #WebAppDevelopment #FutureAhead",
     "https://vpodk.com/pwa-revolutionizing-the-mobile-web-experience/"
@@ -188,5 +183,10 @@
     "🗄️ Implementation of an expirable data storage based on native Web Storage API.",
     "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
     "https://github.com/wayfair-incubator/expirable-storage"
+  ],
+  [
+    "Many people don’t even know that a lot of the popular everyday use apps are actually Progressive Web Apps.",
+    "#ProgressiveWebApp #PWA #AppDevelopment #WebDevelopment #WebAppDevelopment #FutureAhead",
+    "https://vpodk.com/progressive-web-apps-and-their-advantages/"
   ]
 ]
