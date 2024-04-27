@@ -1,10 +1,5 @@
 [
   [
-    "The third part of a step-by-step tutorial to build a clean, lightweight, and extremely fast web application.",
-    "#CSS #WebDevelopment #WebAppDevelopment #Coding #Programming #UIDesign #100DaysOfCode",
-    "https://vpodk.com/clean-application-hamburger-menu/"
-  ],
-  [
     "In fact, all currently existing JavaScript frameworks and libraries are plugins for the 🍨 VanillaJS framework 🤓",
     "#JavaScript #React #Angular #Vuejs #Programming #VanillaJS #FutureAhead #100DaysOfCode",
     "https://vpodk.com/most-popular-javascript-frameworks/"
@@ -188,5 +183,10 @@
     "Multiple technologies related to 🤖 chatbots are already taking the markets in this world of growing technological enhancements.",
     "#Chatbots #SoftwareDevelopment #ChatbotDevelopment #Bots",
     "https://vpodk.com/building-chatbots-how-to-choose-the-best-platform/"
+  ],
+  [
+    "The third part of a step-by-step tutorial to build a clean, lightweight, and extremely fast web application.",
+    "#CSS #WebDevelopment #WebAppDevelopment #Coding #Programming #UIDesign #100DaysOfCode",
+    "https://vpodk.com/clean-application-hamburger-menu/"
   ]
 ]
