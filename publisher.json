@@ -1,10 +1,5 @@
 [
   [
-    "In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers.",
-    "#Algorithms #MachineLearning #DataScience #Programming #Perceptron #FutureAhead #100DaysOfCode",
-    "https://vpodk.com/what-is-perceptron-in-algorithms/"
-  ],
-  [
     "The future is now: How #AI is shaping industries - Healthcare, E-commerce, Robotics, Finance, Facial Recognition, and Marketing",
     "",
     "https://vpodk.com/how-artificial-intelligence-is-transforming-various-industries/"
@@ -188,5 +183,10 @@
     "How efficient is your algorithm?",
     "#Algorithms #BigO #BigONotation #Programming #Coding #DataScience #100DaysOfCode",
     "https://vpodk.com/understanding-big-o/"
+  ],
+  [
+    "In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers.",
+    "#Algorithms #MachineLearning #DataScience #Programming #Perceptron #FutureAhead #100DaysOfCode",
+    "https://vpodk.com/what-is-perceptron-in-algorithms/"
   ]
 ]
