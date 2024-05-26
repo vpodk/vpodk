@@ -1,10 +1,5 @@
 [
   [
-    "The Holy Grail, in simple words, is a web page layout with multiple, columns having same heights and are specified with styling sheets.",
-    "#Flexbox #CSS #WebDevelopment #Coding #Programming #100DaysOfCode",
-    "https://vpodk.com/clean-application-flexible-box-layout/"
-  ],
-  [
     "🗄️ Implementation of an expirable data storage based on native Web Storage API.",
     "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
     "https://github.com/wayfair-incubator/expirable-storage"
@@ -188,5 +183,10 @@
     "In order to pass programming interviews you need to solve algorithms and to solve algorithms you need data structures.",
     "#DataStructures #Algorithms #LinkedLists #Arrays #Hashmap #100DaysOfCode",
     "https://vpodk.com/data-structures-simplified-and-classified/"
+  ],
+  [
+    "The Holy Grail, in simple words, is a web page layout with multiple, columns having same heights and are specified with styling sheets.",
+    "#Flexbox #CSS #WebDevelopment #Coding #Programming #100DaysOfCode",
+    "https://vpodk.com/clean-application-flexible-box-layout/"
   ]
 ]
