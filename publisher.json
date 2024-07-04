@@ -1,5 +1,10 @@
 [
   [
+    "Discover why Indexed Universal Life (IUL) falls short as an investment choice and the compelling reasons to consider alternatives.",
+    "#IUL #InfiniteBanking #IndexedUniversalLife",
+    "https://vpodk.medium.com/indexed-universal-life-insurance-b3d7fe31b299"
+  ],
+  [
     "🗄️ Implementation of an expirable data storage based on native Web Storage API.",
     "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
     "https://github.com/wayfair-incubator/expirable-storage"
@@ -7,27 +12,27 @@
   [
     "Many people don’t even know that a lot of the popular everyday use apps are actually Progressive Web Apps.",
     "#ProgressiveWebApp #PWA #AppDevelopment #WebDevelopment #WebAppDevelopment #FutureAhead",
-    "https://vpodk.com/progressive-web-apps-and-their-advantages/"
+    "https://vpodk.medium.com/progressive-web-apps-and-their-advantages-70d3e119f165"
   ],
   [
     "Progressive Web Apps have revolutionized the mobile web experience by bridging the gap between traditional websites and native apps.",
     "#ProgressiveWebApp #PWA #AppDevelopment #WebDevelopment #WebAppDevelopment #FutureAhead",
-    "https://vpodk.com/pwa-revolutionizing-the-mobile-web-experience/"
+    "https://vpodk.medium.com/pwa-revolutionizing-the-mobile-web-experience-a8586b17e2f4"
   ],
   [
     "With so many applications available within the internet, learning new things everyday has never been easier.",
     "#Videos #YouTube #Tutorial #FutureAhead",
-    "https://vpodk.com/how-to-create-your-own-high-quality-video-in-4-simple-steps/"
+    "https://vpodk.medium.com/how-to-create-your-own-high-quality-video-in-4-simple-steps-c0db78f8c36c"
   ],
   [
     "Is implicit coercion evil and harmful? In certain cases, yes! In a broad sense, not really.",
     "#JavaScript #Programming #SoftwareDevelopment #Coding #WebDevelopment #100DaysOfCode",
-    "https://vpodk.com/javascript-loose-equals-and-strict-equals/"
+    "https://javascript.plainenglish.io/javascript-loose-equals-and-strict-equals-ab2144fcbe"
   ],
   [
     "The second part of step-by-step tutorial to build a clean, lightweight, and extremely fast web application.",
     "#CSS #WebDevelopment #WebAppDevelopment #Coding #Programming #100DaysOfCode",
-    "https://vpodk.com/clean-application-block-positions/"
+    "https://levelup.gitconnected.com/clean-application-block-positions-4e46fbb86674"
   ],
   [
     "Let us now focus on the 5 myths that are prevailing in the market pertaining to remote software development teams.",
@@ -37,32 +42,32 @@
   [
     "Multiple technologies related to 🤖 chatbots are already taking the markets in this world of growing technological enhancements.",
     "#Chatbots #SoftwareDevelopment #ChatbotDevelopment #Bots",
-    "https://vpodk.com/building-chatbots-how-to-choose-the-best-platform/"
+    "https://medium.com/datamart/building-chatbots-how-to-choose-the-best-platform-ac83364b075e"
   ],
   [
     "The third part of a step-by-step tutorial to build a clean, lightweight, and extremely fast web application.",
     "#CSS #WebDevelopment #WebAppDevelopment #Coding #Programming #UIDesign #100DaysOfCode",
-    "https://vpodk.com/clean-application-hamburger-menu/"
+    "https://levelup.gitconnected.com/clean-application-hamburger-menu-5736d4c459d9"
   ],
   [
     "In fact, all currently existing JavaScript frameworks and libraries are plugins for the 🍨 VanillaJS framework 🤓",
     "#JavaScript #React #Angular #Vuejs #Programming #VanillaJS #FutureAhead #100DaysOfCode",
-    "https://vpodk.com/most-popular-javascript-frameworks/"
+    "https://medium.com/swlh/most-popular-javascript-frameworks-in-2020-afefe8c7c6c5"
   ],
   [
     "How efficient is your algorithm?",
     "#Algorithms #BigO #BigONotation #Programming #Coding #DataScience #100DaysOfCode",
-    "https://vpodk.com/understanding-big-o/"
+    "https://medium.com/swlh/understanding-big-o-ff675cf63e11"
   ],
   [
     "In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers.",
     "#Algorithms #MachineLearning #DataScience #Programming #Perceptron #FutureAhead #100DaysOfCode",
-    "https://vpodk.com/what-is-perceptron-in-algorithms/"
+    "https://medium.com/swlh/what-are-perceptions-in-algorithms-1a587a2bd219"
   ],
   [
     "The future is now: How #AI is shaping industries - Healthcare, E-commerce, Robotics, Finance, Facial Recognition, and Marketing",
     "",
-    "https://vpodk.com/how-artificial-intelligence-is-transforming-various-industries/"
+    "https://vpodk.medium.com/how-artificial-intelligence-is-transforming-various-industries-ed10f86e57c4"
   ],
   [
     "🛂 Debouncing and throttling events module. Debounce and Throttle are two similar methods for controlling how many times we allow a function to run over time.",
@@ -72,12 +77,12 @@
   [
     "As of 2023, there is no better time to learn JavaScript.",
     "#JavaScript #Programming #Coding #Tutorial #FutureAhead #100DaysOfCode",
-    "https://vpodk.com/learn-javascript-basics-in-5-minutes/"
+    "https://vpodk.medium.com/learn-javascript-basics-in-5-minutes-443abbf71647"
   ],
   [
     "So now the question remains as to why we should choose hybrid apps over the native apps?",
     "#PWA #HybridApp #WebDevelopment #SoftwareDevelopment #MVP #WebAppDevelopment #FutureAhead",
-    "https://vpodk.com/5-reasons-to-build-hybrid-mobile-app/"
+    "https://vpodk.medium.com/5-reasons-to-build-hybrid-mobile-app-db94f885e99d"
   ],
   [
     "Without a doubt, hiring remote software engineers for your job has a lot of benefits.",
@@ -87,22 +92,12 @@
   [
     "The software engineering principles are proposed to maintain a standard discipline of software development and designing procedure.",
     "#SoftwareDevelopment #SoftwareEngineering #EngineeringPrinciples #100DaysOfCode",
-    "https://vpodk.com/principles-of-software-engineering/"
-  ],
-  [
-    "In the era of SaaS and cloud services #ParticlesAnalytics fills the gap for all enterprises which want to keep their web analytics data in-house.",
-    "#Analytics #WebAnalytics #FutureAhead",
-    "https://particles-analytics.com/about/"
+    "https://vpodk.medium.com/principles-of-software-engineering-6b702faf74a6"
   ],
   [
     "A large number of famous celebrities, politicians, authors, and other notable figures are from #Ukraine 🇺🇦 or have ties to the embattled nation. There are 10 celebrities you probably didn't know were of Ukrainian origin.",
     "#StandWithUkraine",
     "https://youtu.be/pA1UX_h0-Ys"
-  ],
-  [
-    "🛡️ Don't let layoffs take you by surprise. Stay proactive and informed by checking your employer's plans.",
-    "#JobShield #layoffs #laidoff #jobloss #career #job #work",
-    "https://jobshield.us/"
   ],
   [
     "The February 2022 invasion of Ukraine by Russian forces created an outcry in the international community. It's pleasant that famous people talk warmly about #Ukraine 🇺🇦 Do you know that some of them were of Ukrainian origin?",
@@ -115,14 +110,14 @@
     "https://youtu.be/WOSPylPufJA"
   ],
   [
-    "🍔 Simple lightweight react hamburger navigation drawer.",
-    "#React #JavaScript #Programming #Coding #OpenSource #100DaysOfCode",
-    "https://github.com/Datamart/react-hamburger-drawer"
+    "🛡️ Don't let layoffs take you by surprise. Stay proactive and informed by checking your employer's plans.",
+    "#JobShield #layoffs #laidoff #jobloss #career #job #work",
+    "https://jobshield.us/"
   ],
   [
-    "Read your favorite authors, influencers and brands, follow your interests by topics and hashtags. Enjoy this app anonymously, securely, free of charge, without sign-up and ads.",
-    "",
-    "https://anonace.com"
+    "🍔 Simple lightweight react hamburger navigation drawer.",
+    "#React #JavaScript #Programming #Coding #OpenSource #100DaysOfCode",
+    "https://github.com/vpodk/react-hamburger-drawer"
   ],
   [
     "UI and UX are two terms often used interchangeably. Although there are some important fundamental differences between both. Learn more about #UI vs #UX.",
@@ -132,7 +127,7 @@
   [
     "The procedure to turn on read replicas instances within #Django is quite straight-forward.",
     "",
-    "https://vpodk.com/configure-a-read-replica-database-in-django/"
+    "https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1"
   ],
   [
     "Integrating and configuring #KomitoAnalytics to the websites has become much easier than ever with #npm package!",
@@ -172,21 +167,21 @@
   [
     "Explore the pros and cons of using #ChatGPT as a conversational #AI tool.",
     "",
-    "https://vpodk.com/pros-and-cons-of-using-chatgpt/"
+    "https://vpodk.medium.com/pros-and-cons-of-using-chatgpt-ceb854dbd452"
   ],
   [
     "This article will detail out the most crucial tips and tricks to design your resume, so as to get an edge over the usual applicants while applying for a position of interest.",
     "#Resume #Careers #Jobs #FutureAhead",
-    "https://vpodk.com/how-to-increase-your-chances-of-getting-a-job/"
+    "https://vpodk.medium.com/how-to-increase-your-chances-of-getting-a-job-254c97c3b448"
   ],
   [
     "In order to pass programming interviews you need to solve algorithms and to solve algorithms you need data structures.",
     "#DataStructures #Algorithms #LinkedLists #Arrays #Hashmap #100DaysOfCode",
-    "https://vpodk.com/data-structures-simplified-and-classified/"
+    "https://towardsdatascience.com/data-structures-simplified-and-classified-e0c1e304436b"
   ],
   [
     "The Holy Grail, in simple words, is a web page layout with multiple, columns having same heights and are specified with styling sheets.",
     "#Flexbox #CSS #WebDevelopment #Coding #Programming #100DaysOfCode",
-    "https://vpodk.com/clean-application-flexible-box-layout/"
+    "https://levelup.gitconnected.com/clean-application-flexible-box-layout-98e439bb7d96"
   ]
 ]
