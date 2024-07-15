@@ -1,10 +1,5 @@
 [
   [
-    "How efficient is your algorithm?",
-    "#Algorithms #BigO #BigONotation #Programming #Coding #DataScience #100DaysOfCode",
-    "https://medium.com/swlh/understanding-big-o-ff675cf63e11"
-  ],
-  [
     "In machine learning, the perceptron is an algorithm for supervised learning of binary classifiers.",
     "#Algorithms #MachineLearning #DataScience #Programming #Perceptron #FutureAhead #100DaysOfCode",
     "https://medium.com/swlh/what-are-perceptions-in-algorithms-1a587a2bd219"
@@ -183,5 +178,10 @@
     "In fact, all currently existing JavaScript frameworks and libraries are plugins for the 🍨 VanillaJS framework 🤓",
     "#JavaScript #React #Angular #Vuejs #Programming #VanillaJS #FutureAhead #100DaysOfCode",
     "https://medium.com/swlh/most-popular-javascript-frameworks-in-2020-afefe8c7c6c5"
+  ],
+  [
+    "How efficient is your algorithm?",
+    "#Algorithms #BigO #BigONotation #Programming #Coding #DataScience #100DaysOfCode",
+    "https://medium.com/swlh/understanding-big-o-ff675cf63e11"
   ]
 ]
