@@ -13,7 +13,7 @@ This experience allows me to code in most programming languages and technologies
 - [IT Budgets See Modest Increases Amid Economic Uncertainty](https://medium.com/majordigest/it-budgets-see-modest-increases-amid-economic-uncertainty-4d70fd2952e4?source=rss-22947912adc0------2)
 - [Uber, Waymo Partner to Offer Robotaxis in Atlanta and Austin](https://medium.com/majordigest/uber-waymo-partner-to-offer-robotaxis-in-atlanta-and-austin-68677dff0373?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
-- [more posts...](https://vpodk.com/)
+- [more posts...](https://medium.com/@vpodk)
 
 ### Connect with me
 Feel free to contact me on any social networks:
@@ -24,6 +24,7 @@ Feel free to contact me on any social networks:
 [<img align="left" alt="vpodk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vpodk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vpodk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="vpodk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium" />][medium]
 [<img align="left" alt="vpodk | Buy me a coffee" height="24px" src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" />][buymeacoffee]
 <br>
 
@@ -34,4 +35,5 @@ Feel free to contact me on any social networks:
 [instagram]: https://instagram.com/vpodk
 [linkedin]: https://linkedin.com/in/vpodk
 [facebook]: https://facebook.com/vpodk
+[medium]: https://medium.com/@vpodk
 [buymeacoffee]: https://www.buymeacoffee.com/vpodk
