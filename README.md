@@ -24,7 +24,7 @@ Feel free to contact me on any social networks:
 [<img align="left" alt="vpodk | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vpodk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="vpodk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
-[<img align="left" alt="vpodk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium" />][medium]
+[<img align="left" alt="vpodk | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="vpodk | Buy me a coffee" height="24px" src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" />][buymeacoffee]
 <br>
 
