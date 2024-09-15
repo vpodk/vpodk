@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Think Twice Before Buying Indexed Universal Life &lpar;IUL&rpar; Insurance](https://vpodk.com/iul/)
-- [How Artificial Intelligence is Transforming Various Industries](https://vpodk.com/how-artificial-intelligence-is-transforming-various-industries/)
-- [Progressive Web Apps: Revolutionizing the Mobile Web Experience](https://vpodk.com/pwa-revolutionizing-the-mobile-web-experience/)
-- [Pros and cons of using ChatGPT](https://vpodk.com/pros-and-cons-of-using-chatgpt/)
-- [Configure a Read Replica Database in Django](https://vpodk.com/configure-a-read-replica-database-in-django/)
+- [The Plaud NotePin: A Glimpse into a Future of AI-Powered Memory](https://medium.com/majordigest/the-plaud-notepin-a-glimpse-into-a-future-of-ai-powered-memory-97bacd98e292?source=rss-22947912adc0------2)
+- [Vape Companies Failing to Warn of Health Risks on Instagram](https://medium.com/majordigest/vape-companies-failing-to-warn-of-health-risks-on-instagram-17b254cea141?source=rss-22947912adc0------2)
+- [Crypto Expansion Under Trump: World Liberty Financial Set for Launch](https://medium.com/majordigest/crypto-expansion-under-trump-world-liberty-financial-set-for-launch-229b560b4def?source=rss-22947912adc0------2)
+- [IT Budgets See Modest Increases Amid Economic Uncertainty](https://medium.com/majordigest/it-budgets-see-modest-increases-amid-economic-uncertainty-4d70fd2952e4?source=rss-22947912adc0------2)
+- [Uber, Waymo Partner to Offer Robotaxis in Atlanta and Austin](https://medium.com/majordigest/uber-waymo-partner-to-offer-robotaxis-in-atlanta-and-austin-68677dff0373?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://vpodk.com/)
 
