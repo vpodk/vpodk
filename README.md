@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Amazon Reverts to Pre-Pandemic Office Policy: Employees Must Work Five Days a Week](https://medium.com/majordigest/amazon-reverts-to-pre-pandemic-office-policy-employees-must-work-five-days-a-week-0fd5838d552b?source=rss-22947912adc0------2)
+- [Intel Surges as Chipmaker Partners with Amazon Web Services for AI Chips](https://medium.com/majordigest/intel-surges-as-chipmaker-partners-with-amazon-web-services-for-ai-chips-78b5141449e1?source=rss-22947912adc0------2)
+- [The Great European App Store Experiment: A New Era of Competition and Risk](https://medium.com/majordigest/the-great-european-app-store-experiment-a-new-era-of-competition-and-risk-b030458649f4?source=rss-22947912adc0------2)
+- [Google Faces EU Inquiry Over AI Data Use — Tech Giant’s Growing Regulatory Woes](https://medium.com/majordigest/google-faces-eu-inquiry-over-ai-data-use-tech-giants-growing-regulatory-woes-99b8d06acba9?source=rss-22947912adc0------2)
 - [Parallels Hits Version 20: Revolutionizing AI Development and Windows Experience](https://medium.com/majordigest/parallels-hits-version-20-revolutionizing-ai-development-and-windows-experience-6e6642215791?source=rss-22947912adc0------2)
-- [iOS 18: A Game-Changer for Enterprise Users — Apple’s Latest Mobile Operating System](https://medium.com/majordigest/ios-18-a-game-changer-for-enterprise-users-apples-latest-mobile-operating-system-c2ab99ba9317?source=rss-22947912adc0------2)
-- [The Ethernet Switch Market: A Boost from Cloud Providers and AI Workloads](https://medium.com/majordigest/the-ethernet-switch-market-a-boost-from-cloud-providers-and-ai-workloads-4def244c0f85?source=rss-22947912adc0------2)
-- [Biden Admin Officials Meet with AI Leaders to Discuss Data Center Development](https://medium.com/majordigest/biden-admin-officials-meet-with-ai-leaders-to-discuss-data-center-development-3e6218abba24?source=rss-22947912adc0------2)
-- [Unlock Productivity with Google Workspace and Microsoft Office](https://medium.com/majordigest/unlock-productivity-with-google-workspace-and-microsoft-office-6d9b6e320c9e?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
