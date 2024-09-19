@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Australian Police Infiltrate Encrypted App, Dozens Arrested](https://medium.com/majordigest/australian-police-infiltrate-encrypted-app-dozens-arrested-global-crackdown-2bcb393ce5d9?source=rss-22947912adc0------2)
+- [Trump’s Cryptocurrency Platform: A Shift for the Former President](https://medium.com/majordigest/trumps-cryptocurrency-platform-a-shift-for-the-former-president-8b1f6cd90318?source=rss-22947912adc0------2)
+- [Lawmakers Introduce Bill to Regulate AI in Politics](https://medium.com/majordigest/lawmakers-introduce-bill-to-regulate-ai-in-politics-1d762c8bcd55?source=rss-22947912adc0------2)
 - [Amazon Reverts to Pre-Pandemic Office Policy: Employees Must Work Five Days a Week](https://medium.com/majordigest/amazon-reverts-to-pre-pandemic-office-policy-employees-must-work-five-days-a-week-0fd5838d552b?source=rss-22947912adc0------2)
 - [Intel Surges as Chipmaker Partners with Amazon Web Services for AI Chips](https://medium.com/majordigest/intel-surges-as-chipmaker-partners-with-amazon-web-services-for-ai-chips-78b5141449e1?source=rss-22947912adc0------2)
-- [The Great European App Store Experiment: A New Era of Competition and Risk](https://medium.com/majordigest/the-great-european-app-store-experiment-a-new-era-of-competition-and-risk-b030458649f4?source=rss-22947912adc0------2)
-- [Google Faces EU Inquiry Over AI Data Use — Tech Giant’s Growing Regulatory Woes](https://medium.com/majordigest/google-faces-eu-inquiry-over-ai-data-use-tech-giants-growing-regulatory-woes-99b8d06acba9?source=rss-22947912adc0------2)
-- [Parallels Hits Version 20: Revolutionizing AI Development and Windows Experience](https://medium.com/majordigest/parallels-hits-version-20-revolutionizing-ai-development-and-windows-experience-6e6642215791?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
