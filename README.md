@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Regulation on the Agenda as Senate Judiciary Subcommittees Hear Former Google and OpenAI…](https://medium.com/majordigest/ai-regulation-on-the-agenda-as-senate-judiciary-subcommittees-hear-former-google-and-openai-96bccbd355e9?source=rss-22947912adc0------2)
+- [California Cracks Down on Election Deepfakes with New Laws](https://medium.com/majordigest/california-cracks-down-on-election-deepfakes-with-new-laws-e95e0a22de47?source=rss-22947912adc0------2)
+- [The Rise of Misinformation: Elon Musk’s X Platform and the Threat to Election Integrity](https://medium.com/majordigest/the-rise-of-misinformation-elon-musks-x-platform-and-the-threat-to-election-integrity-92111a2c10e2?source=rss-22947912adc0------2)
 - [Australian Police Infiltrate Encrypted App, Dozens Arrested](https://medium.com/majordigest/australian-police-infiltrate-encrypted-app-dozens-arrested-global-crackdown-2bcb393ce5d9?source=rss-22947912adc0------2)
 - [Trump’s Cryptocurrency Platform: A Shift for the Former President](https://medium.com/majordigest/trumps-cryptocurrency-platform-a-shift-for-the-former-president-8b1f6cd90318?source=rss-22947912adc0------2)
-- [Lawmakers Introduce Bill to Regulate AI in Politics](https://medium.com/majordigest/lawmakers-introduce-bill-to-regulate-ai-in-politics-1d762c8bcd55?source=rss-22947912adc0------2)
-- [Amazon Reverts to Pre-Pandemic Office Policy: Employees Must Work Five Days a Week](https://medium.com/majordigest/amazon-reverts-to-pre-pandemic-office-policy-employees-must-work-five-days-a-week-0fd5838d552b?source=rss-22947912adc0------2)
-- [Intel Surges as Chipmaker Partners with Amazon Web Services for AI Chips](https://medium.com/majordigest/intel-surges-as-chipmaker-partners-with-amazon-web-services-for-ai-chips-78b5141449e1?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
