@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [SEC Plans Reprimand for Elon Musk Over Canceled Testimony](https://medium.com/majordigest/sec-plans-reprimand-for-elon-musk-over-canceled-testimony-29e6ab5d42f5?source=rss-22947912adc0------2)
+- [NASA Awards $4.82 Billion Contract to Intuitive Machines for Lunar Communications Network](https://medium.com/majordigest/nasa-awards-4-82-billion-contract-to-intuitive-machines-for-lunar-communications-network-561ed20c240b?source=rss-22947912adc0------2)
+- [Microsoft Unveils Python Data Science Extension Pack for Visual Studio Code](https://medium.com/majordigest/microsoft-unveils-python-data-science-extension-pack-for-visual-studio-code-9d92135c9996?source=rss-22947912adc0------2)
 - [Government Agency Avoids New Rulemaking on AI in Federal Elections](https://medium.com/majordigest/government-agency-avoids-new-rulemaking-on-ai-in-federal-elections-e4d444e60202?source=rss-22947912adc0------2)
 - [Ukraine Bans Government Officials from Using Telegram Amid National Security Concerns](https://medium.com/majordigest/ukraine-bans-government-officials-from-using-telegram-amid-national-security-concerns-f04ae51f829c?source=rss-22947912adc0------2)
-- [iPhone RCS Support: GSMA Promises End-to-End Encryption to Protect Cross-Platform Messages](https://medium.com/majordigest/iphone-rcs-support-gsma-promises-end-to-end-encryption-to-protect-cross-platform-messages-a3cd7cc012c8?source=rss-22947912adc0------2)
-- [Revolutionizing Wildfire Detection: FireSat’s High-Tech Solution](https://medium.com/majordigest/revolutionizing-wildfire-detection-firesats-high-tech-solution-9fc95ff51519?source=rss-22947912adc0------2)
-- [AI Regulation on the Agenda as Senate Judiciary Subcommittees Hear Former Google and OpenAI…](https://medium.com/majordigest/ai-regulation-on-the-agenda-as-senate-judiciary-subcommittees-hear-former-google-and-openai-96bccbd355e9?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
