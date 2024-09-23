@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Nuclear Power: Microsoft and Constellation Energy Team Up for Carbon-Free Energy](https://medium.com/majordigest/the-future-of-nuclear-power-microsoft-and-constellation-energy-team-up-for-carbon-free-energy-25108c0662cb?source=rss-22947912adc0------2)
+- [New Garmin Dash Cams Offer Enhanced Features and Choice — A Guide](https://medium.com/majordigest/new-garmin-dash-cams-offer-enhanced-features-and-choice-a-guide-ca64b7a7defb?source=rss-22947912adc0------2)
+- [Cruise Resumes Robotaxi Testing in California After Year-Long Hiatus](https://medium.com/majordigest/cruise-resumes-robotaxi-testing-in-california-after-year-long-hiatus-e8b5dd24665c?source=rss-22947912adc0------2)
+- [Google Defends Against Monopoly Allegations in Antitrust Trial](https://medium.com/majordigest/google-defends-against-monopoly-allegations-in-antitrust-trial-a939d890cf2d?source=rss-22947912adc0------2)
 - [SEC Plans Reprimand for Elon Musk Over Canceled Testimony](https://medium.com/majordigest/sec-plans-reprimand-for-elon-musk-over-canceled-testimony-29e6ab5d42f5?source=rss-22947912adc0------2)
-- [NASA Awards $4.82 Billion Contract to Intuitive Machines for Lunar Communications Network](https://medium.com/majordigest/nasa-awards-4-82-billion-contract-to-intuitive-machines-for-lunar-communications-network-561ed20c240b?source=rss-22947912adc0------2)
-- [Microsoft Unveils Python Data Science Extension Pack for Visual Studio Code](https://medium.com/majordigest/microsoft-unveils-python-data-science-extension-pack-for-visual-studio-code-9d92135c9996?source=rss-22947912adc0------2)
-- [Government Agency Avoids New Rulemaking on AI in Federal Elections](https://medium.com/majordigest/government-agency-avoids-new-rulemaking-on-ai-in-federal-elections-e4d444e60202?source=rss-22947912adc0------2)
-- [Ukraine Bans Government Officials from Using Telegram Amid National Security Concerns](https://medium.com/majordigest/ukraine-bans-government-officials-from-using-telegram-amid-national-security-concerns-f04ae51f829c?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
