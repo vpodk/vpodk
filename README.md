@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity Red Teams: Enhancing Backup System Security](https://medium.com/majordigest/cybersecurity-red-teams-enhancing-backup-system-security-638c334fe814?source=rss-22947912adc0------2)
+- [Selector AI Unveils Network Language Model and Enhances Digital Twin Capabilities](https://medium.com/majordigest/selector-ai-unveils-network-language-model-and-enhances-digital-twin-capabilities-abde76e263aa?source=rss-22947912adc0------2)
 - [Google Privacy Settlement Sparks Controversy as Republican-Led States Challenge $62 Million Award](https://medium.com/majordigest/google-privacy-settlement-sparks-controversy-as-republican-led-states-challenge-62-million-award-abb289459aca?source=rss-22947912adc0------2)
 - [Bolstering Supply Chain Security: House Lawmakers Advance Key Bills](https://medium.com/majordigest/bolstering-supply-chain-security-house-lawmakers-advance-key-bills-1beb0e138a45?source=rss-22947912adc0------2)
 - [The Future of Nuclear Power: Microsoft and Constellation Energy Team Up for Carbon-Free Energy](https://medium.com/majordigest/the-future-of-nuclear-power-microsoft-and-constellation-energy-team-up-for-carbon-free-energy-25108c0662cb?source=rss-22947912adc0------2)
-- [New Garmin Dash Cams Offer Enhanced Features and Choice — A Guide](https://medium.com/majordigest/new-garmin-dash-cams-offer-enhanced-features-and-choice-a-guide-ca64b7a7defb?source=rss-22947912adc0------2)
-- [Cruise Resumes Robotaxi Testing in California After Year-Long Hiatus](https://medium.com/majordigest/cruise-resumes-robotaxi-testing-in-california-after-year-long-hiatus-e8b5dd24665c?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
