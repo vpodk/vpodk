@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [San Jose Fosters Artificial Intelligence Ecosystem Amid Growing Tech Clusters](https://medium.com/majordigest/san-jose-fosters-artificial-intelligence-ecosystem-amid-growing-tech-clusters-e8dbcc9044f5?source=rss-22947912adc0------2)
+- [AI Advancements Raise Questions: Storming Meteorology, Police Reports, and Superintelligence](https://medium.com/majordigest/ai-advancements-raise-questions-storming-meteorology-police-reports-and-superintelligence-87b291898aca?source=rss-22947912adc0------2)
+- [Intel Nears $8.5 Billion Funding Deal with US Government Amid Global Competition](https://medium.com/majordigest/intel-nears-8-5-billion-funding-deal-with-us-government-amid-global-competition-529d24456db0?source=rss-22947912adc0------2)
+- [Why You Still Need a VPN on Your Cellular Network](https://medium.com/majordigest/why-you-still-need-a-vpn-on-your-cellular-network-c02cb73051b3?source=rss-22947912adc0------2)
 - [Ring Invites Users to Share Paranormal Activity Videos for $100,000 Prize](https://medium.com/majordigest/ring-invites-users-to-share-paranormal-activity-videos-for-100-000-prize-6f1badaadbb5?source=rss-22947912adc0------2)
-- [OpenAI’s Shift from Nonprofit to For-Profit: A New Era for the AI Giant?](https://medium.com/majordigest/openais-shift-from-nonprofit-to-for-profit-a-new-era-for-the-ai-giant-d7727e4589f3?source=rss-22947912adc0------2)
-- [The Evolution of Self-Checkout: A New Era for Retailers?](https://medium.com/majordigest/the-evolution-of-self-checkout-a-new-era-for-retailers-adc6f43ee3e8?source=rss-22947912adc0------2)
-- [The Great WordPress Hostage Crisis: A Billion-Dollar Battle for Control](https://medium.com/majordigest/the-great-wordpress-hostage-crisis-a-billion-dollar-battle-for-control-aaf478d273cd?source=rss-22947912adc0------2)
-- [Microsoft Expands Global Footprint with New Engineering Center in Abu Dhabi](https://medium.com/majordigest/microsoft-expands-global-footprint-with-new-engineering-center-in-abu-dhabi-7868b0f8106b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
