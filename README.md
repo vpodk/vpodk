@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nationwide Phone Service Outages Reported Across the US](https://medium.com/majordigest/nationwide-phone-service-outages-reported-across-the-us-cce00e017bc4?source=rss-22947912adc0------2)
+- [Cruise Ship Jumboization: The Ingenious Way Cruise Lines Expand Existing Vessels](https://medium.com/majordigest/cruise-ship-jumboization-the-ingenious-way-cruise-lines-expand-existing-vessels-3ac3dfa57c48?source=rss-22947912adc0------2)
 - [San Jose Fosters Artificial Intelligence Ecosystem Amid Growing Tech Clusters](https://medium.com/majordigest/san-jose-fosters-artificial-intelligence-ecosystem-amid-growing-tech-clusters-e8dbcc9044f5?source=rss-22947912adc0------2)
 - [AI Advancements Raise Questions: Storming Meteorology, Police Reports, and Superintelligence](https://medium.com/majordigest/ai-advancements-raise-questions-storming-meteorology-police-reports-and-superintelligence-87b291898aca?source=rss-22947912adc0------2)
 - [Intel Nears $8.5 Billion Funding Deal with US Government Amid Global Competition](https://medium.com/majordigest/intel-nears-8-5-billion-funding-deal-with-us-government-amid-global-competition-529d24456db0?source=rss-22947912adc0------2)
-- [Why You Still Need a VPN on Your Cellular Network](https://medium.com/majordigest/why-you-still-need-a-vpn-on-your-cellular-network-c02cb73051b3?source=rss-22947912adc0------2)
-- [Ring Invites Users to Share Paranormal Activity Videos for $100,000 Prize](https://medium.com/majordigest/ring-invites-users-to-share-paranormal-activity-videos-for-100-000-prize-6f1badaadbb5?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
