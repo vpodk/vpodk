@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Wing and Serve Robotics Partner on Autonomous Delivery Pilot in Dallas](https://medium.com/majordigest/wing-and-serve-robotics-partner-on-autonomous-delivery-pilot-in-dallas-5141366c8abf?source=rss-22947912adc0------2)
+- [Motorola Expands Business Phone Portfolio with Two New Devices](https://medium.com/majordigest/motorola-expands-business-phone-portfolio-with-two-new-devices-5bcfdf69ca31?source=rss-22947912adc0------2)
+- [iPhone Mirroring: Revolutionizing the Way You Use Your iPhone on Your Mac](https://medium.com/majordigest/iphone-mirroring-revolutionizing-the-way-you-use-your-iphone-on-your-mac-9e1049435b4b?source=rss-22947912adc0------2)
 - [Arkansas Sues YouTube and Alphabet Over Mental Health Crisis Among Youth](https://medium.com/majordigest/arkansas-sues-youtube-and-alphabet-over-mental-health-crisis-among-youth-b7efdd730ebd?source=rss-22947912adc0------2)
 - [Nationwide Phone Service Outages Reported Across the US](https://medium.com/majordigest/nationwide-phone-service-outages-reported-across-the-us-cce00e017bc4?source=rss-22947912adc0------2)
-- [Cruise Ship Jumboization: The Ingenious Way Cruise Lines Expand Existing Vessels](https://medium.com/majordigest/cruise-ship-jumboization-the-ingenious-way-cruise-lines-expand-existing-vessels-3ac3dfa57c48?source=rss-22947912adc0------2)
-- [San Jose Fosters Artificial Intelligence Ecosystem Amid Growing Tech Clusters](https://medium.com/majordigest/san-jose-fosters-artificial-intelligence-ecosystem-amid-growing-tech-clusters-e8dbcc9044f5?source=rss-22947912adc0------2)
-- [AI Advancements Raise Questions: Storming Meteorology, Police Reports, and Superintelligence](https://medium.com/majordigest/ai-advancements-raise-questions-storming-meteorology-police-reports-and-superintelligence-87b291898aca?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
