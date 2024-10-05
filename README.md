@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elder Fraud: A Growing Concern in the United States](https://medium.com/majordigest/elder-fraud-a-growing-concern-in-the-united-states-f93a3f72592d?source=rss-22947912adc0------2)
 - [X’s Value Plummets After Musk Takeover](https://medium.com/majordigest/xs-value-plummets-after-musk-takeover-aaa1aeb56b6d?source=rss-22947912adc0------2)
 - [The Unseen Opportunities in AI: How Call Centers Are Revolutionizing Customer Service](https://medium.com/majordigest/the-unseen-opportunities-in-ai-how-call-centers-are-revolutionizing-customer-service-1a76d1260152?source=rss-22947912adc0------2)
 - [Hurricane Helene’s Devastation: Apple’s Satellite Messaging Features Shine a Light](https://medium.com/majordigest/hurricane-helenes-devastation-apple-s-satellite-messaging-features-shine-a-light-5d3e1012cc0c?source=rss-22947912adc0------2)
 - [Tackling “Celeb Bait” Scams: Meta’s Efforts to Combat Financial Crimes on Social Media](https://medium.com/majordigest/tackling-celeb-bait-scams-metas-efforts-to-combat-financial-crimes-on-social-media-e39736ff96d3?source=rss-22947912adc0------2)
-- [Tesla Sees Global Deliveries Increase in Q3 Amid Low-Interest Financing and Price Cuts](https://medium.com/majordigest/tesla-sees-global-deliveries-increase-in-q3-amid-low-interest-financing-and-price-cuts-ae70f59b39ca?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
