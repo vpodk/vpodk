@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elder Fraud: A Growing Concern in the United States](https://medium.com/majordigest/elder-fraud-a-growing-concern-in-the-united-states-f93a3f72592d?source=rss-22947912adc0------2)
-- [X’s Value Plummets After Musk Takeover](https://medium.com/majordigest/xs-value-plummets-after-musk-takeover-aaa1aeb56b6d?source=rss-22947912adc0------2)
-- [The Unseen Opportunities in AI: How Call Centers Are Revolutionizing Customer Service](https://medium.com/majordigest/the-unseen-opportunities-in-ai-how-call-centers-are-revolutionizing-customer-service-1a76d1260152?source=rss-22947912adc0------2)
-- [Hurricane Helene’s Devastation: Apple’s Satellite Messaging Features Shine a Light](https://medium.com/majordigest/hurricane-helenes-devastation-apple-s-satellite-messaging-features-shine-a-light-5d3e1012cc0c?source=rss-22947912adc0------2)
-- [Tackling “Celeb Bait” Scams: Meta’s Efforts to Combat Financial Crimes on Social Media](https://medium.com/majordigest/tackling-celeb-bait-scams-metas-efforts-to-combat-financial-crimes-on-social-media-e39736ff96d3?source=rss-22947912adc0------2)
+- [Apple Intelligence: What You Need to Know](https://medium.com/majordigest/apple-intelligence-what-you-need-to-know-1b3eb9aa041e?source=rss-22947912adc0------2)
+- [Generative AI in Healthcare: A Survey Reveals Company Size Matters](https://medium.com/majordigest/generative-ai-in-healthcare-a-survey-reveals-company-size-matters-0a49fbea6a10?source=rss-22947912adc0------2)
+- [Meta Unveils Movie Gen: AI Tool Creates Realistic Video and Audio Clips](https://medium.com/majordigest/meta-unveils-movie-gen-ai-tool-creates-realistic-video-and-audio-clips-d47e9dfcd509?source=rss-22947912adc0------2)
+- [Uber and Lyft Fund Opposition to San Francisco’s Proposition L](https://medium.com/majordigest/uber-and-lyft-fund-opposition-to-san-franciscos-proposition-l-8173e810b991?source=rss-22947912adc0------2)
+- [Waymo Expands US Operations with Hyundai Partnership — Exclusive Electric Vehicle Deal](https://medium.com/majordigest/waymo-expands-us-operations-with-hyundai-partnership-exclusive-electric-vehicle-deal-c02074086816?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
