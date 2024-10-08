@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Apple Intelligence: What You Need to Know](https://medium.com/majordigest/apple-intelligence-what-you-need-to-know-1b3eb9aa041e?source=rss-22947912adc0------2)
-- [Generative AI in Healthcare: A Survey Reveals Company Size Matters](https://medium.com/majordigest/generative-ai-in-healthcare-a-survey-reveals-company-size-matters-0a49fbea6a10?source=rss-22947912adc0------2)
-- [Meta Unveils Movie Gen: AI Tool Creates Realistic Video and Audio Clips](https://medium.com/majordigest/meta-unveils-movie-gen-ai-tool-creates-realistic-video-and-audio-clips-d47e9dfcd509?source=rss-22947912adc0------2)
-- [Uber and Lyft Fund Opposition to San Francisco’s Proposition L](https://medium.com/majordigest/uber-and-lyft-fund-opposition-to-san-franciscos-proposition-l-8173e810b991?source=rss-22947912adc0------2)
-- [Waymo Expands US Operations with Hyundai Partnership — Exclusive Electric Vehicle Deal](https://medium.com/majordigest/waymo-expands-us-operations-with-hyundai-partnership-exclusive-electric-vehicle-deal-c02074086816?source=rss-22947912adc0------2)
+- [IRS Expands Free Tax Filing Program, Reaching Millions More Taxpayers](https://medium.com/majordigest/irs-expands-free-tax-filing-program-reaching-millions-more-taxpayers-e4483fa4a00c?source=rss-22947912adc0------2)
+- [The Ultimate Showdown: AirPods 4 vs AirPods Pro 2 — Which One Reigns Supreme?](https://medium.com/majordigest/the-ultimate-showdown-airpods-4-vs-airpods-pro-2-which-one-reigns-supreme-54c30c5d4741?source=rss-22947912adc0------2)
+- [The Stability Issues with Intel’s 13th and 14th-gen CPUs: Fully Fixed, but Concerns Remain](https://medium.com/majordigest/the-stability-issues-with-intels-13th-and-14th-gen-cpus-fully-fixed-but-concerns-remain-5a178ae54aeb?source=rss-22947912adc0------2)
+- [AI Grifters or Innovators: Y Combinator’s PearAI Raises Questions](https://medium.com/majordigest/ai-grifters-or-innovators-y-combinators-pearai-raises-questions-9f4d006bc12a?source=rss-22947912adc0------2)
+- [Nvidia and IBM Cloud Partner on AI Implementations with Expanded Access to GPUs](https://medium.com/majordigest/nvidia-and-ibm-cloud-partner-on-ai-implementations-with-expanded-access-to-gpus-9af000aed709?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
