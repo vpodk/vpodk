@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [X’s Appeal Denied: Supreme Court Declines to Hear Case Over Search Warrant](https://medium.com/majordigest/xs-appeal-denied-supreme-court-declines-to-hear-case-over-search-warrant-9d7e299f7818?source=rss-22947912adc0------2)
+- [Water Utility Giant Hit by Hackers: Cybersecurity Concerns Rise](https://medium.com/majordigest/water-utility-giant-hit-by-hackers-cybersecurity-concerns-rise-dc40c65d3558?source=rss-22947912adc0------2)
+- [Amazon Faces Antitrust Lawsuit from FTC: What’s Next?](https://medium.com/majordigest/amazon-faces-antitrust-lawsuit-from-ftc-whats-next-f81489c483d2?source=rss-22947912adc0------2)
 - [IRS Expands Free Tax Filing Program, Reaching Millions More Taxpayers](https://medium.com/majordigest/irs-expands-free-tax-filing-program-reaching-millions-more-taxpayers-e4483fa4a00c?source=rss-22947912adc0------2)
 - [The Ultimate Showdown: AirPods 4 vs AirPods Pro 2 — Which One Reigns Supreme?](https://medium.com/majordigest/the-ultimate-showdown-airpods-4-vs-airpods-pro-2-which-one-reigns-supreme-54c30c5d4741?source=rss-22947912adc0------2)
-- [The Stability Issues with Intel’s 13th and 14th-gen CPUs: Fully Fixed, but Concerns Remain](https://medium.com/majordigest/the-stability-issues-with-intels-13th-and-14th-gen-cpus-fully-fixed-but-concerns-remain-5a178ae54aeb?source=rss-22947912adc0------2)
-- [AI Grifters or Innovators: Y Combinator’s PearAI Raises Questions](https://medium.com/majordigest/ai-grifters-or-innovators-y-combinators-pearai-raises-questions-9f4d006bc12a?source=rss-22947912adc0------2)
-- [Nvidia and IBM Cloud Partner on AI Implementations with Expanded Access to GPUs](https://medium.com/majordigest/nvidia-and-ibm-cloud-partner-on-ai-implementations-with-expanded-access-to-gpus-9af000aed709?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
