@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Under Fire: DOJ Considers Breaking Up Tech Giant](https://medium.com/majordigest/google-under-fire-doj-considers-breaking-up-tech-giant-287b88bb8ed0?source=rss-22947912adc0------2)
-- [Facebook Funeral Scam: How to Protect Yourself](https://medium.com/majordigest/facebook-funeral-scam-how-to-protect-yourself-a4a1dd842a21?source=rss-22947912adc0------2)
-- [Solar Radiation Storm Hits Earth: What You Need to Know](https://medium.com/majordigest/solar-radiation-storm-hits-earth-what-you-need-to-know-dbc94dacc2eb?source=rss-22947912adc0------2)
-- [Spruce Pine Quartz Production Resumes After Hurricane Helene](https://medium.com/majordigest/spruce-pine-quartz-production-resumes-after-hurricane-helene-d2e29eb4af08?source=rss-22947912adc0------2)
-- [TikTok Lawsuits: 14 Attorneys General File Action Against Platform Over Mental Health Concerns](https://medium.com/majordigest/tiktok-lawsuits-14-attorneys-general-file-action-against-platform-over-mental-health-concerns-efa2ddb4137c?source=rss-22947912adc0------2)
+- [Microsoft Ends Support for Surface Laptop Go: What it Means for Customers](https://medium.com/majordigest/microsoft-ends-support-for-surface-laptop-go-what-it-means-for-customers-d2b1e03b4989?source=rss-22947912adc0------2)
+- [Headspace Launches AI-Powered Chatbot Ebb for Personalized Mental Health Support](https://medium.com/majordigest/headspace-launches-ai-powered-chatbot-ebb-for-personalized-mental-health-support-dc17602ad472?source=rss-22947912adc0------2)
+- [Marriott Agrees to Pay $52 Million Over Major Data Breaches](https://medium.com/majordigest/marriott-agrees-to-pay-52-million-over-major-data-breaches-ef5803e8d8ac?source=rss-22947912adc0------2)
+- [Microsoft Unveils AI Tools to Support Healthcare Organizations](https://medium.com/majordigest/microsoft-unveils-ai-tools-to-support-healthcare-organizations-fb05194eb9ef?source=rss-22947912adc0------2)
+- [Nobel Prize Controversy: Google’s Dominance and AI Breakthroughs](https://medium.com/majordigest/nobel-prize-controversy-googles-dominance-and-ai-breakthroughs-d851ab0ebb8c?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
