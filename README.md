@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Ends Support for Surface Laptop Go: What it Means for Customers](https://medium.com/majordigest/microsoft-ends-support-for-surface-laptop-go-what-it-means-for-customers-d2b1e03b4989?source=rss-22947912adc0------2)
-- [Headspace Launches AI-Powered Chatbot Ebb for Personalized Mental Health Support](https://medium.com/majordigest/headspace-launches-ai-powered-chatbot-ebb-for-personalized-mental-health-support-dc17602ad472?source=rss-22947912adc0------2)
-- [Marriott Agrees to Pay $52 Million Over Major Data Breaches](https://medium.com/majordigest/marriott-agrees-to-pay-52-million-over-major-data-breaches-ef5803e8d8ac?source=rss-22947912adc0------2)
-- [Microsoft Unveils AI Tools to Support Healthcare Organizations](https://medium.com/majordigest/microsoft-unveils-ai-tools-to-support-healthcare-organizations-fb05194eb9ef?source=rss-22947912adc0------2)
-- [Nobel Prize Controversy: Google’s Dominance and AI Breakthroughs](https://medium.com/majordigest/nobel-prize-controversy-googles-dominance-and-ai-breakthroughs-d851ab0ebb8c?source=rss-22947912adc0------2)
+- [WordPress Dispute Heats Up: Mullenweg vs. WP Engine](https://medium.com/majordigest/wordpress-dispute-heats-up-mullenweg-vs-wp-engine-24fa565d62c0?source=rss-22947912adc0------2)
+- [Maximizing Your YouTube TV Experience: Tips and Tricks](https://medium.com/majordigest/maximizing-your-youtube-tv-experience-tips-and-tricks-de170e59fdfc?source=rss-22947912adc0------2)
+- [Meta Expands AI-Powered Chatbot to 21 New Markets, Boosting Competition with OpenAI and Google](https://medium.com/majordigest/meta-expands-ai-powered-chatbot-to-21-new-markets-boosting-competition-with-openai-and-google-417d00a9b352?source=rss-22947912adc0------2)
+- [Windows Users Targeted by Sophisticated Malware: What You Need to Know](https://medium.com/majordigest/windows-users-targeted-by-sophisticated-malware-what-you-need-to-know-ebc7be09189d?source=rss-22947912adc0------2)
+- [Adobe Launches Program to Teach 30 Million People AI, Content Creation, and Marketing Skills](https://medium.com/majordigest/adobe-launches-program-to-teach-30-million-people-ai-content-creation-and-marketing-skills-3492faa6359d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
