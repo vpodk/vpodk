@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress Dispute Heats Up: Mullenweg vs. WP Engine](https://medium.com/majordigest/wordpress-dispute-heats-up-mullenweg-vs-wp-engine-24fa565d62c0?source=rss-22947912adc0------2)
-- [Maximizing Your YouTube TV Experience: Tips and Tricks](https://medium.com/majordigest/maximizing-your-youtube-tv-experience-tips-and-tricks-de170e59fdfc?source=rss-22947912adc0------2)
-- [Meta Expands AI-Powered Chatbot to 21 New Markets, Boosting Competition with OpenAI and Google](https://medium.com/majordigest/meta-expands-ai-powered-chatbot-to-21-new-markets-boosting-competition-with-openai-and-google-417d00a9b352?source=rss-22947912adc0------2)
-- [Windows Users Targeted by Sophisticated Malware: What You Need to Know](https://medium.com/majordigest/windows-users-targeted-by-sophisticated-malware-what-you-need-to-know-ebc7be09189d?source=rss-22947912adc0------2)
-- [Adobe Launches Program to Teach 30 Million People AI, Content Creation, and Marketing Skills](https://medium.com/majordigest/adobe-launches-program-to-teach-30-million-people-ai-content-creation-and-marketing-skills-3492faa6359d?source=rss-22947912adc0------2)
+- [Fidelity Data Breach: What You Need to Know](https://medium.com/majordigest/fidelity-data-breach-what-you-need-to-know-4b2696741108?source=rss-22947912adc0------2)
+- [Blurred Lines: Russia, China, and Iran’s Growing Use of Cybercriminals](https://medium.com/majordigest/blurred-lines-russia-china-and-irans-growing-use-of-cybercriminals-161e44fb95ad?source=rss-22947912adc0------2)
+- [Microsoft’s Sebastien Bubeck Leaves for OpenAI Amid Intense AI Talent War](https://medium.com/majordigest/microsofts-sebastien-bubeck-leaves-for-openai-amid-intense-ai-talent-war-7293154dbb16?source=rss-22947912adc0------2)
+- [Web Domain Revenue Boom: Small Countries Cash In](https://medium.com/majordigest/web-domain-revenue-boom-small-countries-cash-in-c709489b86cc?source=rss-22947912adc0------2)
+- [UL Solutions Enters GenAI Evaluation Market with Customized Approach](https://medium.com/majordigest/ul-solutions-enters-genai-evaluation-market-with-customized-approach-6ef00767a093?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
