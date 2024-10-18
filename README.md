@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fidelity Data Breach: What You Need to Know](https://medium.com/majordigest/fidelity-data-breach-what-you-need-to-know-4b2696741108?source=rss-22947912adc0------2)
-- [Blurred Lines: Russia, China, and Iran’s Growing Use of Cybercriminals](https://medium.com/majordigest/blurred-lines-russia-china-and-irans-growing-use-of-cybercriminals-161e44fb95ad?source=rss-22947912adc0------2)
-- [Microsoft’s Sebastien Bubeck Leaves for OpenAI Amid Intense AI Talent War](https://medium.com/majordigest/microsofts-sebastien-bubeck-leaves-for-openai-amid-intense-ai-talent-war-7293154dbb16?source=rss-22947912adc0------2)
-- [Web Domain Revenue Boom: Small Countries Cash In](https://medium.com/majordigest/web-domain-revenue-boom-small-countries-cash-in-c709489b86cc?source=rss-22947912adc0------2)
-- [UL Solutions Enters GenAI Evaluation Market with Customized Approach](https://medium.com/majordigest/ul-solutions-enters-genai-evaluation-market-with-customized-approach-6ef00767a093?source=rss-22947912adc0------2)
+- [Adobe Joins AI Video Generation Field with Firefly Model](https://medium.com/majordigest/adobe-joins-ai-video-generation-field-with-firefly-model-1596b7b92684?source=rss-22947912adc0------2)
+- [Payment Apps: Understanding the Risks and Benefits](https://medium.com/majordigest/payment-apps-understanding-the-risks-and-benefits-d53d5e70873a?source=rss-22947912adc0------2)
+- [Gmail AI Scam: How to Protect Yourself | Cybersecurity Tips](https://medium.com/majordigest/gmail-ai-scam-how-to-protect-yourself-cybersecurity-tips-116c6a797241?source=rss-22947912adc0------2)
+- [Robot Vacuums Go Rogue: Ecovacs’ Security Flaws Exposed](https://medium.com/majordigest/robot-vacuums-go-rogue-ecovacs-security-flaws-exposed-ff5dbd288aa7?source=rss-22947912adc0------2)
+- [Broadcom and AT&amp;T Close to Resolving VMware Support Services Dispute](https://medium.com/majordigest/broadcom-and-at-t-close-to-resolving-vmware-support-services-dispute-28b9decbf0d0?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
