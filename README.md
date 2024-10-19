@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Adobe Joins AI Video Generation Field with Firefly Model](https://medium.com/majordigest/adobe-joins-ai-video-generation-field-with-firefly-model-1596b7b92684?source=rss-22947912adc0------2)
-- [Payment Apps: Understanding the Risks and Benefits](https://medium.com/majordigest/payment-apps-understanding-the-risks-and-benefits-d53d5e70873a?source=rss-22947912adc0------2)
-- [Gmail AI Scam: How to Protect Yourself | Cybersecurity Tips](https://medium.com/majordigest/gmail-ai-scam-how-to-protect-yourself-cybersecurity-tips-116c6a797241?source=rss-22947912adc0------2)
-- [Robot Vacuums Go Rogue: Ecovacs’ Security Flaws Exposed](https://medium.com/majordigest/robot-vacuums-go-rogue-ecovacs-security-flaws-exposed-ff5dbd288aa7?source=rss-22947912adc0------2)
-- [Broadcom and AT&amp;T Close to Resolving VMware Support Services Dispute](https://medium.com/majordigest/broadcom-and-at-t-close-to-resolving-vmware-support-services-dispute-28b9decbf0d0?source=rss-22947912adc0------2)
+- [The Future of Farming: Richmond’s Vertical Strawberry Revolution](https://medium.com/majordigest/the-future-of-farming-richmonds-vertical-strawberry-revolution-da09016060b3?source=rss-22947912adc0------2)
+- [Amazon Joins Nuclear Energy Push with $500M Investment](https://medium.com/majordigest/amazon-joins-nuclear-energy-push-with-500m-investment-5d62fed7478d?source=rss-22947912adc0------2)
+- [Kroger’s Use of Facial Recognition Technology Raises Concerns](https://medium.com/majordigest/krogers-use-of-facial-recognition-technology-raises-concerns-7f3664d490c3?source=rss-22947912adc0------2)
+- [Meta Conducts New Round of Layoffs Amid Redeployment Efforts](https://medium.com/majordigest/meta-conducts-new-round-of-layoffs-amid-redeployment-efforts-0ab40c908de0?source=rss-22947912adc0------2)
+- [The Rise of Robinhood: A New Era in Fintech](https://medium.com/majordigest/the-rise-of-robinhood-a-new-era-in-fintech-0b3b1bca3cd9?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
