@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of Farming: Richmond’s Vertical Strawberry Revolution](https://medium.com/majordigest/the-future-of-farming-richmonds-vertical-strawberry-revolution-da09016060b3?source=rss-22947912adc0------2)
-- [Amazon Joins Nuclear Energy Push with $500M Investment](https://medium.com/majordigest/amazon-joins-nuclear-energy-push-with-500m-investment-5d62fed7478d?source=rss-22947912adc0------2)
-- [Kroger’s Use of Facial Recognition Technology Raises Concerns](https://medium.com/majordigest/krogers-use-of-facial-recognition-technology-raises-concerns-7f3664d490c3?source=rss-22947912adc0------2)
-- [Meta Conducts New Round of Layoffs Amid Redeployment Efforts](https://medium.com/majordigest/meta-conducts-new-round-of-layoffs-amid-redeployment-efforts-0ab40c908de0?source=rss-22947912adc0------2)
-- [The Rise of Robinhood: A New Era in Fintech](https://medium.com/majordigest/the-rise-of-robinhood-a-new-era-in-fintech-0b3b1bca3cd9?source=rss-22947912adc0------2)
+- [The Alabama Man Accused of Bitcoin Price Spike: A Twist in Cybercrime History](https://medium.com/majordigest/the-alabama-man-accused-of-bitcoin-price-spike-a-twist-in-cybercrime-history-842adcccd9cc?source=rss-22947912adc0------2)
+- [Should Small Businesses Invest in Customized AI Models or Leverage Existing Tools?](https://medium.com/majordigest/should-small-businesses-invest-in-customized-ai-models-or-leverage-existing-tools-abf434b30d51?source=rss-22947912adc0------2)
+- [AI Adoption Slowdown: Unpacking the Challenges and Solutions](https://medium.com/majordigest/ai-adoption-slowdown-unpacking-the-challenges-and-solutions-5124987c6e21?source=rss-22947912adc0------2)
+- [Data Integration Challenges in Cybersecurity: A Growing Concern](https://medium.com/majordigest/data-integration-challenges-in-cybersecurity-a-growing-concern-dc939b31cd95?source=rss-22947912adc0------2)
+- [Airbnb Expands Offerings with New Co-Host Network and Services](https://medium.com/majordigest/airbnb-expands-offerings-with-new-co-host-network-and-services-396d8d4fd421?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
