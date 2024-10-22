@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Elevating Air Transportation: Electra’s Ultra Short Aircraft Takes Flight](https://medium.com/majordigest/elevating-air-transportation-electras-ultra-short-aircraft-takes-flight-bc18e9a6ce9c?source=rss-22947912adc0------2)
-- [AI Chatbot Participates in Political Debate with Congressional Candidates](https://medium.com/majordigest/ai-chatbot-participates-in-political-debate-with-congressional-candidates-10a952a65981?source=rss-22947912adc0------2)
-- [TikTok’s Election Disinformation Ad Approval Raises Concerns](https://medium.com/majordigest/tiktoks-election-disinformation-ad-approval-raises-concerns-fa2e07671af4?source=rss-22947912adc0------2)
-- [Tech Titans Take Center Stage: AI, Electric Cars, and Nuclear Power Deals](https://medium.com/majordigest/tech-titans-take-center-stage-ai-electric-cars-and-nuclear-power-deals-85bef6ace8b7?source=rss-22947912adc0------2)
-- [Top 5 Methods to Equip Your Car with Wi-Fi](https://medium.com/majordigest/top-5-methods-to-equip-your-car-with-wi-fi-9eed7c2e40fb?source=rss-22947912adc0------2)
+- [Nvidia Contributes NVL72 Design to Open Compute Project, Announces Partnerships and New Networking…](https://medium.com/majordigest/nvidia-contributes-nvl72-design-to-open-compute-project-announces-partnerships-and-new-networking-8b998da57c6f?source=rss-22947912adc0------2)
+- [The Future of Recycling: East Lansing’s AI-Powered Initiative and the Concerns Surrounding It](https://medium.com/majordigest/the-future-of-recycling-east-lansings-ai-powered-initiative-and-the-concerns-surrounding-it-d65d244b30d9?source=rss-22947912adc0------2)
+- [Cisco Boosts Network Density for Cloud Architecture and AI Workloads](https://medium.com/majordigest/cisco-boosts-network-density-for-cloud-architecture-and-ai-workloads-79d08275bfe9?source=rss-22947912adc0------2)
+- [Treasury Deploys AI to Combat Check Fraud, Prevents $4 Billion in Losses](https://medium.com/majordigest/treasury-deploys-ai-to-combat-check-fraud-prevents-4-billion-in-losses-2f03213ce559?source=rss-22947912adc0------2)
+- [Sony Camera Update Imminent? Rumors Suggest A1 II and A7V Cameras in November](https://medium.com/majordigest/sony-camera-update-imminent-rumors-suggest-a1-ii-and-a7v-cameras-in-november-0908d137ea2f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
