@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Side of Tech: Women in IT Struggle with Gender Bias and Discrimination](https://medium.com/majordigest/the-dark-side-of-tech-women-in-it-struggle-with-gender-bias-and-discrimination-07f65b1d7745?source=rss-22947912adc0------2)
+- [Dr. Wen Tong’s Vision for 6G: A True Generational Leap in Technology](https://medium.com/majordigest/dr-wen-tongs-vision-for-6g-a-true-generational-leap-in-technology-b81be4fd7b2d?source=rss-22947912adc0------2)
+- [Revolutionizing AI Governance: The Need for Holistic Approach](https://medium.com/majordigest/revolutionizing-ai-governance-the-need-for-holistic-approach-5a6347827837?source=rss-22947912adc0------2)
+- [Microsoft Empowers Customers to Build Autonomous AI Agents with Ease](https://medium.com/majordigest/microsoft-empowers-customers-to-build-autonomous-ai-agents-with-ease-7d34938c3743?source=rss-22947912adc0------2)
 - [Nvidia Contributes NVL72 Design to Open Compute Project, Announces Partnerships and New Networking…](https://medium.com/majordigest/nvidia-contributes-nvl72-design-to-open-compute-project-announces-partnerships-and-new-networking-8b998da57c6f?source=rss-22947912adc0------2)
-- [The Future of Recycling: East Lansing’s AI-Powered Initiative and the Concerns Surrounding It](https://medium.com/majordigest/the-future-of-recycling-east-lansings-ai-powered-initiative-and-the-concerns-surrounding-it-d65d244b30d9?source=rss-22947912adc0------2)
-- [Cisco Boosts Network Density for Cloud Architecture and AI Workloads](https://medium.com/majordigest/cisco-boosts-network-density-for-cloud-architecture-and-ai-workloads-79d08275bfe9?source=rss-22947912adc0------2)
-- [Treasury Deploys AI to Combat Check Fraud, Prevents $4 Billion in Losses](https://medium.com/majordigest/treasury-deploys-ai-to-combat-check-fraud-prevents-4-billion-in-losses-2f03213ce559?source=rss-22947912adc0------2)
-- [Sony Camera Update Imminent? Rumors Suggest A1 II and A7V Cameras in November](https://medium.com/majordigest/sony-camera-update-imminent-rumors-suggest-a1-ii-and-a7v-cameras-in-november-0908d137ea2f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
