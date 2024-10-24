@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Releases AI Models with Self-Taught Evaluator for Autonomous Learning](https://medium.com/majordigest/meta-releases-ai-models-with-self-taught-evaluator-for-autonomous-learning-8b6786efc652?source=rss-22947912adc0------2)
+- [Apple’s AI Strategy: Taking a Cautious Approach to Innovation](https://medium.com/majordigest/apples-ai-strategy-taking-a-cautious-approach-to-innovation-82dbb847eab9?source=rss-22947912adc0------2)
+- [TradeZella Revolutionizes Day Trading with Advanced Software](https://medium.com/majordigest/tradezella-revolutionizes-day-trading-with-advanced-software-c09202fb8d85?source=rss-22947912adc0------2)
 - [The Dark Side of Tech: Women in IT Struggle with Gender Bias and Discrimination](https://medium.com/majordigest/the-dark-side-of-tech-women-in-it-struggle-with-gender-bias-and-discrimination-07f65b1d7745?source=rss-22947912adc0------2)
 - [Dr. Wen Tong’s Vision for 6G: A True Generational Leap in Technology](https://medium.com/majordigest/dr-wen-tongs-vision-for-6g-a-true-generational-leap-in-technology-b81be4fd7b2d?source=rss-22947912adc0------2)
-- [Revolutionizing AI Governance: The Need for Holistic Approach](https://medium.com/majordigest/revolutionizing-ai-governance-the-need-for-holistic-approach-5a6347827837?source=rss-22947912adc0------2)
-- [Microsoft Empowers Customers to Build Autonomous AI Agents with Ease](https://medium.com/majordigest/microsoft-empowers-customers-to-build-autonomous-ai-agents-with-ease-7d34938c3743?source=rss-22947912adc0------2)
-- [Nvidia Contributes NVL72 Design to Open Compute Project, Announces Partnerships and New Networking…](https://medium.com/majordigest/nvidia-contributes-nvl72-design-to-open-compute-project-announces-partnerships-and-new-networking-8b998da57c6f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
