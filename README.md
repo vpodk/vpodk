@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pushing AI into Space: Challenges and Opportunities](https://medium.com/majordigest/pushing-ai-into-space-challenges-and-opportunities-779bc78776ff?source=rss-22947912adc0------2)
+- [Cpacket Launches High-Performance Packet Capture Appliance](https://medium.com/majordigest/cpacket-launches-high-performance-packet-capture-appliance-abb35ad003a6?source=rss-22947912adc0------2)
+- [National STEM Week: A Catalyst for Change](https://medium.com/majordigest/national-stem-week-a-catalyst-for-change-f4d41d2bbf17?source=rss-22947912adc0------2)
+- [Rust 1.82: Enhancements and Improvements for Developers](https://medium.com/majordigest/rust-1-82-enhancements-and-improvements-for-developers-c4ff37de216a?source=rss-22947912adc0------2)
 - [Meta Releases AI Models with Self-Taught Evaluator for Autonomous Learning](https://medium.com/majordigest/meta-releases-ai-models-with-self-taught-evaluator-for-autonomous-learning-8b6786efc652?source=rss-22947912adc0------2)
-- [Apple’s AI Strategy: Taking a Cautious Approach to Innovation](https://medium.com/majordigest/apples-ai-strategy-taking-a-cautious-approach-to-innovation-82dbb847eab9?source=rss-22947912adc0------2)
-- [TradeZella Revolutionizes Day Trading with Advanced Software](https://medium.com/majordigest/tradezella-revolutionizes-day-trading-with-advanced-software-c09202fb8d85?source=rss-22947912adc0------2)
-- [The Dark Side of Tech: Women in IT Struggle with Gender Bias and Discrimination](https://medium.com/majordigest/the-dark-side-of-tech-women-in-it-struggle-with-gender-bias-and-discrimination-07f65b1d7745?source=rss-22947912adc0------2)
-- [Dr. Wen Tong’s Vision for 6G: A True Generational Leap in Technology](https://medium.com/majordigest/dr-wen-tongs-vision-for-6g-a-true-generational-leap-in-technology-b81be4fd7b2d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
