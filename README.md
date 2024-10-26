@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pushing AI into Space: Challenges and Opportunities](https://medium.com/majordigest/pushing-ai-into-space-challenges-and-opportunities-779bc78776ff?source=rss-22947912adc0------2)
-- [Cpacket Launches High-Performance Packet Capture Appliance](https://medium.com/majordigest/cpacket-launches-high-performance-packet-capture-appliance-abb35ad003a6?source=rss-22947912adc0------2)
-- [National STEM Week: A Catalyst for Change](https://medium.com/majordigest/national-stem-week-a-catalyst-for-change-f4d41d2bbf17?source=rss-22947912adc0------2)
-- [Rust 1.82: Enhancements and Improvements for Developers](https://medium.com/majordigest/rust-1-82-enhancements-and-improvements-for-developers-c4ff37de216a?source=rss-22947912adc0------2)
-- [Meta Releases AI Models with Self-Taught Evaluator for Autonomous Learning](https://medium.com/majordigest/meta-releases-ai-models-with-self-taught-evaluator-for-autonomous-learning-8b6786efc652?source=rss-22947912adc0------2)
+- [The Rise of AI-Powered Work Management: Asana Unveils AI Studio](https://medium.com/majordigest/the-rise-of-ai-powered-work-management-asana-unveils-ai-studio-8204553e0de9?source=rss-22947912adc0------2)
+- [Global IT Spending Projected to Reach $5.75 Trillion in 2025](https://medium.com/majordigest/global-it-spending-projected-to-reach-5-75-trillion-in-2025-fbf784c2420b?source=rss-22947912adc0------2)
+- [Nvidia BlueField-3 DPUs Revolutionize AI Storage with Supermicro JBOF System](https://medium.com/majordigest/nvidia-bluefield-3-dpus-revolutionize-ai-storage-with-supermicro-jbof-system-d66b27623eb0?source=rss-22947912adc0------2)
+- [The Futility of AI-Powered Weapons Scanners in NYC Subway Stations: A Pilot Program’s Alarming…](https://medium.com/majordigest/the-futility-of-ai-powered-weapons-scanners-in-nyc-subway-stations-a-pilot-programs-alarming-86afea85d2c0?source=rss-22947912adc0------2)
+- [Augment Code: Revolutionizing Software Development Efficiency](https://medium.com/majordigest/augment-code-revolutionizing-software-development-efficiency-4305a066f6cf?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
