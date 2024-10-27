@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI-Powered Work Management: Asana Unveils AI Studio](https://medium.com/majordigest/the-rise-of-ai-powered-work-management-asana-unveils-ai-studio-8204553e0de9?source=rss-22947912adc0------2)
-- [Global IT Spending Projected to Reach $5.75 Trillion in 2025](https://medium.com/majordigest/global-it-spending-projected-to-reach-5-75-trillion-in-2025-fbf784c2420b?source=rss-22947912adc0------2)
-- [Nvidia BlueField-3 DPUs Revolutionize AI Storage with Supermicro JBOF System](https://medium.com/majordigest/nvidia-bluefield-3-dpus-revolutionize-ai-storage-with-supermicro-jbof-system-d66b27623eb0?source=rss-22947912adc0------2)
-- [The Futility of AI-Powered Weapons Scanners in NYC Subway Stations: A Pilot Program’s Alarming…](https://medium.com/majordigest/the-futility-of-ai-powered-weapons-scanners-in-nyc-subway-stations-a-pilot-programs-alarming-86afea85d2c0?source=rss-22947912adc0------2)
-- [Augment Code: Revolutionizing Software Development Efficiency](https://medium.com/majordigest/augment-code-revolutionizing-software-development-efficiency-4305a066f6cf?source=rss-22947912adc0------2)
+- [TikTok Sued by Montana Over Allegations of Addictive and Harmful Content](https://medium.com/majordigest/tiktok-sued-by-montana-over-allegations-of-addictive-and-harmful-content-1c603c8da7aa?source=rss-22947912adc0------2)
+- [Generative AI Revolutionizes Entry-Level Roles: A New Era of Productivity and Autonomy](https://medium.com/majordigest/generative-ai-revolutionizes-entry-level-roles-a-new-era-of-productivity-and-autonomy-717c580c0a91?source=rss-22947912adc0------2)
+- [The Future of National Security: Federal Agencies Ordered to Utilize AI Systems](https://medium.com/majordigest/the-future-of-national-security-federal-agencies-ordered-to-utilize-ai-systems-ba8bc3dc5f66?source=rss-22947912adc0------2)
+- [Fake Parking Tickets: The New Scam to Watch Out For](https://medium.com/majordigest/fake-parking-tickets-the-new-scam-to-watch-out-for-9e7636fab8b8?source=rss-22947912adc0------2)
+- [Musk’s High-Stakes Gamble on Electoral Law: A Risky Move?](https://medium.com/majordigest/musks-high-stakes-gamble-on-electoral-law-a-risky-move-95565a6b3237?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
