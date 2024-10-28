@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pig Sentiment Analysis: AI Algorithm Unveils Emotions in Pig Sounds](https://medium.com/majordigest/pig-sentiment-analysis-ai-algorithm-unveils-emotions-in-pig-sounds-fe385f26b853?source=rss-22947912adc0------2)
+- [US Judge Rules Social Media Companies Can Face Lawsuits Over Mental Health Crisis](https://medium.com/majordigest/us-judge-rules-social-media-companies-can-face-lawsuits-over-mental-health-crisis-c13478757e1b?source=rss-22947912adc0------2)
+- [JetBrains Offers Free WebStorm and Rider IDEs for Non-Commercial Use](https://medium.com/majordigest/jetbrains-offers-free-webstorm-and-rider-ides-for-non-commercial-use-23325b8988df?source=rss-22947912adc0------2)
+- [The Rise of Hydrogen Fuel: Verdagy’s $40 Million Grant and the Future of Clean Energy](https://medium.com/majordigest/the-rise-of-hydrogen-fuel-verdagys-40-million-grant-and-the-future-of-clean-energy-3c92c713dc31?source=rss-22947912adc0------2)
 - [TikTok Sued by Montana Over Allegations of Addictive and Harmful Content](https://medium.com/majordigest/tiktok-sued-by-montana-over-allegations-of-addictive-and-harmful-content-1c603c8da7aa?source=rss-22947912adc0------2)
-- [Generative AI Revolutionizes Entry-Level Roles: A New Era of Productivity and Autonomy](https://medium.com/majordigest/generative-ai-revolutionizes-entry-level-roles-a-new-era-of-productivity-and-autonomy-717c580c0a91?source=rss-22947912adc0------2)
-- [The Future of National Security: Federal Agencies Ordered to Utilize AI Systems](https://medium.com/majordigest/the-future-of-national-security-federal-agencies-ordered-to-utilize-ai-systems-ba8bc3dc5f66?source=rss-22947912adc0------2)
-- [Fake Parking Tickets: The New Scam to Watch Out For](https://medium.com/majordigest/fake-parking-tickets-the-new-scam-to-watch-out-for-9e7636fab8b8?source=rss-22947912adc0------2)
-- [Musk’s High-Stakes Gamble on Electoral Law: A Risky Move?](https://medium.com/majordigest/musks-high-stakes-gamble-on-electoral-law-a-risky-move-95565a6b3237?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
