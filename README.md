@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Italy Probes Major Data Breach Affecting 800,000 Citizens](https://medium.com/majordigest/italy-probes-major-data-breach-affecting-800-000-citizens-0b4a5290bba7?source=rss-22947912adc0------2)
+- [Extreme Networks Boosts Access Control Features in Universal ZTNA Package](https://medium.com/majordigest/extreme-networks-boosts-access-control-features-in-universal-ztna-package-cfdb6273c7ff?source=rss-22947912adc0------2)
+- [The EU’s Biometric Border-Check System Hits Another Snag](https://medium.com/majordigest/the-eus-biometric-border-check-system-hits-another-snag-37cfd70193a2?source=rss-22947912adc0------2)
+- [Texas Rep. Pfluger Calls Out Meta Over Automatic Opt-Out of Political Content](https://medium.com/majordigest/texas-rep-pfluger-calls-out-meta-over-automatic-opt-out-of-political-content-af5293952f5d?source=rss-22947912adc0------2)
 - [Pig Sentiment Analysis: AI Algorithm Unveils Emotions in Pig Sounds](https://medium.com/majordigest/pig-sentiment-analysis-ai-algorithm-unveils-emotions-in-pig-sounds-fe385f26b853?source=rss-22947912adc0------2)
-- [US Judge Rules Social Media Companies Can Face Lawsuits Over Mental Health Crisis](https://medium.com/majordigest/us-judge-rules-social-media-companies-can-face-lawsuits-over-mental-health-crisis-c13478757e1b?source=rss-22947912adc0------2)
-- [JetBrains Offers Free WebStorm and Rider IDEs for Non-Commercial Use](https://medium.com/majordigest/jetbrains-offers-free-webstorm-and-rider-ides-for-non-commercial-use-23325b8988df?source=rss-22947912adc0------2)
-- [The Rise of Hydrogen Fuel: Verdagy’s $40 Million Grant and the Future of Clean Energy](https://medium.com/majordigest/the-rise-of-hydrogen-fuel-verdagys-40-million-grant-and-the-future-of-clean-energy-3c92c713dc31?source=rss-22947912adc0------2)
-- [TikTok Sued by Montana Over Allegations of Addictive and Harmful Content](https://medium.com/majordigest/tiktok-sued-by-montana-over-allegations-of-addictive-and-harmful-content-1c603c8da7aa?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
