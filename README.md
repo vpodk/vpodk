@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Italy Probes Major Data Breach Affecting 800,000 Citizens](https://medium.com/majordigest/italy-probes-major-data-breach-affecting-800-000-citizens-0b4a5290bba7?source=rss-22947912adc0------2)
-- [Extreme Networks Boosts Access Control Features in Universal ZTNA Package](https://medium.com/majordigest/extreme-networks-boosts-access-control-features-in-universal-ztna-package-cfdb6273c7ff?source=rss-22947912adc0------2)
-- [The EU’s Biometric Border-Check System Hits Another Snag](https://medium.com/majordigest/the-eus-biometric-border-check-system-hits-another-snag-37cfd70193a2?source=rss-22947912adc0------2)
-- [Texas Rep. Pfluger Calls Out Meta Over Automatic Opt-Out of Political Content](https://medium.com/majordigest/texas-rep-pfluger-calls-out-meta-over-automatic-opt-out-of-political-content-af5293952f5d?source=rss-22947912adc0------2)
-- [Pig Sentiment Analysis: AI Algorithm Unveils Emotions in Pig Sounds](https://medium.com/majordigest/pig-sentiment-analysis-ai-algorithm-unveils-emotions-in-pig-sounds-fe385f26b853?source=rss-22947912adc0------2)
+- [Sony Interactive Studios Cuts Ties with Firewalk and Neon Koi](https://medium.com/majordigest/sony-interactive-studios-cuts-ties-with-firewalk-and-neon-koi-7525d636bc4b?source=rss-22947912adc0------2)
+- [Cloud Computing’s Silver Lining: IT Management’s Pushback Sparks Market Readjustments and Provider…](https://medium.com/majordigest/cloud-computings-silver-lining-it-management-s-pushback-sparks-market-readjustments-and-provider-4117f1d548cc?source=rss-22947912adc0------2)
+- [Apple Closes Down Vision Pro Production, But Why?](https://medium.com/majordigest/apple-closes-down-vision-pro-production-but-why-79a2d1c34d3d?source=rss-22947912adc0------2)
+- [Nvidia’s Imminent RTX 5000 Series Reveal: Is It Time to Give AMD’s GPU a Chance?](https://medium.com/majordigest/nvidias-imminent-rtx-5000-series-reveal-is-it-time-to-give-amd-s-gpu-a-chance-ed588e79220f?source=rss-22947912adc0------2)
+- [Why Agile Failed to Deliver: A Deeper Look at the Real Issues](https://medium.com/majordigest/why-agile-failed-to-deliver-a-deeper-look-at-the-real-issues-ace1c48b2056?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
