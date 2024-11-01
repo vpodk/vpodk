@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Sony Interactive Studios Cuts Ties with Firewalk and Neon Koi](https://medium.com/majordigest/sony-interactive-studios-cuts-ties-with-firewalk-and-neon-koi-7525d636bc4b?source=rss-22947912adc0------2)
-- [Cloud Computing’s Silver Lining: IT Management’s Pushback Sparks Market Readjustments and Provider…](https://medium.com/majordigest/cloud-computings-silver-lining-it-management-s-pushback-sparks-market-readjustments-and-provider-4117f1d548cc?source=rss-22947912adc0------2)
-- [Apple Closes Down Vision Pro Production, But Why?](https://medium.com/majordigest/apple-closes-down-vision-pro-production-but-why-79a2d1c34d3d?source=rss-22947912adc0------2)
-- [Nvidia’s Imminent RTX 5000 Series Reveal: Is It Time to Give AMD’s GPU a Chance?](https://medium.com/majordigest/nvidias-imminent-rtx-5000-series-reveal-is-it-time-to-give-amd-s-gpu-a-chance-ed588e79220f?source=rss-22947912adc0------2)
-- [Why Agile Failed to Deliver: A Deeper Look at the Real Issues](https://medium.com/majordigest/why-agile-failed-to-deliver-a-deeper-look-at-the-real-issues-ace1c48b2056?source=rss-22947912adc0------2)
+- [Reddit Turns Profit for First Time as Public Company](https://medium.com/majordigest/reddit-turns-profit-for-first-time-as-public-company-59fdc36270c1?source=rss-22947912adc0------2)
+- [Meta Posts Strong Q3 Earnings, But Warns of Rising Costs for AI Development](https://medium.com/majordigest/meta-posts-strong-q3-earnings-but-warns-of-rising-costs-for-ai-development-83b983a19ef6?source=rss-22947912adc0------2)
+- [Revolutionizing Home Cleaning: Introducing the Eureka E20 Plus](https://medium.com/majordigest/revolutionizing-home-cleaning-introducing-the-eureka-e20-plus-842099b7148f?source=rss-22947912adc0------2)
+- [DISA Unveils AI-Powered Digital Concierge for Workforce](https://medium.com/majordigest/disa-unveils-ai-powered-digital-concierge-for-workforce-695deb67cc2a?source=rss-22947912adc0------2)
+- [Microsoft Redesigns Teams With New Chat and Channel Experience](https://medium.com/majordigest/microsoft-redesigns-teams-with-new-chat-and-channel-experience-53b807346bdf?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
