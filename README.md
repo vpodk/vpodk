@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit Turns Profit for First Time as Public Company](https://medium.com/majordigest/reddit-turns-profit-for-first-time-as-public-company-59fdc36270c1?source=rss-22947912adc0------2)
-- [Meta Posts Strong Q3 Earnings, But Warns of Rising Costs for AI Development](https://medium.com/majordigest/meta-posts-strong-q3-earnings-but-warns-of-rising-costs-for-ai-development-83b983a19ef6?source=rss-22947912adc0------2)
-- [Revolutionizing Home Cleaning: Introducing the Eureka E20 Plus](https://medium.com/majordigest/revolutionizing-home-cleaning-introducing-the-eureka-e20-plus-842099b7148f?source=rss-22947912adc0------2)
-- [DISA Unveils AI-Powered Digital Concierge for Workforce](https://medium.com/majordigest/disa-unveils-ai-powered-digital-concierge-for-workforce-695deb67cc2a?source=rss-22947912adc0------2)
-- [Microsoft Redesigns Teams With New Chat and Channel Experience](https://medium.com/majordigest/microsoft-redesigns-teams-with-new-chat-and-channel-experience-53b807346bdf?source=rss-22947912adc0------2)
+- [Google Cloud Introduces Grounding with Google Search for Gemini Models](https://medium.com/majordigest/google-cloud-introduces-grounding-with-google-search-for-gemini-models-e7afe9e67bec?source=rss-22947912adc0------2)
+- [Google Maps Revolutionizes Navigation with AI-Powered Updates](https://medium.com/majordigest/google-maps-revolutionizes-navigation-with-ai-powered-updates-ad4e3c86a6a5?source=rss-22947912adc0------2)
+- [Considering Sentience in Artificial Intelligence: A Moral Responsibility](https://medium.com/majordigest/considering-sentience-in-artificial-intelligence-a-moral-responsibility-430efca9e642?source=rss-22947912adc0------2)
+- [Amazon Unveils Enhanced GenAI-Powered Chat Capabilities for Developers](https://medium.com/majordigest/amazon-unveils-enhanced-genai-powered-chat-capabilities-for-developers-d804ec5a1611?source=rss-22947912adc0------2)
+- [JPMorgan Chase Cracks Down on Check Fraud](https://medium.com/majordigest/jpmorgan-chase-cracks-down-on-check-fraud-58e12cf54a4f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
