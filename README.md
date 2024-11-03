@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Cloud Introduces Grounding with Google Search for Gemini Models](https://medium.com/majordigest/google-cloud-introduces-grounding-with-google-search-for-gemini-models-e7afe9e67bec?source=rss-22947912adc0------2)
-- [Google Maps Revolutionizes Navigation with AI-Powered Updates](https://medium.com/majordigest/google-maps-revolutionizes-navigation-with-ai-powered-updates-ad4e3c86a6a5?source=rss-22947912adc0------2)
-- [Considering Sentience in Artificial Intelligence: A Moral Responsibility](https://medium.com/majordigest/considering-sentience-in-artificial-intelligence-a-moral-responsibility-430efca9e642?source=rss-22947912adc0------2)
-- [Amazon Unveils Enhanced GenAI-Powered Chat Capabilities for Developers](https://medium.com/majordigest/amazon-unveils-enhanced-genai-powered-chat-capabilities-for-developers-d804ec5a1611?source=rss-22947912adc0------2)
-- [JPMorgan Chase Cracks Down on Check Fraud](https://medium.com/majordigest/jpmorgan-chase-cracks-down-on-check-fraud-58e12cf54a4f?source=rss-22947912adc0------2)
+- [Boost Your Job Prospects: IT Unemployment Rate Drops and Industry Insights](https://medium.com/majordigest/boost-your-job-prospects-it-unemployment-rate-drops-and-industry-insights-0b8a97cfe25f?source=rss-22947912adc0------2)
+- [Cloud Computing Considerations: Benefits, Drawbacks, and Emerging Trends](https://medium.com/majordigest/cloud-computing-considerations-benefits-drawbacks-and-emerging-trends-854297409a4f?source=rss-22947912adc0------2)
+- [AI Revolution: Navigating Develop, Deploy, and Consume](https://medium.com/majordigest/ai-revolution-navigating-develop-deploy-and-consume-6d3bcd53fae9?source=rss-22947912adc0------2)
+- [Cybersecurity Concerns and Emerging Trends in the Public Sector](https://medium.com/majordigest/cybersecurity-concerns-and-emerging-trends-in-the-public-sector-ceaa16d95e41?source=rss-22947912adc0------2)
+- [MrBeast Fires Employees Amid Workplace Culture Investigation](https://medium.com/majordigest/mrbeast-fires-employees-amid-workplace-culture-investigation-dad138479312?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
