@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Your Job Prospects: IT Unemployment Rate Drops and Industry Insights](https://medium.com/majordigest/boost-your-job-prospects-it-unemployment-rate-drops-and-industry-insights-0b8a97cfe25f?source=rss-22947912adc0------2)
-- [Cloud Computing Considerations: Benefits, Drawbacks, and Emerging Trends](https://medium.com/majordigest/cloud-computing-considerations-benefits-drawbacks-and-emerging-trends-854297409a4f?source=rss-22947912adc0------2)
-- [AI Revolution: Navigating Develop, Deploy, and Consume](https://medium.com/majordigest/ai-revolution-navigating-develop-deploy-and-consume-6d3bcd53fae9?source=rss-22947912adc0------2)
-- [Cybersecurity Concerns and Emerging Trends in the Public Sector](https://medium.com/majordigest/cybersecurity-concerns-and-emerging-trends-in-the-public-sector-ceaa16d95e41?source=rss-22947912adc0------2)
-- [MrBeast Fires Employees Amid Workplace Culture Investigation](https://medium.com/majordigest/mrbeast-fires-employees-amid-workplace-culture-investigation-dad138479312?source=rss-22947912adc0------2)
+- [Fighting Disinformation: The Rise of Cheapfakes in Social Media](https://medium.com/majordigest/fighting-disinformation-the-rise-of-cheapfakes-in-social-media-0d537e7720e5?source=rss-22947912adc0------2)
+- [Amazon Expands Healthcare Services with Virtual Consultations](https://medium.com/majordigest/amazon-expands-healthcare-services-with-virtual-consultations-ed9495197572?source=rss-22947912adc0------2)
+- [Wasmer 5.0 Brings High-Performance Applications to iOS Devices](https://medium.com/majordigest/wasmer-5-0-brings-high-performance-applications-to-ios-devices-1877d5390d17?source=rss-22947912adc0------2)
+- [The Decline of Social Media: A Threat to Advertising](https://medium.com/majordigest/the-decline-of-social-media-a-threat-to-advertising-94b71ca383c6?source=rss-22947912adc0------2)
+- [Boosting Endpoint Protection Against AI-Enhanced Attacks: The Rise of Zero Trust Security](https://medium.com/majordigest/boosting-endpoint-protection-against-ai-enhanced-attacks-the-rise-of-zero-trust-security-967ada68cdd8?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
