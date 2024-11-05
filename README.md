@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Fighting Disinformation: The Rise of Cheapfakes in Social Media](https://medium.com/majordigest/fighting-disinformation-the-rise-of-cheapfakes-in-social-media-0d537e7720e5?source=rss-22947912adc0------2)
-- [Amazon Expands Healthcare Services with Virtual Consultations](https://medium.com/majordigest/amazon-expands-healthcare-services-with-virtual-consultations-ed9495197572?source=rss-22947912adc0------2)
-- [Wasmer 5.0 Brings High-Performance Applications to iOS Devices](https://medium.com/majordigest/wasmer-5-0-brings-high-performance-applications-to-ios-devices-1877d5390d17?source=rss-22947912adc0------2)
-- [The Decline of Social Media: A Threat to Advertising](https://medium.com/majordigest/the-decline-of-social-media-a-threat-to-advertising-94b71ca383c6?source=rss-22947912adc0------2)
-- [Boosting Endpoint Protection Against AI-Enhanced Attacks: The Rise of Zero Trust Security](https://medium.com/majordigest/boosting-endpoint-protection-against-ai-enhanced-attacks-the-rise-of-zero-trust-security-967ada68cdd8?source=rss-22947912adc0------2)
+- [Microsoft SharePoint Vulnerability Exposes Corporate Networks to Attackers](https://medium.com/majordigest/microsoft-sharepoint-vulnerability-exposes-corporate-networks-to-attackers-6d87094d756b?source=rss-22947912adc0------2)
+- [Effective Implementation of AI Generative Technologies for Competitive Advantage](https://medium.com/majordigest/effective-implementation-of-ai-generative-technologies-for-competitive-advantage-71d01ad9db9a?source=rss-22947912adc0------2)
+- [Unlock Google’s Full Potential: Mastering Advanced Search Techniques](https://medium.com/majordigest/unlock-googles-full-potential-mastering-advanced-search-techniques-97c825f040a5?source=rss-22947912adc0------2)
+- [Threat Emulation: Closing the Gap Between Security Posture and Cyber Threats](https://medium.com/majordigest/threat-emulation-closing-the-gap-between-security-posture-and-cyber-threats-885f4cb23b02?source=rss-22947912adc0------2)
+- [Apple’s Satellite Expansion Paves Way for New Era of Connectivity](https://medium.com/majordigest/apples-satellite-expansion-paves-way-for-new-era-of-connectivity-641bff213c2b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
