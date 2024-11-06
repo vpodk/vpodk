@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft SharePoint Vulnerability Exposes Corporate Networks to Attackers](https://medium.com/majordigest/microsoft-sharepoint-vulnerability-exposes-corporate-networks-to-attackers-6d87094d756b?source=rss-22947912adc0------2)
-- [Effective Implementation of AI Generative Technologies for Competitive Advantage](https://medium.com/majordigest/effective-implementation-of-ai-generative-technologies-for-competitive-advantage-71d01ad9db9a?source=rss-22947912adc0------2)
-- [Unlock Google’s Full Potential: Mastering Advanced Search Techniques](https://medium.com/majordigest/unlock-googles-full-potential-mastering-advanced-search-techniques-97c825f040a5?source=rss-22947912adc0------2)
-- [Threat Emulation: Closing the Gap Between Security Posture and Cyber Threats](https://medium.com/majordigest/threat-emulation-closing-the-gap-between-security-posture-and-cyber-threats-885f4cb23b02?source=rss-22947912adc0------2)
-- [Apple’s Satellite Expansion Paves Way for New Era of Connectivity](https://medium.com/majordigest/apples-satellite-expansion-paves-way-for-new-era-of-connectivity-641bff213c2b?source=rss-22947912adc0------2)
+- [The Art of Strategic Leadership: Setting Direction and Turning Vision into Reality](https://medium.com/majordigest/the-art-of-strategic-leadership-setting-direction-and-turning-vision-into-reality-d7cdccb0647a?source=rss-22947912adc0------2)
+- [South Korea Fines Meta $15 Million Over Unauthorized Data Collection](https://medium.com/majordigest/south-korea-fines-meta-15-million-over-unauthorized-data-collection-1f4018538cf6?source=rss-22947912adc0------2)
+- [Tesla Abandons Plans for $25,000 Electric Vehicle](https://medium.com/majordigest/tesla-abandons-plans-for-25-000-electric-vehicle-5bba465389a8?source=rss-22947912adc0------2)
+- [Protecting Yourself from Identity Theft and Fraud After a Data Breach](https://medium.com/majordigest/protecting-yourself-from-identity-theft-and-fraud-after-a-data-breach-38a14fd827f3?source=rss-22947912adc0------2)
+- [AI Revolutionizes Business Decision-Making](https://medium.com/majordigest/ai-revolutionizes-business-decision-making-7abb8dc1cb6d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
