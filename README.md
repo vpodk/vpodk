@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [VMware Announcements: Cloud Foundation 9, Project Cypress, and More](https://medium.com/majordigest/vmware-announcements-cloud-foundation-9-project-cypress-and-more-e1e11a12a69c?source=rss-22947912adc0------2)
+- [The Rise of AI: From Medical Advice to Life-Saving Technology](https://medium.com/majordigest/the-rise-of-ai-from-medical-advice-to-life-saving-technology-8f0c6fa1219c?source=rss-22947912adc0------2)
+- [South Korea Fines Meta $15 Million Over Facebook Data Breach](https://medium.com/majordigest/south-korea-fines-meta-15-million-over-facebook-data-breach-c4c1d9d243bc?source=rss-22947912adc0------2)
 - [The Art of Strategic Leadership: Setting Direction and Turning Vision into Reality](https://medium.com/majordigest/the-art-of-strategic-leadership-setting-direction-and-turning-vision-into-reality-d7cdccb0647a?source=rss-22947912adc0------2)
 - [South Korea Fines Meta $15 Million Over Unauthorized Data Collection](https://medium.com/majordigest/south-korea-fines-meta-15-million-over-unauthorized-data-collection-1f4018538cf6?source=rss-22947912adc0------2)
-- [Tesla Abandons Plans for $25,000 Electric Vehicle](https://medium.com/majordigest/tesla-abandons-plans-for-25-000-electric-vehicle-5bba465389a8?source=rss-22947912adc0------2)
-- [Protecting Yourself from Identity Theft and Fraud After a Data Breach](https://medium.com/majordigest/protecting-yourself-from-identity-theft-and-fraud-after-a-data-breach-38a14fd827f3?source=rss-22947912adc0------2)
-- [AI Revolutionizes Business Decision-Making](https://medium.com/majordigest/ai-revolutionizes-business-decision-making-7abb8dc1cb6d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
