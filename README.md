@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tesla Soars as Investors Bet on Trump’s Return](https://medium.com/majordigest/tesla-soars-as-investors-bet-on-trumps-return-fec0608e81f6?source=rss-22947912adc0------2)
+- [Corning Under EU Scrutiny Over Exclusive Gorilla Glass Deals](https://medium.com/majordigest/corning-under-eu-scrutiny-over-exclusive-gorilla-glass-deals-89269a8f5422?source=rss-22947912adc0------2)
+- [The Impact of Trump’s Victory on the US Energy Landscape](https://medium.com/majordigest/the-impact-of-trumps-victory-on-the-us-energy-landscape-ffac955077ec?source=rss-22947912adc0------2)
 - [VMware Announcements: Cloud Foundation 9, Project Cypress, and More](https://medium.com/majordigest/vmware-announcements-cloud-foundation-9-project-cypress-and-more-e1e11a12a69c?source=rss-22947912adc0------2)
 - [The Rise of AI: From Medical Advice to Life-Saving Technology](https://medium.com/majordigest/the-rise-of-ai-from-medical-advice-to-life-saving-technology-8f0c6fa1219c?source=rss-22947912adc0------2)
-- [South Korea Fines Meta $15 Million Over Facebook Data Breach](https://medium.com/majordigest/south-korea-fines-meta-15-million-over-facebook-data-breach-c4c1d9d243bc?source=rss-22947912adc0------2)
-- [The Art of Strategic Leadership: Setting Direction and Turning Vision into Reality](https://medium.com/majordigest/the-art-of-strategic-leadership-setting-direction-and-turning-vision-into-reality-d7cdccb0647a?source=rss-22947912adc0------2)
-- [South Korea Fines Meta $15 Million Over Unauthorized Data Collection](https://medium.com/majordigest/south-korea-fines-meta-15-million-over-unauthorized-data-collection-1f4018538cf6?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
