@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Tesla Soars as Investors Bet on Trump’s Return](https://medium.com/majordigest/tesla-soars-as-investors-bet-on-trumps-return-fec0608e81f6?source=rss-22947912adc0------2)
-- [Corning Under EU Scrutiny Over Exclusive Gorilla Glass Deals](https://medium.com/majordigest/corning-under-eu-scrutiny-over-exclusive-gorilla-glass-deals-89269a8f5422?source=rss-22947912adc0------2)
-- [The Impact of Trump’s Victory on the US Energy Landscape](https://medium.com/majordigest/the-impact-of-trumps-victory-on-the-us-energy-landscape-ffac955077ec?source=rss-22947912adc0------2)
-- [VMware Announcements: Cloud Foundation 9, Project Cypress, and More](https://medium.com/majordigest/vmware-announcements-cloud-foundation-9-project-cypress-and-more-e1e11a12a69c?source=rss-22947912adc0------2)
-- [The Rise of AI: From Medical Advice to Life-Saving Technology](https://medium.com/majordigest/the-rise-of-ai-from-medical-advice-to-life-saving-technology-8f0c6fa1219c?source=rss-22947912adc0------2)
+- [The US Army’s Pursuit of a Unified Network](https://medium.com/majordigest/the-us-armys-pursuit-of-a-unified-network-9ed776bd8845?source=rss-22947912adc0------2)
+- [Freshworks Lays Off 660 Employees Amid Glowing Revenue Report](https://medium.com/majordigest/freshworks-lays-off-660-employees-amid-glowing-revenue-report-7bd357ec2cc2?source=rss-22947912adc0------2)
+- [Data Protection for Hybrid Clouds: Essential Requirements and Vendor Considerations](https://medium.com/majordigest/data-protection-for-hybrid-clouds-essential-requirements-and-vendor-considerations-a472f867fb3e?source=rss-22947912adc0------2)
+- [NASA Astronauts’ Prolonged Space Station Mission Ends with a Trip to the Hospital](https://medium.com/majordigest/nasa-astronauts-prolonged-space-station-mission-ends-with-a-trip-to-the-hospital-1de2a0c24555?source=rss-22947912adc0------2)
+- [VMware Unveils VeloRAIN: Revolutionizing Edge Networking for Distributed AI](https://medium.com/majordigest/vmware-unveils-velorain-revolutionizing-edge-networking-for-distributed-ai-61d6123b9267?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
