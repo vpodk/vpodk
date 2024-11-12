@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Massimo Modular E9: A Revolutionary Tiny Home](https://medium.com/majordigest/the-massimo-modular-e9-a-revolutionary-tiny-home-62b701eb77f6?source=rss-22947912adc0------2)
+- [Fortinet Expands AI-Powered Security Assistant Capabilities](https://medium.com/majordigest/fortinet-expands-ai-powered-security-assistant-capabilities-b5a1c81ac0fe?source=rss-22947912adc0------2)
+- [VIPRE Security Group Unveils Advanced Endpoint Protection Systems](https://medium.com/majordigest/vipre-security-group-unveils-advanced-endpoint-protection-systems-8f27aae91b02?source=rss-22947912adc0------2)
 - [The Future of Military Operations: Anduril Industries’ AI-Powered Drones](https://medium.com/majordigest/the-future-of-military-operations-anduril-industries-ai-powered-drones-a7e68ab8b574?source=rss-22947912adc0------2)
 - [Github Malware Campaign Targets Tax Organizations](https://medium.com/majordigest/github-malware-campaign-targets-tax-organizations-37722aa59f6d?source=rss-22947912adc0------2)
-- [The Shift Towards Skills-Based Hiring: Cloud Computing and Soft Skills](https://medium.com/majordigest/the-shift-towards-skills-based-hiring-cloud-computing-and-soft-skills-0fa1c83b0795?source=rss-22947912adc0------2)
-- [The US Army’s Pursuit of a Unified Network](https://medium.com/majordigest/the-us-armys-pursuit-of-a-unified-network-9ed776bd8845?source=rss-22947912adc0------2)
-- [Freshworks Lays Off 660 Employees Amid Glowing Revenue Report](https://medium.com/majordigest/freshworks-lays-off-660-employees-amid-glowing-revenue-report-7bd357ec2cc2?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
