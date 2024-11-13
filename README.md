@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Massimo Modular E9: A Revolutionary Tiny Home](https://medium.com/majordigest/the-massimo-modular-e9-a-revolutionary-tiny-home-62b701eb77f6?source=rss-22947912adc0------2)
-- [Fortinet Expands AI-Powered Security Assistant Capabilities](https://medium.com/majordigest/fortinet-expands-ai-powered-security-assistant-capabilities-b5a1c81ac0fe?source=rss-22947912adc0------2)
-- [VIPRE Security Group Unveils Advanced Endpoint Protection Systems](https://medium.com/majordigest/vipre-security-group-unveils-advanced-endpoint-protection-systems-8f27aae91b02?source=rss-22947912adc0------2)
-- [The Future of Military Operations: Anduril Industries’ AI-Powered Drones](https://medium.com/majordigest/the-future-of-military-operations-anduril-industries-ai-powered-drones-a7e68ab8b574?source=rss-22947912adc0------2)
-- [Github Malware Campaign Targets Tax Organizations](https://medium.com/majordigest/github-malware-campaign-targets-tax-organizations-37722aa59f6d?source=rss-22947912adc0------2)
+- [iOS 18.1 Call Recording: A Game-Changer for iPhone Users](https://medium.com/majordigest/ios-18-1-call-recording-a-game-changer-for-iphone-users-4168318b7fba?source=rss-22947912adc0------2)
+- [Arista Networks Expects $1.5 Billion Revenue Spike from AI-Based Networking Growth by 2025](https://medium.com/majordigest/arista-networks-expects-1-5-billion-revenue-spike-from-ai-based-networking-growth-by-2025-e8f267d14efc?source=rss-22947912adc0------2)
+- [Architecting an AI-Fueled Business: IDC Middle East CIO Summit 2025](https://medium.com/majordigest/architecting-an-ai-fueled-business-idc-middle-east-cio-summit-2025-72b9d8269a07?source=rss-22947912adc0------2)
+- [Protecting Your Identity and Finances with a VPN: A Guide](https://medium.com/majordigest/protecting-your-identity-and-finances-with-a-vpn-a-guide-edb0d441ba30?source=rss-22947912adc0------2)
+- [Media Literacy Education for a Safer Online Environment](https://medium.com/majordigest/media-literacy-education-for-a-safer-online-environment-77c9bdb4aa0d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
