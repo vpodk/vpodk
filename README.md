@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Tibetan Community Websites Compromised by Chinese State-Sponsored Hackers](https://medium.com/majordigest/tibetan-community-websites-compromised-by-chinese-state-sponsored-hackers-008435b9f5bc?source=rss-22947912adc0------2)
+- [Meta Offers Less Personalized Ads to European Users](https://medium.com/majordigest/meta-offers-less-personalized-ads-to-european-users-437806df1157?source=rss-22947912adc0------2)
+- [Ensuring Enterprise Apps Keep Working: The Importance of Continuous Code Testing](https://medium.com/majordigest/ensuring-enterprise-apps-keep-working-the-importance-of-continuous-code-testing-7379af06aafb?source=rss-22947912adc0------2)
+- [The Impact of AIAP on Individuals, Companies, and the AI Ecosystem in Singapore](https://medium.com/majordigest/the-impact-of-aiap-on-individuals-companies-and-the-ai-ecosystem-in-singapore-b26e3c8baa81?source=rss-22947912adc0------2)
 - [iOS 18.1 Call Recording: A Game-Changer for iPhone Users](https://medium.com/majordigest/ios-18-1-call-recording-a-game-changer-for-iphone-users-4168318b7fba?source=rss-22947912adc0------2)
-- [Arista Networks Expects $1.5 Billion Revenue Spike from AI-Based Networking Growth by 2025](https://medium.com/majordigest/arista-networks-expects-1-5-billion-revenue-spike-from-ai-based-networking-growth-by-2025-e8f267d14efc?source=rss-22947912adc0------2)
-- [Architecting an AI-Fueled Business: IDC Middle East CIO Summit 2025](https://medium.com/majordigest/architecting-an-ai-fueled-business-idc-middle-east-cio-summit-2025-72b9d8269a07?source=rss-22947912adc0------2)
-- [Protecting Your Identity and Finances with a VPN: A Guide](https://medium.com/majordigest/protecting-your-identity-and-finances-with-a-vpn-a-guide-edb0d441ba30?source=rss-22947912adc0------2)
-- [Media Literacy Education for a Safer Online Environment](https://medium.com/majordigest/media-literacy-education-for-a-safer-online-environment-77c9bdb4aa0d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
