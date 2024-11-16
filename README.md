@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Selects New Astrophysics Missions to Explore Supernovae and Black Holes](https://medium.com/majordigest/nasa-selects-new-astrophysics-missions-to-explore-supernovae-and-black-holes-3ad7b010c59b?source=rss-22947912adc0------2)
+- [AI Companies Seek New Training Techniques to Overcome Delays and Challenges](https://medium.com/majordigest/ai-companies-seek-new-training-techniques-to-overcome-delays-and-challenges-61cd08ed82a8?source=rss-22947912adc0------2)
+- [Aging Parents: How Everyday Tech Can Help](https://medium.com/majordigest/aging-parents-how-everyday-tech-can-help-ba86d9b47085?source=rss-22947912adc0------2)
 - [Tibetan Community Websites Compromised by Chinese State-Sponsored Hackers](https://medium.com/majordigest/tibetan-community-websites-compromised-by-chinese-state-sponsored-hackers-008435b9f5bc?source=rss-22947912adc0------2)
 - [Meta Offers Less Personalized Ads to European Users](https://medium.com/majordigest/meta-offers-less-personalized-ads-to-european-users-437806df1157?source=rss-22947912adc0------2)
-- [Ensuring Enterprise Apps Keep Working: The Importance of Continuous Code Testing](https://medium.com/majordigest/ensuring-enterprise-apps-keep-working-the-importance-of-continuous-code-testing-7379af06aafb?source=rss-22947912adc0------2)
-- [The Impact of AIAP on Individuals, Companies, and the AI Ecosystem in Singapore](https://medium.com/majordigest/the-impact-of-aiap-on-individuals-companies-and-the-ai-ecosystem-in-singapore-b26e3c8baa81?source=rss-22947912adc0------2)
-- [iOS 18.1 Call Recording: A Game-Changer for iPhone Users](https://medium.com/majordigest/ios-18-1-call-recording-a-game-changer-for-iphone-users-4168318b7fba?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
