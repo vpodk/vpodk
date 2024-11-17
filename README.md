@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [NASA Selects New Astrophysics Missions to Explore Supernovae and Black Holes](https://medium.com/majordigest/nasa-selects-new-astrophysics-missions-to-explore-supernovae-and-black-holes-3ad7b010c59b?source=rss-22947912adc0------2)
-- [AI Companies Seek New Training Techniques to Overcome Delays and Challenges](https://medium.com/majordigest/ai-companies-seek-new-training-techniques-to-overcome-delays-and-challenges-61cd08ed82a8?source=rss-22947912adc0------2)
-- [Aging Parents: How Everyday Tech Can Help](https://medium.com/majordigest/aging-parents-how-everyday-tech-can-help-ba86d9b47085?source=rss-22947912adc0------2)
-- [Tibetan Community Websites Compromised by Chinese State-Sponsored Hackers](https://medium.com/majordigest/tibetan-community-websites-compromised-by-chinese-state-sponsored-hackers-008435b9f5bc?source=rss-22947912adc0------2)
-- [Meta Offers Less Personalized Ads to European Users](https://medium.com/majordigest/meta-offers-less-personalized-ads-to-european-users-437806df1157?source=rss-22947912adc0------2)
+- [The Space Diversity Initiative: Empowering Underrepresented Countries](https://medium.com/majordigest/the-space-diversity-initiative-empowering-underrepresented-countries-efdf17c75acc?source=rss-22947912adc0------2)
+- [The Rise of AI in Education: A Double-Edged Sword](https://medium.com/majordigest/the-rise-of-ai-in-education-a-double-edged-sword-9085c0f16ca8?source=rss-22947912adc0------2)
+- [Federal Hiring Challenges: Commerce Centers on Creativity and Personal Connections](https://medium.com/majordigest/federal-hiring-challenges-commerce-centers-on-creativity-and-personal-connections-d7385a53c504?source=rss-22947912adc0------2)
+- [Baidu Unveils AI-Powered Text-to-Image Generator and Developer Platform](https://medium.com/majordigest/baidu-unveils-ai-powered-text-to-image-generator-and-developer-platform-f11d3f9d9155?source=rss-22947912adc0------2)
+- [Nvidia Faces Supreme Court Battle Over Misleading Investors on Cryptocurrency Dependence](https://medium.com/majordigest/nvidia-faces-supreme-court-battle-over-misleading-investors-on-cryptocurrency-dependence-42f3a2ff2b67?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
