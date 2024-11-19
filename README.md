@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Space Diversity Initiative: Empowering Underrepresented Countries](https://medium.com/majordigest/the-space-diversity-initiative-empowering-underrepresented-countries-efdf17c75acc?source=rss-22947912adc0------2)
-- [The Rise of AI in Education: A Double-Edged Sword](https://medium.com/majordigest/the-rise-of-ai-in-education-a-double-edged-sword-9085c0f16ca8?source=rss-22947912adc0------2)
-- [Federal Hiring Challenges: Commerce Centers on Creativity and Personal Connections](https://medium.com/majordigest/federal-hiring-challenges-commerce-centers-on-creativity-and-personal-connections-d7385a53c504?source=rss-22947912adc0------2)
-- [Baidu Unveils AI-Powered Text-to-Image Generator and Developer Platform](https://medium.com/majordigest/baidu-unveils-ai-powered-text-to-image-generator-and-developer-platform-f11d3f9d9155?source=rss-22947912adc0------2)
-- [Nvidia Faces Supreme Court Battle Over Misleading Investors on Cryptocurrency Dependence](https://medium.com/majordigest/nvidia-faces-supreme-court-battle-over-misleading-investors-on-cryptocurrency-dependence-42f3a2ff2b67?source=rss-22947912adc0------2)
+- [Cisco Opens New Office in San Jose with 3,900 Employees](https://medium.com/majordigest/cisco-opens-new-office-in-san-jose-with-3-900-employees-adc9703f10d5?source=rss-22947912adc0------2)
+- [TSA Proposes Cybersecurity Requirements for High-Risk Pipeline and Railroad Operators](https://medium.com/majordigest/tsa-proposes-cybersecurity-requirements-for-high-risk-pipeline-and-railroad-operators-b7fd300994c6?source=rss-22947912adc0------2)
+- [US Tech Lobbying Group Urges Trump Administration to Emphasize AI Leadership](https://medium.com/majordigest/us-tech-lobbying-group-urges-trump-administration-to-emphasize-ai-leadership-29d3f2ba3075?source=rss-22947912adc0------2)
+- [.NET 9 Upgrade: Microsoft Announces Major Cloud-Native and AI-Powered App Development Platform](https://medium.com/majordigest/net-9-upgrade-microsoft-announces-major-cloud-native-and-ai-powered-app-development-platform-a5b8748e615e?source=rss-22947912adc0------2)
+- [Cisco Enhances Observability Portfolio with Splunk Integration](https://medium.com/majordigest/cisco-enhances-observability-portfolio-with-splunk-integration-43a55141c1d6?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
