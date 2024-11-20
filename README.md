@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Convergence of 5G-Advanced Networks and Artificial Intelligence Redefines Digital Landscape](https://medium.com/majordigest/convergence-of-5g-advanced-networks-and-artificial-intelligence-redefines-digital-landscape-0a5371293631?source=rss-22947912adc0------2)
+- [The Importance of Technology in Achieving Sustainable Goals: Insights from a Recent Study](https://medium.com/majordigest/the-importance-of-technology-in-achieving-sustainable-goals-insights-from-a-recent-study-14020fc25ac3?source=rss-22947912adc0------2)
+- [Fermyon Releases Spin 3.0: A Major Update to Its Open Source Developer Tool](https://medium.com/majordigest/fermyon-releases-spin-3-0-a-major-update-to-its-open-source-developer-tool-9df35bca6f37?source=rss-22947912adc0------2)
+- [FCC Chairman Appointed Amid Controversy Over Trump’s Influence](https://medium.com/majordigest/fcc-chairman-appointed-amid-controversy-over-trumps-influence-93a5fbd72559?source=rss-22947912adc0------2)
 - [Cisco Opens New Office in San Jose with 3,900 Employees](https://medium.com/majordigest/cisco-opens-new-office-in-san-jose-with-3-900-employees-adc9703f10d5?source=rss-22947912adc0------2)
-- [TSA Proposes Cybersecurity Requirements for High-Risk Pipeline and Railroad Operators](https://medium.com/majordigest/tsa-proposes-cybersecurity-requirements-for-high-risk-pipeline-and-railroad-operators-b7fd300994c6?source=rss-22947912adc0------2)
-- [US Tech Lobbying Group Urges Trump Administration to Emphasize AI Leadership](https://medium.com/majordigest/us-tech-lobbying-group-urges-trump-administration-to-emphasize-ai-leadership-29d3f2ba3075?source=rss-22947912adc0------2)
-- [.NET 9 Upgrade: Microsoft Announces Major Cloud-Native and AI-Powered App Development Platform](https://medium.com/majordigest/net-9-upgrade-microsoft-announces-major-cloud-native-and-ai-powered-app-development-platform-a5b8748e615e?source=rss-22947912adc0------2)
-- [Cisco Enhances Observability Portfolio with Splunk Integration](https://medium.com/majordigest/cisco-enhances-observability-portfolio-with-splunk-integration-43a55141c1d6?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
