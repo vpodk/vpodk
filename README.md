@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Convergence of 5G-Advanced Networks and Artificial Intelligence Redefines Digital Landscape](https://medium.com/majordigest/convergence-of-5g-advanced-networks-and-artificial-intelligence-redefines-digital-landscape-0a5371293631?source=rss-22947912adc0------2)
-- [The Importance of Technology in Achieving Sustainable Goals: Insights from a Recent Study](https://medium.com/majordigest/the-importance-of-technology-in-achieving-sustainable-goals-insights-from-a-recent-study-14020fc25ac3?source=rss-22947912adc0------2)
-- [Fermyon Releases Spin 3.0: A Major Update to Its Open Source Developer Tool](https://medium.com/majordigest/fermyon-releases-spin-3-0-a-major-update-to-its-open-source-developer-tool-9df35bca6f37?source=rss-22947912adc0------2)
-- [FCC Chairman Appointed Amid Controversy Over Trump’s Influence](https://medium.com/majordigest/fcc-chairman-appointed-amid-controversy-over-trumps-influence-93a5fbd72559?source=rss-22947912adc0------2)
-- [Cisco Opens New Office in San Jose with 3,900 Employees](https://medium.com/majordigest/cisco-opens-new-office-in-san-jose-with-3-900-employees-adc9703f10d5?source=rss-22947912adc0------2)
+- [The Rise of AI Inference Chips: Transforming Efficiency](https://medium.com/majordigest/the-rise-of-ai-inference-chips-transforming-efficiency-8aa9f6dad70c?source=rss-22947912adc0------2)
+- [National Labor Relations Board’s Structure Challenged by Amazon and SpaceX](https://medium.com/majordigest/national-labor-relations-boards-structure-challenged-by-amazon-and-spacex-9fe6e7bda2e6?source=rss-22947912adc0------2)
+- [US Department of Homeland Security Launches New AI Safety Framework for Critical Infrastructure…](https://medium.com/majordigest/us-department-of-homeland-security-launches-new-ai-safety-framework-for-critical-infrastructure-a71aebfb2e0b?source=rss-22947912adc0------2)
+- [Four Groundbreaking Innovations Honored by Fast Company’s Next Big Things in Tech](https://medium.com/majordigest/four-groundbreaking-innovations-honored-by-fast-companys-next-big-things-in-tech-f8d10c3ff920?source=rss-22947912adc0------2)
+- [Meta Fined $840 Million Over Antitrust Concerns in EU](https://medium.com/majordigest/meta-fined-840-million-over-antitrust-concerns-in-eu-c1c047755e08?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
