@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI Inference Chips: Transforming Efficiency](https://medium.com/majordigest/the-rise-of-ai-inference-chips-transforming-efficiency-8aa9f6dad70c?source=rss-22947912adc0------2)
-- [National Labor Relations Board’s Structure Challenged by Amazon and SpaceX](https://medium.com/majordigest/national-labor-relations-boards-structure-challenged-by-amazon-and-spacex-9fe6e7bda2e6?source=rss-22947912adc0------2)
-- [US Department of Homeland Security Launches New AI Safety Framework for Critical Infrastructure…](https://medium.com/majordigest/us-department-of-homeland-security-launches-new-ai-safety-framework-for-critical-infrastructure-a71aebfb2e0b?source=rss-22947912adc0------2)
-- [Four Groundbreaking Innovations Honored by Fast Company’s Next Big Things in Tech](https://medium.com/majordigest/four-groundbreaking-innovations-honored-by-fast-companys-next-big-things-in-tech-f8d10c3ff920?source=rss-22947912adc0------2)
-- [Meta Fined $840 Million Over Antitrust Concerns in EU](https://medium.com/majordigest/meta-fined-840-million-over-antitrust-concerns-in-eu-c1c047755e08?source=rss-22947912adc0------2)
+- [Data Center Cooling: Unlocking Efficiency with Immersion Cooling](https://medium.com/majordigest/data-center-cooling-unlocking-efficiency-with-immersion-cooling-493dca22d0d8?source=rss-22947912adc0------2)
+- [OpenAI Launches Free Training Course for Teachers to Master AI and Prompt Engineering](https://medium.com/majordigest/openai-launches-free-training-course-for-teachers-to-master-ai-and-prompt-engineering-c843928d738e?source=rss-22947912adc0------2)
+- [Microsoft Enhances Windows Copilot Runtime with AI-Backed APIs and Generative Model](https://medium.com/majordigest/microsoft-enhances-windows-copilot-runtime-with-ai-backed-apis-and-generative-model-bb116e9fa0df?source=rss-22947912adc0------2)
+- [iOS 18.1 Update Raises Privacy Concerns: What You Need to Know](https://medium.com/majordigest/ios-18-1-update-raises-privacy-concerns-what-you-need-to-know-057d9bf8ca1a?source=rss-22947912adc0------2)
+- [Microsoft Unveils New AI-Powered Tool for Automating Repetitive Tasks](https://medium.com/majordigest/microsoft-unveils-new-ai-powered-tool-for-automating-repetitive-tasks-bc1b19d77ad0?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
