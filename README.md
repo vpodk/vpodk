@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Center Growth: Top 5 Hubs in US, Renewable Energy Boosts Power Capacity](https://medium.com/majordigest/data-center-growth-top-5-hubs-in-us-renewable-energy-boosts-power-capacity-df89f464034c?source=rss-22947912adc0------2)
-- [The Stanford Professor and the AI-Generated Testimony: A Scandal in the Minnesota Court Case](https://medium.com/majordigest/the-stanford-professor-and-the-ai-generated-testimony-a-scandal-in-the-minnesota-court-case-3224be6a16cb?source=rss-22947912adc0------2)
-- [The Rise of AI Voice Cloning Scams: How They Work and How to Stay Safe](https://medium.com/majordigest/the-rise-of-ai-voice-cloning-scams-how-they-work-and-how-to-stay-safe-e217a87af947?source=rss-22947912adc0------2)
-- [NetApp’s AI-Powered Data Infrastructure Revolutionizes Business Operations](https://medium.com/majordigest/netapps-ai-powered-data-infrastructure-revolutionizes-business-operations-fcc9b8088955?source=rss-22947912adc0------2)
-- [Crypto Industry Sees Opportunity Amid SEC Chair Gensler’s Departure](https://medium.com/majordigest/crypto-industry-sees-opportunity-amid-sec-chair-genslers-departure-3b256fcdea39?source=rss-22947912adc0------2)
+- [Unlocking the Power of Operational AI for Enterprises](https://medium.com/majordigest/unlocking-the-power-of-operational-ai-for-enterprises-31ffbadae665?source=rss-22947912adc0------2)
+- [The Impact of AI-Powered Surveillance on Immigration Enforcement](https://medium.com/majordigest/the-impact-of-ai-powered-surveillance-on-immigration-enforcement-b5a100b47b0e?source=rss-22947912adc0------2)
+- [AMD Takes On Nvidia: MI300 Series Revolutionizes AI Hardware Market](https://medium.com/majordigest/amd-takes-on-nvidia-mi300-series-revolutionizes-ai-hardware-market-b797be855051?source=rss-22947912adc0------2)
+- [The Discovery of Zero-Day Vulnerabilities: A Threat to Global Cybersecurity](https://medium.com/majordigest/the-discovery-of-zero-day-vulnerabilities-a-threat-to-global-cybersecurity-83a38b1aab38?source=rss-22947912adc0------2)
+- [The Power of APIs in the Financial Sector: Revolutionizing Innovation and Efficiency](https://medium.com/majordigest/the-power-of-apis-in-the-financial-sector-revolutionizing-innovation-and-efficiency-0f2d2010817b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
