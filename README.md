@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking the Power of Operational AI for Enterprises](https://medium.com/majordigest/unlocking-the-power-of-operational-ai-for-enterprises-31ffbadae665?source=rss-22947912adc0------2)
-- [The Impact of AI-Powered Surveillance on Immigration Enforcement](https://medium.com/majordigest/the-impact-of-ai-powered-surveillance-on-immigration-enforcement-b5a100b47b0e?source=rss-22947912adc0------2)
-- [AMD Takes On Nvidia: MI300 Series Revolutionizes AI Hardware Market](https://medium.com/majordigest/amd-takes-on-nvidia-mi300-series-revolutionizes-ai-hardware-market-b797be855051?source=rss-22947912adc0------2)
-- [The Discovery of Zero-Day Vulnerabilities: A Threat to Global Cybersecurity](https://medium.com/majordigest/the-discovery-of-zero-day-vulnerabilities-a-threat-to-global-cybersecurity-83a38b1aab38?source=rss-22947912adc0------2)
-- [The Power of APIs in the Financial Sector: Revolutionizing Innovation and Efficiency](https://medium.com/majordigest/the-power-of-apis-in-the-financial-sector-revolutionizing-innovation-and-efficiency-0f2d2010817b?source=rss-22947912adc0------2)
+- [10 Ways AI Can Transform Farming](https://medium.com/majordigest/10-ways-ai-can-transform-farming-9ee1a02247ea?source=rss-22947912adc0------2)
+- [Revolutionizing IT Leadership: Embracing the New Standard in a Multifaceted Business Environment](https://medium.com/majordigest/revolutionizing-it-leadership-embracing-the-new-standard-in-a-multifaceted-business-environment-9957f3a2382b?source=rss-22947912adc0------2)
+- [Implementing Zero Trust: Strategies for Securing IT and OT](https://medium.com/majordigest/implementing-zero-trust-strategies-for-securing-it-and-ot-6893155dd380?source=rss-22947912adc0------2)
+- [Federal Agencies Embracing Artificial Intelligence PCs](https://medium.com/majordigest/federal-agencies-embracing-artificial-intelligence-pcs-92a05066a601?source=rss-22947912adc0------2)
+- [Data Privacy in the Age of AI: A New Model for Consent](https://medium.com/majordigest/data-privacy-in-the-age-of-ai-a-new-model-for-consent-53a3a56d883e?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
