@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Ways AI Can Transform Farming](https://medium.com/majordigest/10-ways-ai-can-transform-farming-9ee1a02247ea?source=rss-22947912adc0------2)
-- [Revolutionizing IT Leadership: Embracing the New Standard in a Multifaceted Business Environment](https://medium.com/majordigest/revolutionizing-it-leadership-embracing-the-new-standard-in-a-multifaceted-business-environment-9957f3a2382b?source=rss-22947912adc0------2)
-- [Implementing Zero Trust: Strategies for Securing IT and OT](https://medium.com/majordigest/implementing-zero-trust-strategies-for-securing-it-and-ot-6893155dd380?source=rss-22947912adc0------2)
-- [Federal Agencies Embracing Artificial Intelligence PCs](https://medium.com/majordigest/federal-agencies-embracing-artificial-intelligence-pcs-92a05066a601?source=rss-22947912adc0------2)
-- [Data Privacy in the Age of AI: A New Model for Consent](https://medium.com/majordigest/data-privacy-in-the-age-of-ai-a-new-model-for-consent-53a3a56d883e?source=rss-22947912adc0------2)
+- [Spotify Spam Scam: How Scammers Misuse Playlists and Podcasts to Spread Malware and Steal Personal…](https://medium.com/majordigest/spotify-spam-scam-how-scammers-misuse-playlists-and-podcasts-to-spread-malware-and-steal-personal-77dc87ac7348?source=rss-22947912adc0------2)
+- [Intel’s CHIPS Act Funding Reduced Amid Investment Delays and Financial Woes](https://medium.com/majordigest/intels-chips-act-funding-reduced-amid-investment-delays-and-financial-woes-afc0c2f788d7?source=rss-22947912adc0------2)
+- [Google Sued by Competition Bureau in Canada Over Antitrust Allegations](https://medium.com/majordigest/google-sued-by-competition-bureau-in-canada-over-antitrust-allegations-e1926cad93ce?source=rss-22947912adc0------2)
+- [Hyperscalers Adopt Custom Silicon for Specific Workloads: A Game-Changer in Cloud Computing?](https://medium.com/majordigest/hyperscalers-adopt-custom-silicon-for-specific-workloads-a-game-changer-in-cloud-computing-3f4f8de7b9fe?source=rss-22947912adc0------2)
+- [Unlocking the Power of AI in Travel Planning: A Game-Changer for Your Next Getaway](https://medium.com/majordigest/unlocking-the-power-of-ai-in-travel-planning-a-game-changer-for-your-next-getaway-4b6ceb1985fa?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
