@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify Spam Scam: How Scammers Misuse Playlists and Podcasts to Spread Malware and Steal Personal…](https://medium.com/majordigest/spotify-spam-scam-how-scammers-misuse-playlists-and-podcasts-to-spread-malware-and-steal-personal-77dc87ac7348?source=rss-22947912adc0------2)
-- [Intel’s CHIPS Act Funding Reduced Amid Investment Delays and Financial Woes](https://medium.com/majordigest/intels-chips-act-funding-reduced-amid-investment-delays-and-financial-woes-afc0c2f788d7?source=rss-22947912adc0------2)
-- [Google Sued by Competition Bureau in Canada Over Antitrust Allegations](https://medium.com/majordigest/google-sued-by-competition-bureau-in-canada-over-antitrust-allegations-e1926cad93ce?source=rss-22947912adc0------2)
-- [Hyperscalers Adopt Custom Silicon for Specific Workloads: A Game-Changer in Cloud Computing?](https://medium.com/majordigest/hyperscalers-adopt-custom-silicon-for-specific-workloads-a-game-changer-in-cloud-computing-3f4f8de7b9fe?source=rss-22947912adc0------2)
-- [Unlocking the Power of AI in Travel Planning: A Game-Changer for Your Next Getaway](https://medium.com/majordigest/unlocking-the-power-of-ai-in-travel-planning-a-game-changer-for-your-next-getaway-4b6ceb1985fa?source=rss-22947912adc0------2)
+- [LinkedIn Exposed: The Rise of AI-Generated Content](https://medium.com/majordigest/linkedin-exposed-the-rise-of-ai-generated-content-28bc0ffce049?source=rss-22947912adc0------2)
+- [Sovereign Cloud: A Fundamental Necessity for Businesses](https://medium.com/majordigest/sovereign-cloud-a-fundamental-necessity-for-businesses-09f119d51f7d?source=rss-22947912adc0------2)
+- [Intel CEO Pat Gelsinger Steps Down Amid Turmoil at Chipmaker](https://medium.com/majordigest/intel-ceo-pat-gelsinger-steps-down-amid-turmoil-at-chipmaker-b689438be94d?source=rss-22947912adc0------2)
+- [Microsoft’s Recall Feature: A Double-Edged Sword for Privacy and Security](https://medium.com/majordigest/microsofts-recall-feature-a-double-edged-sword-for-privacy-and-security-8b8232600a25?source=rss-22947912adc0------2)
+- [Canadian News Outlets Sue OpenAI Over Copyright Infringement](https://medium.com/majordigest/canadian-news-outlets-sue-openai-over-copyright-infringement-619d225f578a?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
