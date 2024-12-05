@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn Exposed: The Rise of AI-Generated Content](https://medium.com/majordigest/linkedin-exposed-the-rise-of-ai-generated-content-28bc0ffce049?source=rss-22947912adc0------2)
-- [Sovereign Cloud: A Fundamental Necessity for Businesses](https://medium.com/majordigest/sovereign-cloud-a-fundamental-necessity-for-businesses-09f119d51f7d?source=rss-22947912adc0------2)
-- [Intel CEO Pat Gelsinger Steps Down Amid Turmoil at Chipmaker](https://medium.com/majordigest/intel-ceo-pat-gelsinger-steps-down-amid-turmoil-at-chipmaker-b689438be94d?source=rss-22947912adc0------2)
-- [Microsoft’s Recall Feature: A Double-Edged Sword for Privacy and Security](https://medium.com/majordigest/microsofts-recall-feature-a-double-edged-sword-for-privacy-and-security-8b8232600a25?source=rss-22947912adc0------2)
-- [Canadian News Outlets Sue OpenAI Over Copyright Infringement](https://medium.com/majordigest/canadian-news-outlets-sue-openai-over-copyright-infringement-619d225f578a?source=rss-22947912adc0------2)
+- [Commercial Space Federation Unveils New Name, Mandate, and Advocacy Efforts](https://medium.com/majordigest/commercial-space-federation-unveils-new-name-mandate-and-advocacy-efforts-69ad85a1f687?source=rss-22947912adc0------2)
+- [Breaking Down the Complexity of Database Costs: A Guide for IT Leaders](https://medium.com/majordigest/breaking-down-the-complexity-of-database-costs-a-guide-for-it-leaders-6e9c855924ef?source=rss-22947912adc0------2)
+- [DOGE: A New Government Agency for Efficiency Under Trump?](https://medium.com/majordigest/doge-a-new-government-agency-for-efficiency-under-trump-aa83e73adcf8?source=rss-22947912adc0------2)
+- [Secure Your Business with Secure Platforms](https://medium.com/majordigest/secure-your-business-with-secure-platforms-48875dfff0f9?source=rss-22947912adc0------2)
+- [Adapting to Change: The Importance of Modernising Applications in Today’s Business World](https://medium.com/majordigest/adapting-to-change-the-importance-of-modernising-applications-in-todays-business-world-fb1a462d6dc6?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
