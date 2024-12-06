@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Meta Develops Rival AI Model to Compete with OpenAI and Google](https://medium.com/majordigest/meta-develops-rival-ai-model-to-compete-with-openai-and-google-b9d4b4ff4675?source=rss-22947912adc0------2)
+- [Microsoft Faces £1.3 Billion Lawsuit Over Cloud Pricing](https://medium.com/majordigest/microsoft-faces-1-3-billion-lawsuit-over-cloud-pricing-5e515dd8d660?source=rss-22947912adc0------2)
+- [Meta’s $10 Billion Louisiana Data Center Brings Economic Hopes, Environmental Concerns](https://medium.com/majordigest/metas-10-billion-louisiana-data-center-brings-economic-hopes-environmental-concerns-d1ac3b300fe1?source=rss-22947912adc0------2)
+- [CFPB Cracks Down on Data Brokers with New Proposal](https://medium.com/majordigest/cfpb-cracks-down-on-data-brokers-with-new-proposal-6eb18dd229f6?source=rss-22947912adc0------2)
 - [Commercial Space Federation Unveils New Name, Mandate, and Advocacy Efforts](https://medium.com/majordigest/commercial-space-federation-unveils-new-name-mandate-and-advocacy-efforts-69ad85a1f687?source=rss-22947912adc0------2)
-- [Breaking Down the Complexity of Database Costs: A Guide for IT Leaders](https://medium.com/majordigest/breaking-down-the-complexity-of-database-costs-a-guide-for-it-leaders-6e9c855924ef?source=rss-22947912adc0------2)
-- [DOGE: A New Government Agency for Efficiency Under Trump?](https://medium.com/majordigest/doge-a-new-government-agency-for-efficiency-under-trump-aa83e73adcf8?source=rss-22947912adc0------2)
-- [Secure Your Business with Secure Platforms](https://medium.com/majordigest/secure-your-business-with-secure-platforms-48875dfff0f9?source=rss-22947912adc0------2)
-- [Adapting to Change: The Importance of Modernising Applications in Today’s Business World](https://medium.com/majordigest/adapting-to-change-the-importance-of-modernising-applications-in-todays-business-world-fb1a462d6dc6?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
