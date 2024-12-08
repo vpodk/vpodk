@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Develops Rival AI Model to Compete with OpenAI and Google](https://medium.com/majordigest/meta-develops-rival-ai-model-to-compete-with-openai-and-google-b9d4b4ff4675?source=rss-22947912adc0------2)
-- [Microsoft Faces £1.3 Billion Lawsuit Over Cloud Pricing](https://medium.com/majordigest/microsoft-faces-1-3-billion-lawsuit-over-cloud-pricing-5e515dd8d660?source=rss-22947912adc0------2)
-- [Meta’s $10 Billion Louisiana Data Center Brings Economic Hopes, Environmental Concerns](https://medium.com/majordigest/metas-10-billion-louisiana-data-center-brings-economic-hopes-environmental-concerns-d1ac3b300fe1?source=rss-22947912adc0------2)
-- [CFPB Cracks Down on Data Brokers with New Proposal](https://medium.com/majordigest/cfpb-cracks-down-on-data-brokers-with-new-proposal-6eb18dd229f6?source=rss-22947912adc0------2)
-- [Commercial Space Federation Unveils New Name, Mandate, and Advocacy Efforts](https://medium.com/majordigest/commercial-space-federation-unveils-new-name-mandate-and-advocacy-efforts-69ad85a1f687?source=rss-22947912adc0------2)
+- [Elon Musk’s Neuralink Expands in Central Texas](https://medium.com/majordigest/elon-musks-neuralink-expands-in-central-texas-64c42f7c73d8?source=rss-22947912adc0------2)
+- [Glasses with AI Assist Dementia Patients, Rollout Expected Next Year](https://medium.com/majordigest/glasses-with-ai-assist-dementia-patients-rollout-expected-next-year-98aa00dc76ed?source=rss-22947912adc0------2)
+- [AI-Powered Weight Loss: The Hidden Dangers for Teenagers](https://medium.com/majordigest/ai-powered-weight-loss-the-hidden-dangers-for-teenagers-e86b6afe9f3d?source=rss-22947912adc0------2)
+- [Unlocking GenAI Potential: The Power of Unified Data Infrastructure](https://medium.com/majordigest/unlocking-genai-potential-the-power-of-unified-data-infrastructure-8095bda6be02?source=rss-22947912adc0------2)
+- [US Federal Officials Urge Telecom Companies to Boost Security with Encrypted Messaging Apps](https://medium.com/majordigest/us-federal-officials-urge-telecom-companies-to-boost-security-with-encrypted-messaging-apps-bd2283c3b7b7?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
