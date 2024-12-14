@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok Seeks Judicial Review of Canadian Shutdown Order](https://medium.com/majordigest/tiktok-seeks-judicial-review-of-canadian-shutdown-order-4b4c36fcfb35?source=rss-22947912adc0------2)
-- [Groundbreaking Study Finds Electric Vehicle Batteries May Last Longer Than Expected](https://medium.com/majordigest/groundbreaking-study-finds-electric-vehicle-batteries-may-last-longer-than-expected-9f2a75026dad?source=rss-22947912adc0------2)
-- [The Evolution of AI in Enterprise Workflows: From Large-Scale GenAI to Strategic Orchestration](https://medium.com/majordigest/the-evolution-of-ai-in-enterprise-workflows-from-large-scale-genai-to-strategic-orchestration-a38444dfca70?source=rss-22947912adc0------2)
-- [General Motors Pulls Funding from Robotaxi Company Cruise](https://medium.com/majordigest/general-motors-pulls-funding-from-robotaxi-company-cruise-4f33114f9123?source=rss-22947912adc0------2)
-- [7 Strategies for Building High-Quality Chatbots](https://medium.com/majordigest/7-strategies-for-building-high-quality-chatbots-568ccef0cecb?source=rss-22947912adc0------2)
+- [Google Powers Future Data Centers with Renewable Energy](https://medium.com/majordigest/google-powers-future-data-centers-with-renewable-energy-a81e3e1c8afc?source=rss-22947912adc0------2)
+- [Unlocking Human Creativity: The Wizard of Oz and the Power of AI](https://medium.com/majordigest/unlocking-human-creativity-the-wizard-of-oz-and-the-power-of-ai-acd90362d536?source=rss-22947912adc0------2)
+- [Meta Donates $1 Million to President-elect Trump’s Inaugural Fund](https://medium.com/majordigest/meta-donates-1-million-to-president-elect-trumps-inaugural-fund-4c2f5dc767e5?source=rss-22947912adc0------2)
+- [Google Unveils Gemini 2.0: A New AI Model for the Agentic Era](https://medium.com/majordigest/google-unveils-gemini-2-0-a-new-ai-model-for-the-agentic-era-4c416b4fe604?source=rss-22947912adc0------2)
+- [Researchers Bypass AMD’s Secure Encrypted Virtualization &lpar;SEV&rpar; with $10 Test Rig](https://medium.com/majordigest/researchers-bypass-amds-secure-encrypted-virtualization-sev-with-10-test-rig-86e5462fdfa3?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
