@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [US Raises Tariffs on Solar Wafers, Polysilicon and Tungsten Products](https://medium.com/majordigest/us-raises-tariffs-on-solar-wafers-polysilicon-and-tungsten-products-48f2c62905e6?source=rss-22947912adc0------2)
-- [Google Powers Future Data Centers with Renewable Energy](https://medium.com/majordigest/google-powers-future-data-centers-with-renewable-energy-a81e3e1c8afc?source=rss-22947912adc0------2)
-- [Unlocking Human Creativity: The Wizard of Oz and the Power of AI](https://medium.com/majordigest/unlocking-human-creativity-the-wizard-of-oz-and-the-power-of-ai-acd90362d536?source=rss-22947912adc0------2)
-- [Meta Donates $1 Million to President-elect Trump’s Inaugural Fund](https://medium.com/majordigest/meta-donates-1-million-to-president-elect-trumps-inaugural-fund-4c2f5dc767e5?source=rss-22947912adc0------2)
-- [Google Unveils Gemini 2.0: A New AI Model for the Agentic Era](https://medium.com/majordigest/google-unveils-gemini-2-0-a-new-ai-model-for-the-agentic-era-4c416b4fe604?source=rss-22947912adc0------2)
+- [The Rise of State-Level AI Regulation: A New Era for California?](https://medium.com/majordigest/the-rise-of-state-level-ai-regulation-a-new-era-for-california-3428edfa6e50?source=rss-22947912adc0------2)
+- [YouTube Enters the Living Room: A Billion Hours Streamed Daily](https://medium.com/majordigest/youtube-enters-the-living-room-a-billion-hours-streamed-daily-d35c087e7460?source=rss-22947912adc0------2)
+- [Mozilla Scraps Do Not Track Feature in Firefox: What’s Next for Users?](https://medium.com/majordigest/mozilla-scraps-do-not-track-feature-in-firefox-whats-next-for-users-244a009d3259?source=rss-22947912adc0------2)
+- [The Secret to Resealing Amazon Shipping Bags: A Game-Changer for Returns](https://medium.com/majordigest/the-secret-to-resealing-amazon-shipping-bags-a-game-changer-for-returns-7484f3b229b1?source=rss-22947912adc0------2)
+- [Cloud Computing Taxes: Impact on Businesses](https://medium.com/majordigest/cloud-computing-taxes-impact-on-businesses-41cb44770c4c?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
