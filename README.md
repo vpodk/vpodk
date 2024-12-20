@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Intel’s Arm-Based PC Return Rate Concerns: A Matter of Perception?](https://medium.com/majordigest/intels-arm-based-pc-return-rate-concerns-a-matter-of-perception-8a44df28be23?source=rss-22947912adc0------2)
+- [Microsoft Axes Skype Credit and Phone Number Sales to Push Subscriptions](https://medium.com/majordigest/microsoft-axes-skype-credit-and-phone-number-sales-to-push-subscriptions-3336504ffafb?source=rss-22947912adc0------2)
+- [The Internet is Falling Apart: A Dystopian Future Looms](https://medium.com/majordigest/the-internet-is-falling-apart-a-dystopian-future-looms-311feef1a5db?source=rss-22947912adc0------2)
 - [How to Factory Reset Your Android Phone: A Step-by-Step Guide](https://medium.com/majordigest/how-to-factory-reset-your-android-phone-a-step-by-step-guide-ae39ae2116d6?source=rss-22947912adc0------2)
 - [Google Unveils AI Agent Builder Tool to Automate Repetitive Tasks](https://medium.com/majordigest/google-unveils-ai-agent-builder-tool-to-automate-repetitive-tasks-fe3262dba3ac?source=rss-22947912adc0------2)
-- [Delete Multiple Emails on Android at Once: A Step-by-Step Guide](https://medium.com/majordigest/delete-multiple-emails-on-android-at-once-a-step-by-step-guide-b24abebcd693?source=rss-22947912adc0------2)
-- [The Rise of State-Level AI Regulation: A New Era for California?](https://medium.com/majordigest/the-rise-of-state-level-ai-regulation-a-new-era-for-california-3428edfa6e50?source=rss-22947912adc0------2)
-- [YouTube Enters the Living Room: A Billion Hours Streamed Daily](https://medium.com/majordigest/youtube-enters-the-living-room-a-billion-hours-streamed-daily-d35c087e7460?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
