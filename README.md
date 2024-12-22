@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Cloud Repatriation Trend: A Shift in Strategy](https://medium.com/majordigest/the-cloud-repatriation-trend-a-shift-in-strategy-329fad901e5e?source=rss-22947912adc0------2)
+- [NextEra Energy Partners with Phillips 66 on Largest On-Site Solar Facility](https://medium.com/majordigest/nextera-energy-partners-with-phillips-66-on-largest-on-site-solar-facility-1dab28d2ec92?source=rss-22947912adc0------2)
+- [Cybersecurity and Infrastructure Security Agency Releases Updated National Cyber Incident Response…](https://medium.com/majordigest/cybersecurity-and-infrastructure-security-agency-releases-updated-national-cyber-incident-response-05d94e4f3b23?source=rss-22947912adc0------2)
 - [Intel’s Arm-Based PC Return Rate Concerns: A Matter of Perception?](https://medium.com/majordigest/intels-arm-based-pc-return-rate-concerns-a-matter-of-perception-8a44df28be23?source=rss-22947912adc0------2)
 - [Microsoft Axes Skype Credit and Phone Number Sales to Push Subscriptions](https://medium.com/majordigest/microsoft-axes-skype-credit-and-phone-number-sales-to-push-subscriptions-3336504ffafb?source=rss-22947912adc0------2)
-- [The Internet is Falling Apart: A Dystopian Future Looms](https://medium.com/majordigest/the-internet-is-falling-apart-a-dystopian-future-looms-311feef1a5db?source=rss-22947912adc0------2)
-- [How to Factory Reset Your Android Phone: A Step-by-Step Guide](https://medium.com/majordigest/how-to-factory-reset-your-android-phone-a-step-by-step-guide-ae39ae2116d6?source=rss-22947912adc0------2)
-- [Google Unveils AI Agent Builder Tool to Automate Repetitive Tasks](https://medium.com/majordigest/google-unveils-ai-agent-builder-tool-to-automate-repetitive-tasks-fe3262dba3ac?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
