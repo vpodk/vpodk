@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Go Programming Language Reaches Release Candidate Stage](https://medium.com/majordigest/googles-go-programming-language-reaches-release-candidate-stage-a5c90f0ee691?source=rss-22947912adc0------2)
+- [Mismatch in Google’s Gemini AI Raises Questions](https://medium.com/majordigest/mismatch-in-googles-gemini-ai-raises-questions-727fc9d664cf?source=rss-22947912adc0------2)
 - [Folding Phone Fans Face Longer Wait for OnePlus Open 2](https://medium.com/majordigest/folding-phone-fans-face-longer-wait-for-oneplus-open-2-a7cc899a8782?source=rss-22947912adc0------2)
 - [The Cloud Repatriation Trend: A Shift in Strategy](https://medium.com/majordigest/the-cloud-repatriation-trend-a-shift-in-strategy-329fad901e5e?source=rss-22947912adc0------2)
 - [NextEra Energy Partners with Phillips 66 on Largest On-Site Solar Facility](https://medium.com/majordigest/nextera-energy-partners-with-phillips-66-on-largest-on-site-solar-facility-1dab28d2ec92?source=rss-22947912adc0------2)
-- [Cybersecurity and Infrastructure Security Agency Releases Updated National Cyber Incident Response…](https://medium.com/majordigest/cybersecurity-and-infrastructure-security-agency-releases-updated-national-cyber-incident-response-05d94e4f3b23?source=rss-22947912adc0------2)
-- [Intel’s Arm-Based PC Return Rate Concerns: A Matter of Perception?](https://medium.com/majordigest/intels-arm-based-pc-return-rate-concerns-a-matter-of-perception-8a44df28be23?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
