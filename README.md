@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA’s Parker Solar Probe Aims for Record-Closest Flyby of the Sun](https://medium.com/majordigest/nasas-parker-solar-probe-aims-for-record-closest-flyby-of-the-sun-741ef8e859dd?source=rss-22947912adc0------2)
+- [CES 2025: Lenovo’s Rollable Laptop Concept Set to Debut?](https://medium.com/majordigest/ces-2025-lenovos-rollable-laptop-concept-set-to-debut-d84b7261f4e2?source=rss-22947912adc0------2)
+- [Google Whisk: A New AI Tool for Visual Concept Creation](https://medium.com/majordigest/google-whisk-a-new-ai-tool-for-visual-concept-creation-965970ceeab5?source=rss-22947912adc0------2)
 - [Google’s Go Programming Language Reaches Release Candidate Stage](https://medium.com/majordigest/googles-go-programming-language-reaches-release-candidate-stage-a5c90f0ee691?source=rss-22947912adc0------2)
 - [Mismatch in Google’s Gemini AI Raises Questions](https://medium.com/majordigest/mismatch-in-googles-gemini-ai-raises-questions-727fc9d664cf?source=rss-22947912adc0------2)
-- [Folding Phone Fans Face Longer Wait for OnePlus Open 2](https://medium.com/majordigest/folding-phone-fans-face-longer-wait-for-oneplus-open-2-a7cc899a8782?source=rss-22947912adc0------2)
-- [The Cloud Repatriation Trend: A Shift in Strategy](https://medium.com/majordigest/the-cloud-repatriation-trend-a-shift-in-strategy-329fad901e5e?source=rss-22947912adc0------2)
-- [NextEra Energy Partners with Phillips 66 on Largest On-Site Solar Facility](https://medium.com/majordigest/nextera-energy-partners-with-phillips-66-on-largest-on-site-solar-facility-1dab28d2ec92?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
