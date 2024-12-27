@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Dark Side of Wi-Fi Cameras: The Unseen Threat of Wi-Fi Jammers](https://medium.com/majordigest/the-dark-side-of-wi-fi-cameras-the-unseen-threat-of-wi-fi-jammers-9b23f7cf0e32?source=rss-22947912adc0------2)
+- [The Streaming Dilemma: When Does the Cost Stop Going Up?](https://medium.com/majordigest/the-streaming-dilemma-when-does-the-cost-stop-going-up-7114e2fb6be5?source=rss-22947912adc0------2)
+- [The Unstoppable Forces Shaking Enterprise Tech Stacks](https://medium.com/majordigest/the-unstoppable-forces-shaking-enterprise-tech-stacks-e9aa520c496e?source=rss-22947912adc0------2)
 - [NASA’s Parker Solar Probe Aims for Record-Closest Flyby of the Sun](https://medium.com/majordigest/nasas-parker-solar-probe-aims-for-record-closest-flyby-of-the-sun-741ef8e859dd?source=rss-22947912adc0------2)
 - [CES 2025: Lenovo’s Rollable Laptop Concept Set to Debut?](https://medium.com/majordigest/ces-2025-lenovos-rollable-laptop-concept-set-to-debut-d84b7261f4e2?source=rss-22947912adc0------2)
-- [Google Whisk: A New AI Tool for Visual Concept Creation](https://medium.com/majordigest/google-whisk-a-new-ai-tool-for-visual-concept-creation-965970ceeab5?source=rss-22947912adc0------2)
-- [Google’s Go Programming Language Reaches Release Candidate Stage](https://medium.com/majordigest/googles-go-programming-language-reaches-release-candidate-stage-a5c90f0ee691?source=rss-22947912adc0------2)
-- [Mismatch in Google’s Gemini AI Raises Questions](https://medium.com/majordigest/mismatch-in-googles-gemini-ai-raises-questions-727fc9d664cf?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
