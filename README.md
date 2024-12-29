@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The Future of Wildlife Surveillance: AI-Powered Acoustic Monitoring for Conservation](https://medium.com/majordigest/the-future-of-wildlife-surveillance-ai-powered-acoustic-monitoring-for-conservation-4a6ea60a7e0b?source=rss-22947912adc0------2)
+- [Router Security Alert: Millions at Risk Due to “Out of Sight, Out of Mind” Attitude](https://medium.com/majordigest/router-security-alert-millions-at-risk-due-to-out-of-sight-out-of-mind-attitude-5ae27c8233e6?source=rss-22947912adc0------2)
 - [Fine-Tuned AI for Kubernetes Management: Revolutionizing Orchestration](https://medium.com/majordigest/fine-tuned-ai-for-kubernetes-management-revolutionizing-orchestration-7725747ab917?source=rss-22947912adc0------2)
 - [The 2025 National Defense Authorization Act: A Comprehensive Analysis of the Signed Legislation](https://medium.com/majordigest/the-2025-national-defense-authorization-act-a-comprehensive-analysis-of-the-signed-legislation-202f5d2d58c0?source=rss-22947912adc0------2)
 - [Cybersecurity Concerns Rise Amid Revised Shutdown Plan](https://medium.com/majordigest/cybersecurity-concerns-rise-amid-revised-shutdown-plan-b6bcd6a634e0?source=rss-22947912adc0------2)
-- [The Dark Side of Wi-Fi Cameras: The Unseen Threat of Wi-Fi Jammers](https://medium.com/majordigest/the-dark-side-of-wi-fi-cameras-the-unseen-threat-of-wi-fi-jammers-9b23f7cf0e32?source=rss-22947912adc0------2)
-- [The Streaming Dilemma: When Does the Cost Stop Going Up?](https://medium.com/majordigest/the-streaming-dilemma-when-does-the-cost-stop-going-up-7114e2fb6be5?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
