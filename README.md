@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [YouTube’s “Play Something” Button: A Game-Changer in Video Streaming?](https://medium.com/majordigest/youtubes-play-something-button-a-game-changer-in-video-streaming-f1391a2f79c2?source=rss-22947912adc0------2)
+- [Modern ICAM Strategies for Secure Operations](https://medium.com/majordigest/modern-icam-strategies-for-secure-operations-56dc5a4a1439?source=rss-22947912adc0------2)
 - [Samsung Teases Galaxy Ring 2 and AR Glasses in January Unpacked Event | Tech News](https://medium.com/majordigest/samsung-teases-galaxy-ring-2-and-ar-glasses-in-january-unpacked-event-tech-news-6edab4e5b3c6?source=rss-22947912adc0------2)
 - [The Future of Wildlife Surveillance: AI-Powered Acoustic Monitoring for Conservation](https://medium.com/majordigest/the-future-of-wildlife-surveillance-ai-powered-acoustic-monitoring-for-conservation-4a6ea60a7e0b?source=rss-22947912adc0------2)
 - [Router Security Alert: Millions at Risk Due to “Out of Sight, Out of Mind” Attitude](https://medium.com/majordigest/router-security-alert-millions-at-risk-due-to-out-of-sight-out-of-mind-attitude-5ae27c8233e6?source=rss-22947912adc0------2)
-- [Fine-Tuned AI for Kubernetes Management: Revolutionizing Orchestration](https://medium.com/majordigest/fine-tuned-ai-for-kubernetes-management-revolutionizing-orchestration-7725747ab917?source=rss-22947912adc0------2)
-- [The 2025 National Defense Authorization Act: A Comprehensive Analysis of the Signed Legislation](https://medium.com/majordigest/the-2025-national-defense-authorization-act-a-comprehensive-analysis-of-the-signed-legislation-202f5d2d58c0?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
