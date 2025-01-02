@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elon Musk Sparks Outrage with Support for Germany’s Far-Right Party](https://medium.com/majordigest/elon-musk-sparks-outrage-with-support-for-germanys-far-right-party-15c3eeefa7f5?source=rss-22947912adc0------2)
+- [Recovering Accidentally Deleted Text Messages on Android](https://medium.com/majordigest/recovering-accidentally-deleted-text-messages-on-android-e931cb743e2f?source=rss-22947912adc0------2)
 - [Samsung Phones in 2025: Galaxy Z Fold 7, Flip 7, and More](https://medium.com/majordigest/samsung-phones-in-2025-galaxy-z-fold-7-flip-7-and-more-79474d8dc0a5?source=rss-22947912adc0------2)
 - [YouTube’s “Play Something” Button: A Game-Changer in Video Streaming?](https://medium.com/majordigest/youtubes-play-something-button-a-game-changer-in-video-streaming-f1391a2f79c2?source=rss-22947912adc0------2)
 - [Modern ICAM Strategies for Secure Operations](https://medium.com/majordigest/modern-icam-strategies-for-secure-operations-56dc5a4a1439?source=rss-22947912adc0------2)
-- [Samsung Teases Galaxy Ring 2 and AR Glasses in January Unpacked Event | Tech News](https://medium.com/majordigest/samsung-teases-galaxy-ring-2-and-ar-glasses-in-january-unpacked-event-tech-news-6edab4e5b3c6?source=rss-22947912adc0------2)
-- [The Future of Wildlife Surveillance: AI-Powered Acoustic Monitoring for Conservation](https://medium.com/majordigest/the-future-of-wildlife-surveillance-ai-powered-acoustic-monitoring-for-conservation-4a6ea60a7e0b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
