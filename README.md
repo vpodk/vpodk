@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Galaxy S25: All-Snapdragon, No-Exynos in Sight?](https://medium.com/majordigest/the-galaxy-s25-all-snapdragon-no-exynos-in-sight-bdb080097b04?source=rss-22947912adc0------2)
+- [Sony Plans Gradual Updates to PlayStation Portal Experience](https://medium.com/majordigest/sony-plans-gradual-updates-to-playstation-portal-experience-982f83551a7d?source=rss-22947912adc0------2)
+- [Google Smart Speakers Stop Responding to Questions — Fixed Now](https://medium.com/majordigest/google-smart-speakers-stop-responding-to-questions-fixed-now-5df84e6a66d2?source=rss-22947912adc0------2)
+- [Nvidia RTX 5090 and 5080 Power Consumption Rumors Surface](https://medium.com/majordigest/nvidia-rtx-5090-and-5080-power-consumption-rumors-surface-297da5f0c05a?source=rss-22947912adc0------2)
+- [The Galaxy S25: All-Snapdragon, No-Exynos in Sight?](https://medium.com/readers-club/the-galaxy-s25-all-snapdragon-no-exynos-in-sight-bdb080097b04?source=rss-22947912adc0------2)
 - [Elon Musk Sparks Outrage with Support for Germany’s Far-Right Party](https://medium.com/majordigest/elon-musk-sparks-outrage-with-support-for-germanys-far-right-party-15c3eeefa7f5?source=rss-22947912adc0------2)
-- [Recovering Accidentally Deleted Text Messages on Android](https://medium.com/majordigest/recovering-accidentally-deleted-text-messages-on-android-e931cb743e2f?source=rss-22947912adc0------2)
-- [Samsung Phones in 2025: Galaxy Z Fold 7, Flip 7, and More](https://medium.com/majordigest/samsung-phones-in-2025-galaxy-z-fold-7-flip-7-and-more-79474d8dc0a5?source=rss-22947912adc0------2)
-- [YouTube’s “Play Something” Button: A Game-Changer in Video Streaming?](https://medium.com/majordigest/youtubes-play-something-button-a-game-changer-in-video-streaming-f1391a2f79c2?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
