@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Graviton Adoption on the Rise: Half of All Instances Use Custom Silicon](https://medium.com/majordigest/aws-graviton-adoption-on-the-rise-half-of-all-instances-use-custom-silicon-07a6c460f4fb?source=rss-22947912adc0------2)
+- [US PC Market Set for Slowdown in 2025 Amid Proposed Tariffs and Windows Upgrade Costs](https://medium.com/majordigest/us-pc-market-set-for-slowdown-in-2025-amid-proposed-tariffs-and-windows-upgrade-costs-fd522366cb6e?source=rss-22947912adc0------2)
+- [Linux Filesystems: A Guide to Choosing the Right One](https://medium.com/majordigest/linux-filesystems-a-guide-to-choosing-the-right-one-a50abb772963?source=rss-22947912adc0------2)
 - [Sony Plans Gradual Updates to PlayStation Portal Experience](https://medium.com/majordigest/sony-plans-gradual-updates-to-playstation-portal-experience-982f83551a7d?source=rss-22947912adc0------2)
 - [Google Smart Speakers Stop Responding to Questions — Fixed Now](https://medium.com/majordigest/google-smart-speakers-stop-responding-to-questions-fixed-now-5df84e6a66d2?source=rss-22947912adc0------2)
-- [Nvidia RTX 5090 and 5080 Power Consumption Rumors Surface](https://medium.com/majordigest/nvidia-rtx-5090-and-5080-power-consumption-rumors-surface-297da5f0c05a?source=rss-22947912adc0------2)
-- [The Galaxy S25: All-Snapdragon, No-Exynos in Sight?](https://medium.com/readers-club/the-galaxy-s25-all-snapdragon-no-exynos-in-sight-bdb080097b04?source=rss-22947912adc0------2)
-- [Elon Musk Sparks Outrage with Support for Germany’s Far-Right Party](https://medium.com/majordigest/elon-musk-sparks-outrage-with-support-for-germanys-far-right-party-15c3eeefa7f5?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
