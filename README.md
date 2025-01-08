@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Stay Safe Online: The Rise of Fake VPN Apps and How to Protect Yourself](https://medium.com/majordigest/stay-safe-online-the-rise-of-fake-vpn-apps-and-how-to-protect-yourself-0f8c00b6c8c0?source=rss-22947912adc0------2)
+- [OnePlus 13 Confirmed to be IP68/IP69 Rated Globally](https://medium.com/majordigest/oneplus-13-confirmed-to-be-ip68-ip69-rated-globally-acd8a2f5b8ef?source=rss-22947912adc0------2)
 - [AWS Graviton Adoption on the Rise: Half of All Instances Use Custom Silicon](https://medium.com/majordigest/aws-graviton-adoption-on-the-rise-half-of-all-instances-use-custom-silicon-07a6c460f4fb?source=rss-22947912adc0------2)
 - [US PC Market Set for Slowdown in 2025 Amid Proposed Tariffs and Windows Upgrade Costs](https://medium.com/majordigest/us-pc-market-set-for-slowdown-in-2025-amid-proposed-tariffs-and-windows-upgrade-costs-fd522366cb6e?source=rss-22947912adc0------2)
 - [Linux Filesystems: A Guide to Choosing the Right One](https://medium.com/majordigest/linux-filesystems-a-guide-to-choosing-the-right-one-a50abb772963?source=rss-22947912adc0------2)
-- [Sony Plans Gradual Updates to PlayStation Portal Experience](https://medium.com/majordigest/sony-plans-gradual-updates-to-playstation-portal-experience-982f83551a7d?source=rss-22947912adc0------2)
-- [Google Smart Speakers Stop Responding to Questions — Fixed Now](https://medium.com/majordigest/google-smart-speakers-stop-responding-to-questions-fixed-now-5df84e6a66d2?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
