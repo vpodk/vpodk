@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s New Location Sharing Feature: A Game-Changer for Android Users](https://medium.com/majordigest/googles-new-location-sharing-feature-a-game-changer-for-android-users-22728b1bc8e8?source=rss-22947912adc0------2)
+- [SAP S/4HANA Workloads on IBM Power Systems: A New Era in Cloud Migration](https://medium.com/majordigest/sap-s-4hana-workloads-on-ibm-power-systems-a-new-era-in-cloud-migration-a958dbb44992?source=rss-22947912adc0------2)
+- [NaaS Trends: What to Expect in 2025](https://medium.com/majordigest/naas-trends-what-to-expect-in-2025-1a03b6795ec2?source=rss-22947912adc0------2)
 - [Google Faces NLRB Complaint Over Contract Worker Unionization](https://medium.com/majordigest/google-faces-nlrb-complaint-over-contract-worker-unionization-3c45d94546e4?source=rss-22947912adc0------2)
 - [Stay Safe Online: The Rise of Fake VPN Apps and How to Protect Yourself](https://medium.com/majordigest/stay-safe-online-the-rise-of-fake-vpn-apps-and-how-to-protect-yourself-0f8c00b6c8c0?source=rss-22947912adc0------2)
-- [OnePlus 13 Confirmed to be IP68/IP69 Rated Globally](https://medium.com/majordigest/oneplus-13-confirmed-to-be-ip68-ip69-rated-globally-acd8a2f5b8ef?source=rss-22947912adc0------2)
-- [AWS Graviton Adoption on the Rise: Half of All Instances Use Custom Silicon](https://medium.com/majordigest/aws-graviton-adoption-on-the-rise-half-of-all-instances-use-custom-silicon-07a6c460f4fb?source=rss-22947912adc0------2)
-- [US PC Market Set for Slowdown in 2025 Amid Proposed Tariffs and Windows Upgrade Costs](https://medium.com/majordigest/us-pc-market-set-for-slowdown-in-2025-amid-proposed-tariffs-and-windows-upgrade-costs-fd522366cb6e?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
