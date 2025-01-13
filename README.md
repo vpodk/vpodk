@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Pudu Robotics Unveils D9 Humanoid Robot, Revolutionizing Work and Interaction](https://medium.com/majordigest/pudu-robotics-unveils-d9-humanoid-robot-revolutionizing-work-and-interaction-149ab3a13b02?source=rss-22947912adc0------2)
+- [AI Copies of Real People: The Double-Edged Sword](https://medium.com/majordigest/ai-copies-of-real-people-the-double-edged-sword-31f6655e5f0a?source=rss-22947912adc0------2)
+- [Federal IT Skills Shortage: How AI Can Help Relieve the Gap and Improve Security](https://medium.com/majordigest/federal-it-skills-shortage-how-ai-can-help-relieve-the-gap-and-improve-security-d01007442d6b?source=rss-22947912adc0------2)
 - [2025 Must Turn AI Possibilities into Realities](https://medium.com/readers-club/2025-must-turn-ai-possibilities-into-realities-c11688a37463?source=rss-22947912adc0------2)
 - [Google’s New Location Sharing Feature: A Game-Changer for Android Users](https://medium.com/majordigest/googles-new-location-sharing-feature-a-game-changer-for-android-users-22728b1bc8e8?source=rss-22947912adc0------2)
-- [SAP S/4HANA Workloads on IBM Power Systems: A New Era in Cloud Migration](https://medium.com/majordigest/sap-s-4hana-workloads-on-ibm-power-systems-a-new-era-in-cloud-migration-a958dbb44992?source=rss-22947912adc0------2)
-- [NaaS Trends: What to Expect in 2025](https://medium.com/majordigest/naas-trends-what-to-expect-in-2025-1a03b6795ec2?source=rss-22947912adc0------2)
-- [Google Faces NLRB Complaint Over Contract Worker Unionization](https://medium.com/majordigest/google-faces-nlrb-complaint-over-contract-worker-unionization-3c45d94546e4?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
