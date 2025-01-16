@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [.NET Minimal APIs: A Game-Changer for Cloud-Native Applications](https://medium.com/majordigest/net-minimal-apis-a-game-changer-for-cloud-native-applications-efe3b70f565e?source=rss-22947912adc0------2)
+- [Microsoft’s Plan to Revamp Edge: A New Era for the Web Browser?](https://medium.com/majordigest/microsofts-plan-to-revamp-edge-a-new-era-for-the-web-browser-b70453b2823f?source=rss-22947912adc0------2)
+- [Nvidia Faces Revenue Threat Amid U.S. Export Restrictions on AI Chips](https://medium.com/majordigest/nvidia-faces-revenue-threat-amid-u-s-export-restrictions-on-ai-chips-c0ad6b6e6db0?source=rss-22947912adc0------2)
 - [PowerSchool Confirms Cybersecurity Breach](https://medium.com/majordigest/powerschool-confirms-cybersecurity-breach-067a768c7fec?source=rss-22947912adc0------2)
 - [The OnePlus Open 2: A Potential Game-Changer in Foldable Tech?](https://medium.com/majordigest/the-oneplus-open-2-a-potential-game-changer-in-foldable-tech-3c5e2abfa52e?source=rss-22947912adc0------2)
-- [Google Faces Privacy Lawsuit Over Mobile Device Data Collection](https://medium.com/majordigest/google-faces-privacy-lawsuit-over-mobile-device-data-collection-a297847cf2ca?source=rss-22947912adc0------2)
-- [Pudu Robotics Unveils D9 Humanoid Robot, Revolutionizing Work and Interaction](https://medium.com/majordigest/pudu-robotics-unveils-d9-humanoid-robot-revolutionizing-work-and-interaction-149ab3a13b02?source=rss-22947912adc0------2)
-- [AI Copies of Real People: The Double-Edged Sword](https://medium.com/readers-club/ai-copies-of-real-people-the-double-edged-sword-31f6655e5f0a?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
