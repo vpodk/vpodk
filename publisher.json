@@ -1,10 +1,5 @@
 [
   [
-    "As of 2024, there is no better time to learn JavaScript.",
-    "#JavaScript #Programming #Coding #Tutorial #FutureAhead #100DaysOfCode",
-    "https://vpodk.medium.com/learn-javascript-basics-in-5-minutes-443abbf71647"
-  ],
-  [
     "So now the question remains as to why we should choose hybrid apps over the native apps?",
     "#PWA #HybridApp #WebDevelopment #SoftwareDevelopment #MVP #WebAppDevelopment #FutureAhead",
     "https://vpodk.medium.com/5-reasons-to-build-hybrid-mobile-app-db94f885e99d"
@@ -183,5 +178,10 @@
     "🛂 Debouncing and throttling events module. Debounce and Throttle are two similar methods for controlling how many times we allow a function to run over time.",
     "#JavaScript #Throttle #Debounce #Programming #Coding #OpenSource #100DaysOfCode",
     "https://github.com/Datamart/debouncing"
+  ],
+  [
+    "As of 2024, there is no better time to learn JavaScript.",
+    "#JavaScript #Programming #Coding #Tutorial #FutureAhead #100DaysOfCode",
+    "https://vpodk.medium.com/learn-javascript-basics-in-5-minutes-443abbf71647"
   ]
 ]
