@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [MIT and Generali Form Strategic Partnership to Explore AI Applications](https://medium.com/majordigest/mit-and-generali-form-strategic-partnership-to-explore-ai-applications-6df0c3544fc3?source=rss-22947912adc0------2)
+- [TikTok Ownership Proposal: U.S. Government Could Own Up to 50% of New Entity](https://medium.com/majordigest/tiktok-ownership-proposal-u-s-government-could-own-up-to-50-of-new-entity-f74bf9d009e0?source=rss-22947912adc0------2)
+- [App Developers Accused of Collecting and Selling Location Data Without Consent](https://medium.com/majordigest/app-developers-accused-of-collecting-and-selling-location-data-without-consent-d568668e3474?source=rss-22947912adc0------2)
 - [Google Cloud Enhances BigQuery Analytics Service With New Metastore](https://medium.com/majordigest/google-cloud-enhances-bigquery-analytics-service-with-new-metastore-f11400aabb22?source=rss-22947912adc0------2)
 - [Amazon Closes Quebec Warehouses Amid Labor Dispute](https://medium.com/majordigest/amazon-closes-quebec-warehouses-amid-labor-dispute-d383aec6b47b?source=rss-22947912adc0------2)
-- [The U.S. Cyber Trust Mark: Enhancing Internet-Connected Device Security](https://medium.com/majordigest/the-u-s-cyber-trust-mark-enhancing-internet-connected-device-security-66b3a20fc1c0?source=rss-22947912adc0------2)
-- [Apple’s Mail App to Get AI-Powered Email Summary and Prioritization](https://medium.com/majordigest/apples-mail-app-to-get-ai-powered-email-summary-and-prioritization-b361a6528a9e?source=rss-22947912adc0------2)
-- [Army Prepares New AI Guidance Amid Cost Concerns](https://medium.com/majordigest/army-prepares-new-ai-guidance-amid-cost-concerns-0cab127b03c7?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
