@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI’s o3-mini Model Now Live in ChatGPT](https://medium.com/majordigest/openais-o3-mini-model-now-live-in-chatgpt-396d9a909590?source=rss-22947912adc0------2)
+- [Nvidia RTX 5090 Stock Situation: A Dire Forecast](https://medium.com/majordigest/nvidia-rtx-5090-stock-situation-a-dire-forecast-acc6f1cc0883?source=rss-22947912adc0------2)
+- [The Slowing iPhone Sales: Apple’s AI Efforts Face a Test in the Market](https://medium.com/majordigest/the-slowing-iphone-sales-apples-ai-efforts-face-a-test-in-the-market-ca2ba76486a9?source=rss-22947912adc0------2)
 - [MIT and Generali Form Strategic Partnership to Explore AI Applications](https://medium.com/majordigest/mit-and-generali-form-strategic-partnership-to-explore-ai-applications-6df0c3544fc3?source=rss-22947912adc0------2)
 - [TikTok Ownership Proposal: U.S. Government Could Own Up to 50% of New Entity](https://medium.com/majordigest/tiktok-ownership-proposal-u-s-government-could-own-up-to-50-of-new-entity-f74bf9d009e0?source=rss-22947912adc0------2)
-- [App Developers Accused of Collecting and Selling Location Data Without Consent](https://medium.com/majordigest/app-developers-accused-of-collecting-and-selling-location-data-without-consent-d568668e3474?source=rss-22947912adc0------2)
-- [Google Cloud Enhances BigQuery Analytics Service With New Metastore](https://medium.com/majordigest/google-cloud-enhances-bigquery-analytics-service-with-new-metastore-f11400aabb22?source=rss-22947912adc0------2)
-- [Amazon Closes Quebec Warehouses Amid Labor Dispute](https://medium.com/majordigest/amazon-closes-quebec-warehouses-amid-labor-dispute-d383aec6b47b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
