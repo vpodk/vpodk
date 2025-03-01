@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Edge Gains Edge over Chrome with New Resource Controls — Smart Feature Alert!](https://medium.com/majordigest/microsoft-edge-gains-edge-over-chrome-with-new-resource-controls-smart-feature-alert-ac02721c34b0?source=rss-22947912adc0------2)
+- [Stripe Valuation Delayed IPO Ambitions](https://medium.com/majordigest/stripe-valuation-delayed-ipo-ambitions-152df6e1fe38?source=rss-22947912adc0------2)
 - [Meze Audio Unveils POET: A Breakthrough in Planar Magnetic Headphones](https://medium.com/majordigest/meze-audio-unveils-poet-a-breakthrough-in-planar-magnetic-headphones-24f279a53e8b?source=rss-22947912adc0------2)
 - [CrowdStrike’s $32M IRS Deal Faces Investigation](https://medium.com/majordigest/crowdstrikes-32m-irs-deal-faces-investigation-5a1c978cdf7f?source=rss-22947912adc0------2)
 - [The 2025 Silicon Valley Auto Show Recap: Innovation and Excitement](https://medium.com/majordigest/the-2025-silicon-valley-auto-show-recap-innovation-and-excitement-4b522a71ebc1?source=rss-22947912adc0------2)
-- [Copilot AI-Powered Coding Assistant Gets Major Update](https://medium.com/majordigest/copilot-ai-powered-coding-assistant-gets-major-update-7f5910dfaa84?source=rss-22947912adc0------2)
-- [Trump’s Hiring Freeze Threatens Cyber Workforce Efforts — Federal News Network](https://medium.com/majordigest/trumps-hiring-freeze-threatens-cyber-workforce-efforts-federal-news-network-4f09d5ac5dc9?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
