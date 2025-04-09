@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [The IPO That Launched Microsoft: A Look Back at 1986](https://medium.com/majordigest/the-ipo-that-launched-microsoft-a-look-back-at-1986-8967fa9802cc?source=rss-22947912adc0------2)
 - [JavaScript Frameworks: Top Picks for Developers](https://medium.com/majordigest/javascript-frameworks-top-picks-for-developers-28a08e678f88?source=rss-22947912adc0------2)
 - [Government Software Development: A Business of Poor Incentives](https://medium.com/majordigest/government-software-development-a-business-of-poor-incentives-a2bbe3118ad2?source=rss-22947912adc0------2)
 - [The Unseen Mind: New Insights into AI Chatbots’ Thinking](https://medium.com/majordigest/the-unseen-mind-new-insights-into-ai-chatbots-thinking-947e4931d58f?source=rss-22947912adc0------2)
 - [Microsoft Edge Gains Edge over Chrome with New Resource Controls — Smart Feature Alert!](https://medium.com/majordigest/microsoft-edge-gains-edge-over-chrome-with-new-resource-controls-smart-feature-alert-ac02721c34b0?source=rss-22947912adc0------2)
-- [Stripe Valuation Delayed IPO Ambitions](https://medium.com/majordigest/stripe-valuation-delayed-ipo-ambitions-152df6e1fe38?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
