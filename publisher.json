@@ -1,10 +1,5 @@
 [
   [
-    "🔁 Focus looping component based on focus bounders.",
-    "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
-    "https://github.com/wayfair-incubator/react-focus-bounder"
-  ],
-  [
     "Explore the pros and cons of using #ChatGPT as a conversational #AI tool.",
     "",
     "https://vpodk.medium.com/pros-and-cons-of-using-chatgpt-ceb854dbd452"
@@ -173,5 +168,10 @@
     "7 factors that can help minimize risks in Software Development Outsourcing.",
     "#SoftwareDevelopment #Outsourcing",
     "https://vpodk.com/how-to-minimize-risks-in-software-development-outsourcing/"
+  ],
+  [
+    "🔁 Focus looping component based on focus bounders.",
+    "#React #JavaScript #TypeScript #Programming #Coding #OpenSource #100DaysOfCode",
+    "https://github.com/wayfair-incubator/react-focus-bounder"
   ]
 ]
