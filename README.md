@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Gemini Enterprise: Elevating AI for Workplace Efficiency](https://medium.com/majordigest/googles-gemini-enterprise-elevating-ai-for-workplace-efficiency-e74a5a08f1fb?source=rss-22947912adc0------2)
 - [Deloitte’s AI Blunder: A Wake-Up Call for Enterprise Governance](https://medium.com/majordigest/deloittes-ai-blunder-a-wake-up-call-for-enterprise-governance-7254aa9c3b36?source=rss-22947912adc0------2)
 - [AI Reshapes Cybersecurity: The Rise of the AI-Native SOC](https://medium.com/majordigest/ai-reshapes-cybersecurity-the-rise-of-the-ai-native-soc-c77c3409da0d?source=rss-22947912adc0------2)
 - [AI Hallucinations Challenge Legal Integrity in Bay Area Courts](https://medium.com/majordigest/ai-hallucinations-challenge-legal-integrity-in-bay-area-courts-a350d520e13d?source=rss-22947912adc0------2)
 - [Cinematic Lessons for Navigating Human-AI Relationships](https://medium.com/majordigest/cinematic-lessons-for-navigating-human-ai-relationships-8063ee96d874?source=rss-22947912adc0------2)
-- [Fortinet Expands AI Support Across Security Platform](https://medium.com/majordigest/fortinet-expands-ai-support-across-security-platform-d295b811c7c0?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
