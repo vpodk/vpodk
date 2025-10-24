@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google’s Quantum Chip Achieves 13,000x Speed Advantage](https://medium.com/majordigest/googles-quantum-chip-achieves-13-000x-speed-advantage-0a65a958095b?source=rss-22947912adc0------2)
 - [Enhancing Tech Documentation with Generative AI Tools](https://medium.com/majordigest/enhancing-tech-documentation-with-generative-ai-tools-f3e15ed15d60?source=rss-22947912adc0------2)
 - [Visual Studio Code 1.105: AI Enhances Developer Workflow](https://medium.com/majordigest/visual-studio-code-1-105-ai-enhances-developer-workflow-944ec4158417?source=rss-22947912adc0------2)
 - [Security Flaws in VS Extensions Expose Developers to Threats](https://medium.com/majordigest/security-flaws-in-vs-extensions-expose-developers-to-threats-45f54c081200?source=rss-22947912adc0------2)
 - [Windows Copilot Gains Autonomous Local File Capabilities](https://medium.com/majordigest/windows-copilot-gains-autonomous-local-file-capabilities-d072281853b7?source=rss-22947912adc0------2)
-- [Tech Giants Unite to Boost Ethernet for AI Networks](https://medium.com/majordigest/tech-giants-unite-to-boost-ethernet-for-ai-networks-139dc55ca526?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
