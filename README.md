@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Unveils Massive Data Center for AI Training](https://medium.com/majordigest/aws-unveils-massive-data-center-for-ai-training-a2911189078e?source=rss-22947912adc0------2)
 - [GitHub Agent HQ Unifies AI Coding, Enhancing Enterprise Development](https://medium.com/majordigest/github-agent-hq-unifies-ai-coding-enhancing-enterprise-development-f482190e6161?source=rss-22947912adc0------2)
 - [Continuous Batching: Supercharging Large Language Model Throughput](https://medium.com/majordigest/continuous-batching-supercharging-large-language-model-throughput-6346e6cfc923?source=rss-22947912adc0------2)
 - [Securing Software in the Era of AI-Generated Code](https://medium.com/majordigest/securing-software-in-the-era-of-ai-generated-code-d6026b58ab27?source=rss-22947912adc0------2)
 - [Next.js 16 Arrives With Enhanced Caching, AI-Powered Debugging](https://medium.com/majordigest/next-js-16-arrives-with-enhanced-caching-ai-powered-debugging-acbc1d8aa8a9?source=rss-22947912adc0------2)
-- [Google’s Quantum Chip Achieves 13,000x Speed Advantage](https://medium.com/majordigest/googles-quantum-chip-achieves-13-000x-speed-advantage-0a65a958095b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
