@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Mars Mission to Unveil Atmospheric Secrets](https://medium.com/majordigest/mars-mission-to-unveil-atmospheric-secrets-8b4be85bf313?source=rss-22947912adc0------2)
+- [AI Agents Transform IT and Business Operations](https://medium.com/readers-club/ai-agents-transform-it-and-business-operations-e3b1bac329cf?source=rss-22947912adc0------2)
 - [Shadow AI: Unsanctioned Tools Pose Enterprise Risks](https://medium.com/data-science-collective/shadow-ai-unsanctioned-tools-pose-enterprise-risks-7fc4950eb44b?source=rss-22947912adc0------2)
 - [Understanding Generative AI: Creation and Implementation](https://medium.com/majordigest/understanding-generative-ai-creation-and-implementation-f57eef0cdabe?source=rss-22947912adc0------2)
 - [AI Reshapes Programming: The Evolving Role of Developers](https://medium.com/majordigest/ai-reshapes-programming-the-evolving-role-of-developers-44cefc4d8338?source=rss-22947912adc0------2)
-- [Multi-Agent Collaboration: Solving Complex Global Challenges](https://medium.com/majordigest/multi-agent-collaboration-solving-complex-global-challenges-0a2dd28644ca?source=rss-22947912adc0------2)
-- [Agentic AI: The Next Frontier in Business Automation](https://medium.com/majordigest/agentic-ai-the-next-frontier-in-business-automation-5065275fe1b2?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
