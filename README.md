@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Enterprise IT Overhaul for the Agentic AI Era](https://medium.com/data-science-collective/enterprise-it-overhaul-for-the-agentic-ai-era-71a3770f21cf?source=rss-22947912adc0------2)
+- [AI Authorship Protocol Aims to Preserve Human Thought](https://medium.com/majordigest/ai-authorship-protocol-aims-to-preserve-human-thought-3ebdc237c73f?source=rss-22947912adc0------2)
+- [Insomnia 12: Revolutionizing AI and API Development](https://levelup.gitconnected.com/insomnia-12-revolutionizing-ai-and-api-development-4a53899688b2?source=rss-22947912adc0------2)
 - [Mars Mission to Unveil Atmospheric Secrets](https://medium.com/majordigest/mars-mission-to-unveil-atmospheric-secrets-8b4be85bf313?source=rss-22947912adc0------2)
 - [AI Agents Transform IT and Business Operations](https://medium.com/readers-club/ai-agents-transform-it-and-business-operations-e3b1bac329cf?source=rss-22947912adc0------2)
-- [Shadow AI: Unsanctioned Tools Pose Enterprise Risks](https://medium.com/data-science-collective/shadow-ai-unsanctioned-tools-pose-enterprise-risks-7fc4950eb44b?source=rss-22947912adc0------2)
-- [Understanding Generative AI: Creation and Implementation](https://medium.com/majordigest/understanding-generative-ai-creation-and-implementation-f57eef0cdabe?source=rss-22947912adc0------2)
-- [AI Reshapes Programming: The Evolving Role of Developers](https://medium.com/majordigest/ai-reshapes-programming-the-evolving-role-of-developers-44cefc4d8338?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
