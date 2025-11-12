@@ -1,10 +1,5 @@
 [
   [
-    "Integrating and configuring #KomitoAnalytics to the websites has become much easier than ever with #npm package!",
-    "#Analytics #WebAnalytics #measure",
-    "https://www.npmjs.com/package/komito-analytics"
-  ],
-  [
     "What does web page mean in a digital world? Discover your digital page portrait.",
     "#PagePortrait #MarketingReport #Analytics #DataVisualization #measure",
     "https://pageportrait.com"
@@ -173,5 +168,10 @@
     "#GoogleAnalytics has played a key role in helping businesses monitor, measure, and optimize their online presence. But this powerful tool didn’t always exist in its current form.",
     "",
     "https://medium.com/@vpodk/google-analytics-history-tracking-the-digital-evolution-fda0bb74692b"
+  ],
+  [
+    "Integrating and configuring #KomitoAnalytics to the websites has become much easier than ever with #npm package!",
+    "#Analytics #WebAnalytics #measure",
+    "https://www.npmjs.com/package/komito-analytics"
   ]
 ]
