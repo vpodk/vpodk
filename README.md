@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Secures Massive AWS Deal for AI Computing Power](https://medium.com/majordigest/openai-secures-massive-aws-deal-for-ai-computing-power-67e5172d870d?source=rss-22947912adc0------2)
 - [Google Cloud Expands Arm-Based Computing with Axion N4A](https://medium.com/majordigest/google-cloud-expands-arm-based-computing-with-axion-n4a-6822908f5a37?source=rss-22947912adc0------2)
 - [Enterprise IT Overhaul for the Agentic AI Era](https://medium.com/data-science-collective/enterprise-it-overhaul-for-the-agentic-ai-era-71a3770f21cf?source=rss-22947912adc0------2)
 - [AI Authorship Protocol Aims to Preserve Human Thought](https://medium.com/majordigest/ai-authorship-protocol-aims-to-preserve-human-thought-3ebdc237c73f?source=rss-22947912adc0------2)
 - [Insomnia 12: Revolutionizing AI and API Development](https://levelup.gitconnected.com/insomnia-12-revolutionizing-ai-and-api-development-4a53899688b2?source=rss-22947912adc0------2)
-- [Mars Mission to Unveil Atmospheric Secrets](https://medium.com/majordigest/mars-mission-to-unveil-atmospheric-secrets-8b4be85bf313?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
