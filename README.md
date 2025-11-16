@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Frameworks Hit by Copy-Paste Code Vulnerabilities](https://medium.com/majordigest/ai-frameworks-hit-by-copy-paste-code-vulnerabilities-b880fbb0ce4f?source=rss-22947912adc0------2)
 - [Microsoft’s .NET 10 Elevates AI and Performance](https://levelup.gitconnected.com/microsofts-net-10-elevates-ai-and-performance-59f8f832ac24?source=rss-22947912adc0------2)
 - [Meta’s SPICE Framework Boosts AI Self-Improvement](https://pub.aimind.so/metas-spice-framework-boosts-ai-self-improvement-b7543074add7?source=rss-22947912adc0------2)
 - [Critical RCE Flaw in React Native CLI Exposes Dev Servers](https://javascript.plainenglish.io/critical-rce-flaw-in-react-native-cli-exposes-dev-servers-99c03f06c39d?source=rss-22947912adc0------2)
 - [OpenAI Secures Massive AWS Deal for AI Computing Power](https://medium.com/majordigest/openai-secures-massive-aws-deal-for-ai-computing-power-67e5172d870d?source=rss-22947912adc0------2)
-- [Google Cloud Expands Arm-Based Computing with Axion N4A](https://medium.com/majordigest/google-cloud-expands-arm-based-computing-with-axion-n4a-6822908f5a37?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
