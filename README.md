@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI Transforms Enterprise Automation Beyond Chatbots](https://pub.aimind.so/agentic-ai-transforms-enterprise-automation-beyond-chatbots-7570c15a2880?source=rss-22947912adc0------2)
+- [Google Launches Gemini 3 with Advanced AI Reasoning](https://medium.com/majordigest/google-launches-gemini-3-with-advanced-ai-reasoning-7e727dbf7762?source=rss-22947912adc0------2)
+- [Context Engineering: The Next Evolution in AI Accuracy](https://pub.aimind.so/context-engineering-the-next-evolution-in-ai-accuracy-82b3c1d633dd?source=rss-22947912adc0------2)
 - [Orbital Data Centers Could Transform Global Computing](https://medium.com/@vpodk/orbital-data-centers-could-transform-global-computing-57d83f7adf89?source=rss-22947912adc0------2)
 - [AI Reshapes IVF: Predictability and Financial Security](https://medium.com/data-science-collective/ai-reshapes-ivf-predictability-and-financial-security-0e72f31043aa?source=rss-22947912adc0------2)
-- [Perplexity’s Tool Runs Massive AI Models on Older Hardware](https://medium.datadriveninvestor.com/perplexitys-tool-runs-massive-ai-models-on-older-hardware-8b7fac3e33c8?source=rss-22947912adc0------2)
-- [AI Frameworks Hit by Copy-Paste Code Vulnerabilities](https://medium.com/majordigest/ai-frameworks-hit-by-copy-paste-code-vulnerabilities-b880fbb0ce4f?source=rss-22947912adc0------2)
-- [Microsoft’s .NET 10 Elevates AI and Performance](https://levelup.gitconnected.com/microsofts-net-10-elevates-ai-and-performance-59f8f832ac24?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
