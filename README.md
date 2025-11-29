@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Edge AI: Bringing Intelligence Closer to Data Sources](https://medium.com/data-science-collective/edge-ai-bringing-intelligence-closer-to-data-sources-45869a26db76?source=rss-22947912adc0------2)
 - [AI’s Rise: The Future of Work and Consumption](https://pub.aimind.so/ais-rise-the-future-of-work-and-consumption-69a82718e5db?source=rss-22947912adc0------2)
 - [AI Job Impact: Senators Seek Transparency Amid Layoff Concerns](https://medium.com/majordigest/ai-job-impact-senators-seek-transparency-amid-layoff-concerns-dad657b1e73b?source=rss-22947912adc0------2)
 - [Agentic AI Transforms Enterprise Automation Beyond Chatbots](https://pub.aimind.so/agentic-ai-transforms-enterprise-automation-beyond-chatbots-7570c15a2880?source=rss-22947912adc0------2)
 - [Google Launches Gemini 3 with Advanced AI Reasoning](https://medium.com/majordigest/google-launches-gemini-3-with-advanced-ai-reasoning-7e727dbf7762?source=rss-22947912adc0------2)
-- [Context Engineering: The Next Evolution in AI Accuracy](https://pub.aimind.so/context-engineering-the-next-evolution-in-ai-accuracy-82b3c1d633dd?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
