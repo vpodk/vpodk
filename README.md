@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Enhances Data Residency for Global Enterprises](https://medium.datadriveninvestor.com/openai-enhances-data-residency-for-global-enterprises-5d83638ba678?source=rss-22947912adc0------2)
 - [Context Engineering: Optimizing LLM Performance](https://pub.aimind.so/context-engineering-optimizing-llm-performance-71c656a172ca?source=rss-22947912adc0------2)
 - [AI’s Impact: How ChatGPT Reshaped Information Seeking](https://medium.com/majordigest/ais-impact-how-chatgpt-reshaped-information-seeking-8e749398cfdc?source=rss-22947912adc0------2)
 - [Edge AI: Bringing Intelligence Closer to Data Sources](https://medium.com/data-science-collective/edge-ai-bringing-intelligence-closer-to-data-sources-45869a26db76?source=rss-22947912adc0------2)
 - [AI’s Rise: The Future of Work and Consumption](https://pub.aimind.so/ais-rise-the-future-of-work-and-consumption-69a82718e5db?source=rss-22947912adc0------2)
-- [AI Job Impact: Senators Seek Transparency Amid Layoff Concerns](https://medium.com/majordigest/ai-job-impact-senators-seek-transparency-amid-layoff-concerns-dad657b1e73b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
