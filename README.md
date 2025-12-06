@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Pioneers New Era in Antibiotic Discovery at MIT](https://medium.com/data-science-collective/ai-pioneers-new-era-in-antibiotic-discovery-at-mit-3895ecd080bd?source=rss-22947912adc0------2)
+- [AWS Boosts AI with SageMaker Flexible Training Plans](https://medium.com/majordigest/aws-boosts-ai-with-sagemaker-flexible-training-plans-57fc0682cc58?source=rss-22947912adc0------2)
 - [OpenAI Enhances Data Residency for Global Enterprises](https://medium.datadriveninvestor.com/openai-enhances-data-residency-for-global-enterprises-5d83638ba678?source=rss-22947912adc0------2)
 - [Context Engineering: Optimizing LLM Performance](https://pub.aimind.so/context-engineering-optimizing-llm-performance-71c656a172ca?source=rss-22947912adc0------2)
 - [AI’s Impact: How ChatGPT Reshaped Information Seeking](https://medium.com/majordigest/ais-impact-how-chatgpt-reshaped-information-seeking-8e749398cfdc?source=rss-22947912adc0------2)
-- [Edge AI: Bringing Intelligence Closer to Data Sources](https://medium.com/data-science-collective/edge-ai-bringing-intelligence-closer-to-data-sources-45869a26db76?source=rss-22947912adc0------2)
-- [AI’s Rise: The Future of Work and Consumption](https://pub.aimind.so/ais-rise-the-future-of-work-and-consumption-69a82718e5db?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
