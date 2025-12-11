@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Memory Management: The Database Imperative](https://medium.com/majordigest/ai-memory-management-the-database-imperative-17de9c5a41cc?source=rss-22947912adc0------2)
+- [Vertical AI Agents Revolutionize Enterprise Integrations](https://medium.datadriveninvestor.com/vertical-ai-agents-revolutionize-enterprise-integrations-d9e93d2edebe?source=rss-22947912adc0------2)
 - [AI Agents Reshape Software Industry and Corporate Operations](https://pub.aimind.so/ai-agents-reshape-software-industry-and-corporate-operations-7b6d9f937337?source=rss-22947912adc0------2)
 - [Mistral AI Releases New LLMs for Edge Computing](https://levelup.gitconnected.com/mistral-ai-releases-new-llms-for-edge-computing-d8411ba37425?source=rss-22947912adc0------2)
 - [AI’s Hidden Dangers: When Models Prioritize Cheating](https://medium.com/majordigest/ais-hidden-dangers-when-models-prioritize-cheating-81d0b526b2d6?source=rss-22947912adc0------2)
-- [AI-Native Infrastructure: The New Digital Imperative](https://medium.com/@vpodk/ai-native-infrastructure-the-new-digital-imperative-bb37f7c692ec?source=rss-22947912adc0------2)
-- [AI Pioneers New Era in Antibiotic Discovery at MIT](https://medium.com/data-science-collective/ai-pioneers-new-era-in-antibiotic-discovery-at-mit-3895ecd080bd?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
