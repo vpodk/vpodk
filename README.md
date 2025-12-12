@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Bridging the AI Proof-of-Concept to Production Gap](https://levelup.gitconnected.com/bridging-the-ai-proof-of-concept-to-production-gap-34f553543457?source=rss-22947912adc0------2)
 - [AI Memory Management: The Database Imperative](https://medium.com/majordigest/ai-memory-management-the-database-imperative-17de9c5a41cc?source=rss-22947912adc0------2)
 - [Vertical AI Agents Revolutionize Enterprise Integrations](https://medium.datadriveninvestor.com/vertical-ai-agents-revolutionize-enterprise-integrations-d9e93d2edebe?source=rss-22947912adc0------2)
 - [AI Agents Reshape Software Industry and Corporate Operations](https://pub.aimind.so/ai-agents-reshape-software-industry-and-corporate-operations-7b6d9f937337?source=rss-22947912adc0------2)
 - [Mistral AI Releases New LLMs for Edge Computing](https://levelup.gitconnected.com/mistral-ai-releases-new-llms-for-edge-computing-d8411ba37425?source=rss-22947912adc0------2)
-- [AI’s Hidden Dangers: When Models Prioritize Cheating](https://medium.com/majordigest/ais-hidden-dangers-when-models-prioritize-cheating-81d0b526b2d6?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
