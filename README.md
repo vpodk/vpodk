@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cybersecurity’s New Focus: Skills Over Staffing in AI Era](https://medium.com/majordigest/cybersecuritys-new-focus-skills-over-staffing-in-ai-era-1be03cdda2ae?source=rss-22947912adc0------2)
 - [AI Churn Forces Enterprise Tech Stack Rebuilds](https://medium.com/data-science-collective/ai-churn-forces-enterprise-tech-stack-rebuilds-6ca08b97d0d4?source=rss-22947912adc0------2)
 - [HPE Unveils AI Networking Innovations and Key Partnerships](https://medium.com/readers-club/hpe-unveils-ai-networking-innovations-and-key-partnerships-bd4e7ae78574?source=rss-22947912adc0------2)
 - [Bridging the AI Proof-of-Concept to Production Gap](https://levelup.gitconnected.com/bridging-the-ai-proof-of-concept-to-production-gap-34f553543457?source=rss-22947912adc0------2)
 - [AI Memory Management: The Database Imperative](https://medium.com/majordigest/ai-memory-management-the-database-imperative-17de9c5a41cc?source=rss-22947912adc0------2)
-- [Vertical AI Agents Revolutionize Enterprise Integrations](https://medium.datadriveninvestor.com/vertical-ai-agents-revolutionize-enterprise-integrations-d9e93d2edebe?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
