@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why AI Agents Excel at Programming Tasks](https://pub.aimind.so/why-ai-agents-excel-at-programming-tasks-50a78595e8d8?source=rss-22947912adc0------2)
+- [Sustainable AI: An Implementation Framework for IT Leaders](https://medium.datadriveninvestor.com/sustainable-ai-an-implementation-framework-for-it-leaders-ab103256f1e9?source=rss-22947912adc0------2)
 - [Rust 1.92 Enhances Type Lints and Compiler Diagnostics](https://levelup.gitconnected.com/rust-1-92-enhances-type-lints-and-compiler-diagnostics-c0515226a3a0?source=rss-22947912adc0------2)
 - [Toyota Prius Inverter Teardown Reveals Design Changes](https://medium.com/majordigest/toyota-prius-inverter-teardown-reveals-design-changes-02de803c0e7f?source=rss-22947912adc0------2)
 - [Cybersecurity’s New Focus: Skills Over Staffing in AI Era](https://medium.com/majordigest/cybersecuritys-new-focus-skills-over-staffing-in-ai-era-1be03cdda2ae?source=rss-22947912adc0------2)
-- [AI Churn Forces Enterprise Tech Stack Rebuilds](https://medium.com/data-science-collective/ai-churn-forces-enterprise-tech-stack-rebuilds-6ca08b97d0d4?source=rss-22947912adc0------2)
-- [HPE Unveils AI Networking Innovations and Key Partnerships](https://medium.com/readers-club/hpe-unveils-ai-networking-innovations-and-key-partnerships-bd4e7ae78574?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
