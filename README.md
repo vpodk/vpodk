@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Exoskeleton Adapts to Varied Terrain with Smart Power](https://medium.com/majordigest/ai-exoskeleton-adapts-to-varied-terrain-with-smart-power-a9798a9b6bd3?source=rss-22947912adc0------2)
 - [Agentic AI Driving Cloud Modernization Beyond Lift-and-Shift](https://medium.com/data-science-collective/agentic-ai-driving-cloud-modernization-beyond-lift-and-shift-b5f5e5fc272e?source=rss-22947912adc0------2)
 - [Why AI Agents Excel at Programming Tasks](https://pub.aimind.so/why-ai-agents-excel-at-programming-tasks-50a78595e8d8?source=rss-22947912adc0------2)
 - [Sustainable AI: An Implementation Framework for IT Leaders](https://medium.datadriveninvestor.com/sustainable-ai-an-implementation-framework-for-it-leaders-ab103256f1e9?source=rss-22947912adc0------2)
 - [Rust 1.92 Enhances Type Lints and Compiler Diagnostics](https://levelup.gitconnected.com/rust-1-92-enhances-type-lints-and-compiler-diagnostics-c0515226a3a0?source=rss-22947912adc0------2)
-- [Toyota Prius Inverter Teardown Reveals Design Changes](https://medium.com/majordigest/toyota-prius-inverter-teardown-reveals-design-changes-02de803c0e7f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
