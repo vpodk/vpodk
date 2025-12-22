@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Liquid Cooling Essential for AI’s Data Center Demands](https://medium.com/data-science-collective/liquid-cooling-essential-for-ais-data-center-demands-3b0312c90a6c?source=rss-22947912adc0------2)
+- [Co-Packaged Optics Transform AI Data Centers](https://ai.gopubby.com/co-packaged-optics-transform-ai-data-centers-895a93b653a0?source=rss-22947912adc0------2)
 - [Generative AI’s Hidden Costs: Technical Debt and Security Risks](https://pub.aimind.so/generative-ais-hidden-costs-technical-debt-and-security-risks-de878b5a4de3?source=rss-22947912adc0------2)
 - [GitHub Action Secrets Vulnerable to Token Exploitation](https://levelup.gitconnected.com/github-action-secrets-vulnerable-to-token-exploitation-d23f64e88641?source=rss-22947912adc0------2)
 - [AI Exoskeleton Adapts to Varied Terrain with Smart Power](https://medium.com/majordigest/ai-exoskeleton-adapts-to-varied-terrain-with-smart-power-a9798a9b6bd3?source=rss-22947912adc0------2)
-- [Agentic AI Driving Cloud Modernization Beyond Lift-and-Shift](https://medium.com/data-science-collective/agentic-ai-driving-cloud-modernization-beyond-lift-and-shift-b5f5e5fc272e?source=rss-22947912adc0------2)
-- [Why AI Agents Excel at Programming Tasks](https://pub.aimind.so/why-ai-agents-excel-at-programming-tasks-50a78595e8d8?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
