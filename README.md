@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Scalable Cloud-Native Applications Explained](https://pub.aimind.so/building-scalable-cloud-native-applications-explained-598c3611a6fa?source=rss-22947912adc0------2)
 - [Instagram’s New AI Tool Empowers User Algorithm Control](https://medium.com/majordigest/instagrams-new-ai-tool-empowers-user-algorithm-control-c1e10a752a70?source=rss-22947912adc0------2)
 - [Liquid Cooling Essential for AI’s Data Center Demands](https://medium.com/data-science-collective/liquid-cooling-essential-for-ais-data-center-demands-3b0312c90a6c?source=rss-22947912adc0------2)
 - [Co-Packaged Optics Transform AI Data Centers](https://ai.gopubby.com/co-packaged-optics-transform-ai-data-centers-895a93b653a0?source=rss-22947912adc0------2)
 - [Generative AI’s Hidden Costs: Technical Debt and Security Risks](https://pub.aimind.so/generative-ais-hidden-costs-technical-debt-and-security-risks-de878b5a4de3?source=rss-22947912adc0------2)
-- [GitHub Action Secrets Vulnerable to Token Exploitation](https://levelup.gitconnected.com/github-action-secrets-vulnerable-to-token-exploitation-d23f64e88641?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
