@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cognitive Data Architecture: Powering Scalable AI Systems](https://medium.com/data-science-collective/cognitive-data-architecture-powering-scalable-ai-systems-e5f6ced3e455?source=rss-22947912adc0------2)
 - [Edge vs. Cloud AI: Optimizing Inference for Strategic ROI](https://pub.aimind.so/edge-vs-cloud-ai-optimizing-inference-for-strategic-roi-98296b0f9ecd?source=rss-22947912adc0------2)
 - [Python 3.15 Introduces Native JIT for Performance Boosts](https://python.plainenglish.io/python-3-15-introduces-native-jit-for-performance-boosts-ff363e7d18fd?source=rss-22947912adc0------2)
 - [Kubernetes 1.35 Enhances Resource Scaling, AI Workloads](https://levelup.gitconnected.com/kubernetes-1-35-enhances-resource-scaling-ai-workloads-5e196fb7ca31?source=rss-22947912adc0------2)
 - [Building Scalable Cloud-Native Applications Explained](https://pub.aimind.so/building-scalable-cloud-native-applications-explained-598c3611a6fa?source=rss-22947912adc0------2)
-- [Instagram’s New AI Tool Empowers User Algorithm Control](https://medium.com/majordigest/instagrams-new-ai-tool-empowers-user-algorithm-control-c1e10a752a70?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
