@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Scaling AI Demands Foundational Business Transformation](https://blog.gopenai.com/scaling-ai-demands-foundational-business-transformation-a6d01a9de106?source=rss-22947912adc0------2)
+- [Top Cloud Computing Roles in High Demand](https://levelup.gitconnected.com/top-cloud-computing-roles-in-high-demand-8ca9efcac8c9?source=rss-22947912adc0------2)
 - [Modernizing Data Architecture for Agentic AI Systems](https://pub.aimind.so/modernizing-data-architecture-for-agentic-ai-systems-00fb336f68f3?source=rss-22947912adc0------2)
 - [Unlocking ChatGPT’s Full Potential for Enhanced Productivity](https://ai.plainenglish.io/unlocking-chatgpts-full-potential-for-enhanced-productivity-eba42faa356b?source=rss-22947912adc0------2)
 - [Strengthening Cybersecurity Through Data-Driven Collaboration](https://medium.com/majordigest/strengthening-cybersecurity-through-data-driven-collaboration-8f34157b1f5a?source=rss-22947912adc0------2)
-- [Scaling RAG Systems for Enterprise-Level AI](https://medium.com/data-science-collective/scaling-rag-systems-for-enterprise-level-ai-f2bb39484511?source=rss-22947912adc0------2)
-- [Rust Language Evolution: Design Goals and Ecosystem Growth](https://levelup.gitconnected.com/rust-language-evolution-design-goals-and-ecosystem-growth-4ac9b0b710f0?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
