@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Robots Achieve Breakthrough in Rapid Task Learning](https://medium.com/majordigest/robots-achieve-breakthrough-in-rapid-task-learning-8c60af7be8df?source=rss-22947912adc0------2)
 - [SLMs Drive AI Automation in IT and HR](https://medium.com/data-science-collective/slms-drive-ai-automation-in-it-and-hr-7da29b43768f?source=rss-22947912adc0------2)
 - [Scaling AI Demands Foundational Business Transformation](https://blog.gopenai.com/scaling-ai-demands-foundational-business-transformation-a6d01a9de106?source=rss-22947912adc0------2)
 - [Top Cloud Computing Roles in High Demand](https://levelup.gitconnected.com/top-cloud-computing-roles-in-high-demand-8ca9efcac8c9?source=rss-22947912adc0------2)
 - [Modernizing Data Architecture for Agentic AI Systems](https://pub.aimind.so/modernizing-data-architecture-for-agentic-ai-systems-00fb336f68f3?source=rss-22947912adc0------2)
-- [Unlocking ChatGPT’s Full Potential for Enhanced Productivity](https://ai.plainenglish.io/unlocking-chatgpts-full-potential-for-enhanced-productivity-eba42faa356b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
