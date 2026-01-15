@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Databricks’ AI Retrieval Boosts Enterprise AI Answers](https://pub.aimind.so/databricks-ai-retrieval-boosts-enterprise-ai-answers-6068793014b7?source=rss-22947912adc0------2)
+- [AI, Edge, and Security Redefine Infrastructure Management](https://medium.com/data-science-collective/ai-edge-and-security-redefine-infrastructure-management-de7ff67c9f89?source=rss-22947912adc0------2)
 - [Unraveling Digital Privacy: Key Tech Terms Explained](https://medium.com/majordigest/unraveling-digital-privacy-key-tech-terms-explained-0e2272f13e9f?source=rss-22947912adc0------2)
 - [AI Workloads Expose Hidden DevOps Crisis](https://levelup.gitconnected.com/ai-workloads-expose-hidden-devops-crisis-5762d0f5aa27?source=rss-22947912adc0------2)
 - [Databases Adapt for Generative AI and Large Language Models](https://medium.datadriveninvestor.com/databases-adapt-for-generative-ai-and-large-language-models-5a012c09e0d1?source=rss-22947912adc0------2)
-- [Securing AI’s Future: Moving Beyond Model Drift Challenges](https://pub.towardsai.net/securing-ais-future-moving-beyond-model-drift-challenges-da7b62e7e748?source=rss-22947912adc0------2)
-- [Robots Achieve Breakthrough in Rapid Task Learning](https://medium.com/majordigest/robots-achieve-breakthrough-in-rapid-task-learning-8c60af7be8df?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
