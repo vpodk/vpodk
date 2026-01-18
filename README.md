@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Gemini Deepens Personalization with User Data](https://medium.com/data-science-collective/google-gemini-deepens-personalization-with-user-data-48679b61d1dc?source=rss-22947912adc0------2)
 - [AWS Adjusts EC2 Capacity Block Pricing Amid GPU Demand](https://aws.plainenglish.io/aws-adjusts-ec2-capacity-block-pricing-amid-gpu-demand-7493bc3b8fa2?source=rss-22947912adc0------2)
 - [AI Stack Thinking: Beyond the All-in-One Platform Myth](https://ai.plainenglish.io/ai-stack-thinking-beyond-the-all-in-one-platform-myth-ae9dfb040fed?source=rss-22947912adc0------2)
 - [Databricks’ AI Retrieval Boosts Enterprise AI Answers](https://pub.aimind.so/databricks-ai-retrieval-boosts-enterprise-ai-answers-6068793014b7?source=rss-22947912adc0------2)
 - [AI, Edge, and Security Redefine Infrastructure Management](https://medium.com/data-science-collective/ai-edge-and-security-redefine-infrastructure-management-de7ff67c9f89?source=rss-22947912adc0------2)
-- [Unraveling Digital Privacy: Key Tech Terms Explained](https://medium.com/majordigest/unraveling-digital-privacy-key-tech-terms-explained-0e2272f13e9f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
