@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Distributed Cloud Networking Reshaping Enterprise WAN](https://medium.com/majordigest/distributed-cloud-networking-reshaping-enterprise-wan-b15944e33a11?source=rss-22947912adc0------2)
+- [Python Accelerates with New JIT Compiler and Tools](https://python.plainenglish.io/python-accelerates-with-new-jit-compiler-and-tools-4098643ad399?source=rss-22947912adc0------2)
 - [SoftBank Unveils New AI Data Center Cloud Operating System](https://medium.com/majordigest/softbank-unveils-new-ai-data-center-cloud-operating-system-629c95ecfce2?source=rss-22947912adc0------2)
 - [Optimizing LLMs for Enterprise Success with Model Distillation](https://medium.com/data-science-collective/optimizing-llms-for-enterprise-success-with-model-distillation-aedfa6378670?source=rss-22947912adc0------2)
 - [AI’s Impact on Music: Data-Driven Evolution](https://pub.aimind.so/ais-impact-on-music-data-driven-evolution-8fa89e39826d?source=rss-22947912adc0------2)
-- [MongoDB Boosts AI Development with Mongot Source Release](https://medium.com/codetodeploy/mongodb-boosts-ai-development-with-mongot-source-release-0efb44bfd73e?source=rss-22947912adc0------2)
-- [Meta Establishes Compute Unit to Drive AI Infrastructure](https://medium.com/majordigest/meta-establishes-compute-unit-to-drive-ai-infrastructure-441033fa4069?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
