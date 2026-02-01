@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI Adoption Outpaces Governance, Creating Risk](https://medium.com/data-science-collective/agentic-ai-adoption-outpaces-governance-creating-risk-061667e0c386?source=rss-22947912adc0------2)
 - [New Relic Boosts Visibility for AI-Powered Applications](https://medium.com/majordigest/new-relic-boosts-visibility-for-ai-powered-applications-9fbe240dc23c?source=rss-22947912adc0------2)
 - [TypeScript Advances with Enhanced Type Stripping](https://levelup.gitconnected.com/typescript-advances-with-enhanced-type-stripping-9117c422d57d?source=rss-22947912adc0------2)
 - [GitHub Copilot SDK Elevates AI-Powered Development](https://medium.com/codetodeploy/github-copilot-sdk-elevates-ai-powered-development-889b1a780305?source=rss-22947912adc0------2)
 - [Distributed Cloud Networking Reshaping Enterprise WAN](https://medium.com/majordigest/distributed-cloud-networking-reshaping-enterprise-wan-b15944e33a11?source=rss-22947912adc0------2)
-- [Python Accelerates with New JIT Compiler and Tools](https://python.plainenglish.io/python-accelerates-with-new-jit-compiler-and-tools-4098643ad399?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
