@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Safety Concerns Rise as Testing Lags Behind Progress](https://medium.com/data-science-collective/ai-safety-concerns-rise-as-testing-lags-behind-progress-c1055c5bba38?source=rss-22947912adc0------2)
+- [AI Uncovers 500 High-Severity Software Vulnerabilities](https://medium.com/majordigest/ai-uncovers-500-high-severity-software-vulnerabilities-4dd63e6e5724?source=rss-22947912adc0------2)
 - [Google Enhances BigQuery with Conversational AI Features](https://levelup.gitconnected.com/google-enhances-bigquery-with-conversational-ai-features-47e9adbc7d2a?source=rss-22947912adc0------2)
 - [AI Adoption: Diverse Strategies for Enterprise Success](https://ai.plainenglish.io/ai-adoption-diverse-strategies-for-enterprise-success-1c46aced33b7?source=rss-22947912adc0------2)
 - [Physical AI’s Impact on Manufacturing Infrastructure](https://medium.com/majordigest/physical-ais-impact-on-manufacturing-infrastructure-942d6447129b?source=rss-22947912adc0------2)
-- [Semantic Core Transforms Enterprise AI Operations](https://medium.datadriveninvestor.com/semantic-core-transforms-enterprise-ai-operations-55c2abf69cb3?source=rss-22947912adc0------2)
-- [Agentic AI Adoption Outpaces Governance, Creating Risk](https://medium.com/data-science-collective/agentic-ai-adoption-outpaces-governance-creating-risk-061667e0c386?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
