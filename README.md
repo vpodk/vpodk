@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Blocks Large-Scale AI Model Cloning Attempt](https://medium.com/frontiers-of-data-science/google-blocks-large-scale-ai-model-cloning-attempt-72928a53e76f?source=rss-22947912adc0------2)
 - [Google’s GEAR Program Boosts AI Agent Development Skills](https://pub.towardsai.net/googles-gear-program-boosts-ai-agent-development-skills-d781d07d7cf9?source=rss-22947912adc0------2)
 - [Forward Networks Unveils Advanced Agentic AI for Network Ops](https://medium.com/data-science-collective/forward-networks-unveils-advanced-agentic-ai-for-network-ops-0b222686b9d8?source=rss-22947912adc0------2)
 - [Zero-Trust Data Governance Protects AI Models](https://medium.com/majordigest/zero-trust-data-governance-protects-ai-models-bf15fef35538?source=rss-22947912adc0------2)
 - [Physical AI’s Impact on Manufacturing Infrastructure](https://pub.towardsai.net/physical-ais-impact-on-manufacturing-infrastructure-b2e704bfb37c?source=rss-22947912adc0------2)
-- [Snowflake’s Cortex Code Elevates Enterprise AI Development](https://blog.devgenius.io/snowflakes-cortex-code-elevates-enterprise-ai-development-27adb5ef6293?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
