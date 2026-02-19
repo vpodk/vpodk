@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [NASA Leverages AI for Enhanced Mars Rover Autonomy](https://medium.com/majordigest/nasa-leverages-ai-for-enhanced-mars-rover-autonomy-3ac4afb340c0?source=rss-22947912adc0------2)
 - [Single Prompt Bypasses AI Safety in 15 Models](https://pub.aimind.so/single-prompt-bypasses-ai-safety-in-15-models-20f12ea2f6be?source=rss-22947912adc0------2)
 - [The Rise of Predictive Engineering in Cloud Performance](https://levelup.gitconnected.com/the-rise-of-predictive-engineering-in-cloud-performance-e8baeacc61c3?source=rss-22947912adc0------2)
 - [Setting up a reliable home network with backup internet](https://medium.com/swlh/business-grade-failover-home-office-0a41712043ee?source=rss-22947912adc0------2)
 - [The Rise of the Zombie Internet and Its Impact](https://medium.com/majordigest/the-rise-of-the-zombie-internet-and-its-impact-c31e2b5190ec?source=rss-22947912adc0------2)
-- [Google Blocks Large-Scale AI Model Cloning Attempt](https://medium.com/frontiers-of-data-science/google-blocks-large-scale-ai-model-cloning-attempt-72928a53e76f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
