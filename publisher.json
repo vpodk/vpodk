@@ -1,10 +1,5 @@
 [
   [
-    "🍔 Simple lightweight react hamburger navigation drawer.",
-    "#React #JavaScript #Programming #Coding #OpenSource #100DaysOfCode",
-    "https://github.com/vpodk/react-hamburger-drawer"
-  ],
-  [
     "UI and UX are two terms often used interchangeably. Although there are some important fundamental differences between both. Learn more about #UI vs #UX.",
     "",
     "https://medium.com/datamart/ui-vs-ux-7c1d7de17255"
@@ -173,5 +168,10 @@
     "🛡️ Don't let layoffs take you by surprise. Stay proactive and informed by checking your employer's plans.",
     "#JobShield #layoffs #laidoff #jobloss #career #job #work",
     "https://jobshield.us/"
+  ],
+  [
+    "🍔 Simple lightweight react hamburger navigation drawer.",
+    "#React #JavaScript #Programming #Coding #OpenSource #100DaysOfCode",
+    "https://github.com/vpodk/react-hamburger-drawer"
   ]
 ]
