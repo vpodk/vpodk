@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Agent Orchestration: Preventing Digital Chaos](https://levelup.gitconnected.com/ai-agent-orchestration-preventing-digital-chaos-62785e5bcc78?source=rss-22947912adc0------2)
 - [AI Transforms Data Quality Engineering for Modern Enterprise](https://pub.towardsai.net/ai-transforms-data-quality-engineering-for-modern-enterprise-1b87307f75ba?source=rss-22947912adc0------2)
 - [Enterprise AI Needs a Trust Layer for Scalable Operations](https://medium.com/data-science-collective/enterprise-ai-needs-a-trust-layer-for-scalable-operations-11496fe628df?source=rss-22947912adc0------2)
 - [NASA Leverages AI for Enhanced Mars Rover Autonomy](https://medium.com/majordigest/nasa-leverages-ai-for-enhanced-mars-rover-autonomy-3ac4afb340c0?source=rss-22947912adc0------2)
 - [Single Prompt Bypasses AI Safety in 15 Models](https://pub.aimind.so/single-prompt-bypasses-ai-safety-in-15-models-20f12ea2f6be?source=rss-22947912adc0------2)
-- [The Rise of Predictive Engineering in Cloud Performance](https://levelup.gitconnected.com/the-rise-of-predictive-engineering-in-cloud-performance-e8baeacc61c3?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
