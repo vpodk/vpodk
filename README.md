@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Reshapes Software Engineering, Elevating Expert Judgment](https://medium.com/readers-club/ai-reshapes-software-engineering-elevating-expert-judgment-9e1859a48cb4?source=rss-22947912adc0------2)
+- [IT Leaders Reshape Virtualization Strategies Amid AI Revolution](https://medium.com/data-science-collective/it-leaders-reshape-virtualization-strategies-amid-ai-revolution-b2b80e90fd4b?source=rss-22947912adc0------2)
 - [Waymo’s Driverless Tech Accelerates Expansion](https://medium.com/majordigest/waymos-driverless-tech-accelerates-expansion-bf28a0412b87?source=rss-22947912adc0------2)
 - [Gemini 3.1 Pro Enhances Advanced Problem-Solving](https://pub.aimind.so/gemini-3-1-pro-enhances-advanced-problem-solving-e4311160ffea?source=rss-22947912adc0------2)
 - [Agentic AI Reshaping Engineering Workflows by 2026](https://medium.datadriveninvestor.com/agentic-ai-reshaping-engineering-workflows-by-2026-27a3ad73145b?source=rss-22947912adc0------2)
-- [AI Agent Orchestration: Preventing Digital Chaos](https://levelup.gitconnected.com/ai-agent-orchestration-preventing-digital-chaos-62785e5bcc78?source=rss-22947912adc0------2)
-- [AI Transforms Data Quality Engineering for Modern Enterprise](https://pub.towardsai.net/ai-transforms-data-quality-engineering-for-modern-enterprise-1b87307f75ba?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
