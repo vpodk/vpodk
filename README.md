@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New AI Technique Triples LLM Inference Speed](https://pub.aimind.so/new-ai-technique-triples-llm-inference-speed-1bc1dd3caf61?source=rss-22947912adc0------2)
 - [AI Reshapes Software Engineering, Elevating Expert Judgment](https://medium.com/readers-club/ai-reshapes-software-engineering-elevating-expert-judgment-9e1859a48cb4?source=rss-22947912adc0------2)
 - [IT Leaders Reshape Virtualization Strategies Amid AI Revolution](https://medium.com/data-science-collective/it-leaders-reshape-virtualization-strategies-amid-ai-revolution-b2b80e90fd4b?source=rss-22947912adc0------2)
 - [Waymo’s Driverless Tech Accelerates Expansion](https://medium.com/majordigest/waymos-driverless-tech-accelerates-expansion-bf28a0412b87?source=rss-22947912adc0------2)
 - [Gemini 3.1 Pro Enhances Advanced Problem-Solving](https://pub.aimind.so/gemini-3-1-pro-enhances-advanced-problem-solving-e4311160ffea?source=rss-22947912adc0------2)
-- [Agentic AI Reshaping Engineering Workflows by 2026](https://medium.datadriveninvestor.com/agentic-ai-reshaping-engineering-workflows-by-2026-27a3ad73145b?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
