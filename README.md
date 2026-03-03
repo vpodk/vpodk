@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [New Roles Emerge for AI Evaluation](https://pub.aimind.so/new-roles-emerge-for-ai-evaluation-9096c01d8f79?source=rss-22947912adc0------2)
 - [Optimizing Agentic SaaS: A Guide to FinOps Strategies](https://medium.datadriveninvestor.com/optimizing-agentic-saas-a-guide-to-finops-strategies-060780177e53?source=rss-22947912adc0------2)
 - [Alibaba’s Qwen3.5 Advances AI Agents for Enterprise Workflows](https://medium.com/majordigest/alibabas-qwen3-5-advances-ai-agents-for-enterprise-workflows-d02eef8a7d9a?source=rss-22947912adc0------2)
 - [Inception’s Mercury 2 Accelerates LLM Reasoning](https://levelup.gitconnected.com/inceptions-mercury-2-accelerates-llm-reasoning-b4dc0e1ee629?source=rss-22947912adc0------2)
 - [New AI Technique Triples LLM Inference Speed](https://pub.aimind.so/new-ai-technique-triples-llm-inference-speed-1bc1dd3caf61?source=rss-22947912adc0------2)
-- [AI Reshapes Software Engineering, Elevating Expert Judgment](https://medium.com/readers-club/ai-reshapes-software-engineering-elevating-expert-judgment-9e1859a48cb4?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
