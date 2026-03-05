@@ -1,10 +1,5 @@
 [
   [
-    "The Holy Grail, in simple words, is a web page layout with multiple, columns having same heights and are specified with styling sheets.",
-    "#Flexbox #CSS #WebDevelopment #Coding #Programming #100DaysOfCode",
-    "https://levelup.gitconnected.com/clean-application-flexible-box-layout-98e439bb7d96"
-  ],
-  [
     "Discover why Indexed Universal Life (IUL) falls short as an investment choice and the compelling reasons to consider alternatives.",
     "#IUL #InfiniteBanking #IndexedUniversalLife",
     "https://vpodk.medium.com/indexed-universal-life-insurance-b3d7fe31b299"
@@ -173,5 +168,10 @@
     "In order to pass programming interviews you need to solve algorithms and to solve algorithms you need data structures.",
     "#DataStructures #Algorithms #LinkedLists #Arrays #Hashmap #100DaysOfCode",
     "https://medium.com/data-science/data-structures-simplified-and-classified-e0c1e304436b"
+  ],
+  [
+    "The Holy Grail, in simple words, is a web page layout with multiple, columns having same heights and are specified with styling sheets.",
+    "#Flexbox #CSS #WebDevelopment #Coding #Programming #100DaysOfCode",
+    "https://levelup.gitconnected.com/clean-application-flexible-box-layout-98e439bb7d96"
   ]
 ]
