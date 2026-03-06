@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Scalable Enterprise AI Platform with Single-Tenancy](https://medium.com/frontiers-of-data-science/building-a-scalable-enterprise-ai-platform-with-single-tenancy-65428af20498?source=rss-22947912adc0------2)
 - [Quantum Data Enhances AI for Advanced Chemistry](https://medium.com/data-science-collective/quantum-data-enhances-ai-for-advanced-chemistry-2755a02572af?source=rss-22947912adc0------2)
 - [Quill’s Secure AI Agent Offers Enterprise-Grade Workflow Solutions](https://medium.com/majordigest/quills-secure-ai-agent-offers-enterprise-grade-workflow-solutions-f80cd7792686?source=rss-22947912adc0------2)
 - [New Roles Emerge for AI Evaluation](https://pub.aimind.so/new-roles-emerge-for-ai-evaluation-9096c01d8f79?source=rss-22947912adc0------2)
 - [Optimizing Agentic SaaS: A Guide to FinOps Strategies](https://medium.datadriveninvestor.com/optimizing-agentic-saas-a-guide-to-finops-strategies-060780177e53?source=rss-22947912adc0------2)
-- [Alibaba’s Qwen3.5 Advances AI Agents for Enterprise Workflows](https://medium.com/majordigest/alibabas-qwen3-5-advances-ai-agents-for-enterprise-workflows-d02eef8a7d9a?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
