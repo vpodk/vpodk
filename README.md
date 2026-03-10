@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI’s Role in Human-in-the-Loop Workflows: A New Paradigm](https://pub.towardsai.net/ais-role-in-human-in-the-loop-workflows-a-new-paradigm-6bdf7ee3f0a4?source=rss-22947912adc0------2)
+- [OpenAI Enters Code Hosting Arena, Challenging GitHub](https://levelup.gitconnected.com/openai-enters-code-hosting-arena-challenging-github-1194a0685082?source=rss-22947912adc0------2)
+- [WebAssembly Component Model Aims for Enhanced Web Integration](https://blog.stackademic.com/webassembly-component-model-aims-for-enhanced-web-integration-54dc216f1376?source=rss-22947912adc0------2)
 - [OpenAI Shifts AI Paradigm with Stateful Computing on AWS](https://aws.plainenglish.io/openai-shifts-ai-paradigm-with-stateful-computing-on-aws-1b4890194a66?source=rss-22947912adc0------2)
 - [Building a Scalable Enterprise AI Platform with Single-Tenancy](https://medium.com/frontiers-of-data-science/building-a-scalable-enterprise-ai-platform-with-single-tenancy-65428af20498?source=rss-22947912adc0------2)
-- [Quantum Data Enhances AI for Advanced Chemistry](https://medium.com/data-science-collective/quantum-data-enhances-ai-for-advanced-chemistry-2755a02572af?source=rss-22947912adc0------2)
-- [Quill’s Secure AI Agent Offers Enterprise-Grade Workflow Solutions](https://medium.com/majordigest/quills-secure-ai-agent-offers-enterprise-grade-workflow-solutions-f80cd7792686?source=rss-22947912adc0------2)
-- [New Roles Emerge for AI Evaluation](https://pub.aimind.so/new-roles-emerge-for-ai-evaluation-9096c01d8f79?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
