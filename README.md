@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Demands Reshape Cloud’s Storage-Compute Paradigm](https://medium.com/data-science-collective/ai-demands-reshape-clouds-storage-compute-paradigm-f7f9e53d5233?source=rss-22947912adc0------2)
 - [Building Resilient Data Systems for Organizational Endurance](https://medium.com/towards-data-engineering/building-resilient-data-systems-for-organizational-endurance-f2054d9322ed?source=rss-22947912adc0------2)
 - [Semantic Digital Twins Crucial for AI Data Centers](https://medium.com/majordigest/semantic-digital-twins-crucial-for-ai-data-centers-c0aee6894b78?source=rss-22947912adc0------2)
 - [AI’s Role in Human-in-the-Loop Workflows: A New Paradigm](https://pub.towardsai.net/ais-role-in-human-in-the-loop-workflows-a-new-paradigm-6bdf7ee3f0a4?source=rss-22947912adc0------2)
 - [OpenAI Enters Code Hosting Arena, Challenging GitHub](https://levelup.gitconnected.com/openai-enters-code-hosting-arena-challenging-github-1194a0685082?source=rss-22947912adc0------2)
-- [WebAssembly Component Model Aims for Enhanced Web Integration](https://blog.stackademic.com/webassembly-component-model-aims-for-enhanced-web-integration-54dc216f1376?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
