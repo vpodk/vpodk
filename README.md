@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI Success Hinges on Robust Data Foundations](https://medium.com/data-science-collective/agentic-ai-success-hinges-on-robust-data-foundations-6dac7b217562?source=rss-22947912adc0------2)
+- [TypeScript 6.0 Nears Release with Enhanced Type Checking](https://javascript.plainenglish.io/typescript-6-0-nears-release-with-enhanced-type-checking-24d1bfff27cd?source=rss-22947912adc0------2)
 - [AI Development: Beyond Code Generation to Cloud Deployment](https://ai.plainenglish.io/ai-development-beyond-code-generation-to-cloud-deployment-62fed28d68d6?source=rss-22947912adc0------2)
 - [AI Demands Reshape Cloud’s Storage-Compute Paradigm](https://medium.com/towards-data-engineering/ai-demands-reshape-clouds-storage-compute-paradigm-f7f9e53d5233?source=rss-22947912adc0------2)
 - [Building Resilient Data Systems for Organizational Endurance](https://medium.com/towards-data-engineering/building-resilient-data-systems-for-organizational-endurance-f2054d9322ed?source=rss-22947912adc0------2)
-- [Semantic Digital Twins Crucial for AI Data Centers](https://medium.com/majordigest/semantic-digital-twins-crucial-for-ai-data-centers-c0aee6894b78?source=rss-22947912adc0------2)
-- [AI’s Role in Human-in-the-Loop Workflows: A New Paradigm](https://pub.towardsai.net/ais-role-in-human-in-the-loop-workflows-a-new-paradigm-6bdf7ee3f0a4?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
