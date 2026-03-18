@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [DC Power Holds Key to Cost Savings in AI Data Centers](https://medium.datadriveninvestor.com/dc-power-holds-key-to-cost-savings-in-ai-data-centers-f391aafd68d6?source=rss-22947912adc0------2)
 - [Agentic AI Success Hinges on Robust Data Foundations](https://medium.com/data-science-collective/agentic-ai-success-hinges-on-robust-data-foundations-6dac7b217562?source=rss-22947912adc0------2)
 - [TypeScript 6.0 Nears Release with Enhanced Type Checking](https://javascript.plainenglish.io/typescript-6-0-nears-release-with-enhanced-type-checking-24d1bfff27cd?source=rss-22947912adc0------2)
 - [AI Development: Beyond Code Generation to Cloud Deployment](https://ai.plainenglish.io/ai-development-beyond-code-generation-to-cloud-deployment-62fed28d68d6?source=rss-22947912adc0------2)
 - [AI Demands Reshape Cloud’s Storage-Compute Paradigm](https://medium.com/towards-data-engineering/ai-demands-reshape-clouds-storage-compute-paradigm-f7f9e53d5233?source=rss-22947912adc0------2)
-- [Building Resilient Data Systems for Organizational Endurance](https://medium.com/towards-data-engineering/building-resilient-data-systems-for-organizational-endurance-f2054d9322ed?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
