@@ -1,10 +1,5 @@
 [
   [
-    "🛂 Debouncing and throttling events module. Debounce and Throttle are two similar methods for controlling how many times we allow a function to run over time.",
-    "#JavaScript #Throttle #Debounce #Programming #Coding #OpenSource #100DaysOfCode",
-    "https://github.com/Datamart/debouncing"
-  ],
-  [
     "As of today, there is no better time to learn JavaScript.",
     "#JavaScript #Programming #Coding #Tutorial #FutureAhead #100DaysOfCode",
     "https://vpodk.medium.com/learn-javascript-basics-in-5-minutes-443abbf71647"
@@ -173,5 +168,10 @@
     "The future is now: How #AI is shaping industries - Healthcare, E-commerce, Robotics, Finance, Facial Recognition, and Marketing",
     "",
     "https://vpodk.medium.com/how-artificial-intelligence-is-transforming-various-industries-ed10f86e57c4"
+  ],
+  [
+    "🛂 Debouncing and throttling events module. Debounce and Throttle are two similar methods for controlling how many times we allow a function to run over time.",
+    "#JavaScript #Throttle #Debounce #Programming #Coding #OpenSource #100DaysOfCode",
+    "https://github.com/Datamart/debouncing"
   ]
 ]
