@@ -11,7 +11,7 @@ This experience allows me to code in most programming languages and technologies
 - [Nvidia’s AI Systems Embrace Intel Xeon 6 Processors](https://medium.com/majordigest/nvidias-ai-systems-embrace-intel-xeon-6-processors-d17f8be7b701?source=rss-22947912adc0------2)
 - [DC Power Holds Key to Cost Savings in AI Data Centers](https://medium.datadriveninvestor.com/dc-power-holds-key-to-cost-savings-in-ai-data-centers-f391aafd68d6?source=rss-22947912adc0------2)
 - [Agentic AI Success Hinges on Robust Data Foundations](https://medium.com/data-science-collective/agentic-ai-success-hinges-on-robust-data-foundations-6dac7b217562?source=rss-22947912adc0------2)
-- [TypeScript 6.0 Nears Release with Enhanced Type Checking](https://javascript.plainenglish.io/typescript-6-0-nears-release-with-enhanced-type-checking-24d1bfff27cd?source=rss-22947912adc0------2)
+- [TypeScript 6.0 Nears Release with Enhanced Type Checking](https://blog.devgenius.io/typescript-6-0-nears-release-with-enhanced-type-checking-24d1bfff27cd?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
