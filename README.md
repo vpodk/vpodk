@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Context Management: Solving Production Challenges](https://medium.datadriveninvestor.com/ai-context-management-solving-production-challenges-517092228dc1?source=rss-22947912adc0------2)
+- [Palo Alto Enhances AI Security with New Platform Update](https://medium.com/majordigest/palo-alto-enhances-ai-security-with-new-platform-update-921aedb8eb73?source=rss-22947912adc0------2)
 - [Optimizing AI Training: Cost-Saving Strategies](https://medium.com/towards-data-engineering/optimizing-ai-training-cost-saving-strategies-ec9d976fc9d3?source=rss-22947912adc0------2)
 - [Microsoft’s MOSAIC Tech Slashes AI Data Center Power Needs](https://pub.aimind.so/microsofts-mosaic-tech-slashes-ai-data-center-power-needs-5aee9c6552e2?source=rss-22947912adc0------2)
 - [AI Agent Evaluations: Building Trust for Success](https://pub.towardsai.net/ai-agent-evaluations-building-trust-for-success-e138ab1f82f3?source=rss-22947912adc0------2)
-- [Agentic AI Transforms Enterprise Application Modernization](https://medium.com/towards-data-engineering/agentic-ai-transforms-enterprise-application-modernization-e511799b9134?source=rss-22947912adc0------2)
-- [AI-Powered Quantum Error Correction Achieves New Fidelity](https://medium.com/frontiers-of-data-science/ai-powered-quantum-error-correction-achieves-new-fidelity-5f5f619a42e7?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
