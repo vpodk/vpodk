@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [OpenAI Introduces Plugin System for Enterprise AI Coding Agents](https://levelup.gitconnected.com/openai-introduces-plugin-system-for-enterprise-ai-coding-agents-dd3dcd35db3b?source=rss-22947912adc0------2)
 - [Building Trust in AI Through Data Scoring Frameworks](https://medium.com/data-science-collective/building-trust-in-ai-through-data-scoring-frameworks-1c2f8b93fdc4?source=rss-22947912adc0------2)
 - [Amazon’s AI Health Tool Transforms Medical Navigation](https://pub.towardsai.net/amazons-ai-health-tool-transforms-medical-navigation-e07879534091?source=rss-22947912adc0------2)
 - [AI Context Management: Solving Production Challenges](https://medium.datadriveninvestor.com/ai-context-management-solving-production-challenges-517092228dc1?source=rss-22947912adc0------2)
 - [Palo Alto Enhances AI Security with New Platform Update](https://medium.com/majordigest/palo-alto-enhances-ai-security-with-new-platform-update-921aedb8eb73?source=rss-22947912adc0------2)
-- [Optimizing AI Training: Cost-Saving Strategies](https://medium.com/towards-data-engineering/optimizing-ai-training-cost-saving-strategies-ec9d976fc9d3?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
