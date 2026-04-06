@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Computing Advances Accelerate Encryption Threat](https://medium.com/towards-data-engineering/quantum-computing-advances-accelerate-encryption-threat-869428f33565?source=rss-22947912adc0------2)
 - [Structured Prompts Boost LLM Code Review Reliability](https://pub.towardsai.net/structured-prompts-boost-llm-code-review-reliability-a13b4cae4559?source=rss-22947912adc0------2)
 - [Azure AI Tools Enhance Cloud Migration and Modernization](https://medium.com/majordigest/azure-ai-tools-enhance-cloud-migration-and-modernization-fa2aef9b62bf?source=rss-22947912adc0------2)
 - [Claude Code Tutorial: Automate Refactoring with /simplify and /batch Commands](https://levelup.gitconnected.com/claude-code-tutorial-automate-refactoring-with-simplify-and-batch-commands-49762cf87448?source=rss-22947912adc0------2)
 - [OpenAI Introduces Plugin System for Enterprise AI Coding Agents](https://levelup.gitconnected.com/openai-introduces-plugin-system-for-enterprise-ai-coding-agents-dd3dcd35db3b?source=rss-22947912adc0------2)
-- [Building Trust in AI Through Data Scoring Frameworks](https://medium.com/data-science-collective/building-trust-in-ai-through-data-scoring-frameworks-1c2f8b93fdc4?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
