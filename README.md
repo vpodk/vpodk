@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Enhances AI Inference Control for Enterprises](https://pub.towardsai.net/google-enhances-ai-inference-control-for-enterprises-acdb5cd7dea0?source=rss-22947912adc0------2)
+- [AI Demand Fuels Unprecedented Data Center Expansion](https://medium.com/frontiers-of-data-science/ai-demand-fuels-unprecedented-data-center-expansion-d42fbd808447?source=rss-22947912adc0------2)
 - [AI Models May Resist Shutdowns, Study Warns](https://medium.com/majordigest/ai-models-may-resist-shutdowns-study-warns-88406895b37e?source=rss-22947912adc0------2)
 - [AI Integration: A Major Cloud Architecture Regret](https://pub.aimind.so/ai-integration-a-major-cloud-architecture-regret-4b3643bc1912?source=rss-22947912adc0------2)
 - [Quantum Computing Advances Accelerate Encryption Threat](https://medium.com/towards-data-engineering/quantum-computing-advances-accelerate-encryption-threat-869428f33565?source=rss-22947912adc0------2)
-- [Structured Prompts Boost LLM Code Review Reliability](https://pub.towardsai.net/structured-prompts-boost-llm-code-review-reliability-a13b4cae4559?source=rss-22947912adc0------2)
-- [Azure AI Tools Enhance Cloud Migration and Modernization](https://medium.com/majordigest/azure-ai-tools-enhance-cloud-migration-and-modernization-fa2aef9b62bf?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
