@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking Business Growth Through Heterogeneous AI Systems](https://medium.com/data-science-collective/unlocking-business-growth-through-heterogeneous-ai-systems-2eac2043009d?source=rss-22947912adc0------2)
 - [Microsoft’s Copilot Researcher Gains New Multi-Model AI](https://medium.datadriveninvestor.com/microsofts-copilot-researcher-gains-new-multi-model-ai-1061a94093da?source=rss-22947912adc0------2)
 - [UALink 2.0 Advances AI Interconnect Technology](https://medium.com/majordigest/ualink-2-0-advances-ai-interconnect-technology-e62aa39b7893?source=rss-22947912adc0------2)
 - [Google Enhances AI Inference Control for Enterprises](https://pub.towardsai.net/google-enhances-ai-inference-control-for-enterprises-acdb5cd7dea0?source=rss-22947912adc0------2)
 - [AI Demand Fuels Unprecedented Data Center Expansion](https://medium.com/frontiers-of-data-science/ai-demand-fuels-unprecedented-data-center-expansion-d42fbd808447?source=rss-22947912adc0------2)
-- [AI Models May Resist Shutdowns, Study Warns](https://medium.com/majordigest/ai-models-may-resist-shutdowns-study-warns-88406895b37e?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
