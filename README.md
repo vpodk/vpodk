@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Multi-Agent Systems: A Repeat of Microservices?](https://blog.devgenius.io/multi-agent-systems-a-repeat-of-microservices-d4f1bc161dc2?source=rss-22947912adc0------2)
+- [Modernize Enterprise Workflows With a Runtime Agent Tier](https://pub.towardsai.net/modernize-enterprise-workflows-with-a-runtime-agent-tier-9f3788986811?source=rss-22947912adc0------2)
 - [Google Cloud QueryData Improves AI Database Query Accuracy](https://levelup.gitconnected.com/google-cloud-querydata-improves-ai-database-query-accuracy-d307180d8752?source=rss-22947912adc0------2)
 - [Microsoft Introduces Agent Governance Toolkit for AI Security](https://medium.com/majordigest/microsoft-introduces-agent-governance-toolkit-for-ai-security-bd70d04dc2b1?source=rss-22947912adc0------2)
 - [Optimizing AI Workloads: Beyond GPU Bottlenecks](https://medium.com/towards-data-engineering/optimizing-ai-workloads-beyond-gpu-bottlenecks-f77f8e3755a7?source=rss-22947912adc0------2)
-- [Unlocking Business Growth Through Heterogeneous AI Systems](https://medium.com/data-science-collective/unlocking-business-growth-through-heterogeneous-ai-systems-2eac2043009d?source=rss-22947912adc0------2)
-- [Microsoft’s Copilot Researcher Gains New Multi-Model AI](https://medium.datadriveninvestor.com/microsofts-copilot-researcher-gains-new-multi-model-ai-1061a94093da?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
