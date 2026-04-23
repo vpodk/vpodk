@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Secure Architecture for Autonomous AI Agent Deployment](https://medium.com/data-science-collective/secure-architecture-for-autonomous-ai-agent-deployment-dd80fc764c19?source=rss-22947912adc0------2)
+- [Manage Risks of AI Vibe Coding in the Enterprise](https://medium.com/majordigest/manage-risks-of-ai-vibe-coding-in-the-enterprise-7a9cbede83aa?source=rss-22947912adc0------2)
 - [Federal Reserve study examines AI impact on job market](https://medium.com/majordigest/federal-reserve-study-examines-ai-impact-on-job-market-01fbeaa16959?source=rss-22947912adc0------2)
 - [Run Local AI Models Using Chrome and Edge APIs](https://ai.plainenglish.io/run-local-ai-models-using-chrome-and-edge-apis-8464ca7da1bd?source=rss-22947912adc0------2)
 - [Multi-Agent Systems: A Repeat of Microservices?](https://blog.devgenius.io/multi-agent-systems-a-repeat-of-microservices-d4f1bc161dc2?source=rss-22947912adc0------2)
-- [Modernize Enterprise Workflows With a Runtime Agent Tier](https://pub.towardsai.net/modernize-enterprise-workflows-with-a-runtime-agent-tier-9f3788986811?source=rss-22947912adc0------2)
-- [Google Cloud QueryData Improves AI Database Query Accuracy](https://levelup.gitconnected.com/google-cloud-querydata-improves-ai-database-query-accuracy-d307180d8752?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
