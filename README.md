@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI text generation masks lack of effort in personal messages](https://pub.towardsai.net/ai-text-generation-masks-lack-of-effort-in-personal-messages-9711d52c5a73?source=rss-22947912adc0------2)
+- [OpenAI GPT-5.5 Features and Coding Capabilities](https://pub.towardsai.net/openai-gpt-5-5-features-and-coding-capabilities-ad065ce9cc1f?source=rss-22947912adc0------2)
 - [Boost GPU efficiency for large scale LLM inference](https://medium.com/towards-data-engineering/boost-gpu-efficiency-for-large-scale-llm-inference-defa38113c97?source=rss-22947912adc0------2)
 - [Salesforce Headless 360 Enhances Enterprise Agent Workflows](https://medium.com/majordigest/salesforce-headless-360-enhances-enterprise-agent-workflows-1f9ca7400558?source=rss-22947912adc0------2)
 - [GitHub Introduces Stacked PRs for Faster Code Reviews](https://blog.devgenius.io/github-introduces-stacked-prs-for-faster-code-reviews-bd77cf21697a?source=rss-22947912adc0------2)
-- [HTMX 4.0 Migration and Technical Enhancements](https://levelup.gitconnected.com/htmx-4-0-migration-and-technical-enhancements-dd70b161ada9?source=rss-22947912adc0------2)
-- [Google launches 8t and 8i Tensor Processing Units](https://levelup.gitconnected.com/google-launches-8t-and-8i-tensor-processing-units-9fcd474e1cb2?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
