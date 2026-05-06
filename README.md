@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [J.P. Morgan Analyzes Artificial Intelligence Impact on White-Collar Jobs](https://medium.com/majordigest/j-p-morgan-analyzes-artificial-intelligence-impact-on-white-collar-jobs-138de41e8f9d?source=rss-22947912adc0------2)
+- [OpenAI Symphony transforms coding agents into automated workflows](https://medium.com/data-science-collective/openai-symphony-transforms-coding-agents-into-automated-workflows-eaacb83f062b?source=rss-22947912adc0------2)
 - [Alphabet commits 40 billion dollars to Anthropic](https://medium.datadriveninvestor.com/alphabet-commits-40-billion-dollars-to-anthropic-bfa944ccb18d?source=rss-22947912adc0------2)
 - [Enterprise Strategies for Developing Agentic AI Systems](https://pub.aimind.so/enterprise-strategies-for-developing-agentic-ai-systems-3f89be4c6340?source=rss-22947912adc0------2)
 - [Python 3.15 Features and Core Interpreter Updates](https://levelup.gitconnected.com/python-3-15-features-and-core-interpreter-updates-8a1f8c67046a?source=rss-22947912adc0------2)
-- [AI text generation masks lack of effort in personal messages](https://pub.towardsai.net/ai-text-generation-masks-lack-of-effort-in-personal-messages-9711d52c5a73?source=rss-22947912adc0------2)
-- [OpenAI GPT-5.5 Features and Coding Capabilities](https://pub.towardsai.net/openai-gpt-5-5-features-and-coding-capabilities-ad065ce9cc1f?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
