@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [World Models Represent the Next Phase of AI Evolution](https://pub.aimind.so/world-models-represent-the-next-phase-of-ai-evolution-65f96daddf19?source=rss-22947912adc0------2)
+- [Public Cloud AI Strategies and Operational Costs](https://ai.plainenglish.io/public-cloud-ai-strategies-and-operational-costs-d0ed3bb82eca?source=rss-22947912adc0------2)
 - [Challenges of Building Standalone Python Applications](https://levelup.gitconnected.com/challenges-of-building-standalone-python-applications-56e835890df8?source=rss-22947912adc0------2)
 - [AI Agent Adoption Shifts Operations Focus](https://medium.com/towards-data-engineering/ai-agent-adoption-shifts-operations-focus-e6f0f23f6c50?source=rss-22947912adc0------2)
 - [J.P. Morgan Analyzes Artificial Intelligence Impact on White-Collar Jobs](https://medium.com/majordigest/j-p-morgan-analyzes-artificial-intelligence-impact-on-white-collar-jobs-138de41e8f9d?source=rss-22947912adc0------2)
-- [OpenAI Symphony transforms coding agents into automated workflows](https://medium.com/data-science-collective/openai-symphony-transforms-coding-agents-into-automated-workflows-eaacb83f062b?source=rss-22947912adc0------2)
-- [Alphabet commits 40 billion dollars to Anthropic](https://medium.datadriveninvestor.com/alphabet-commits-40-billion-dollars-to-anthropic-bfa944ccb18d?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
