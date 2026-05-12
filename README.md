@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Modern Database Design Removes Disk Bottlenecks](https://levelup.gitconnected.com/modern-database-design-removes-disk-bottlenecks-093bf3432d4e?source=rss-22947912adc0------2)
+- [Cloudflare shares drop after AI restructuring plan](https://medium.com/majordigest/cloudflare-shares-drop-after-ai-restructuring-plan-ea78554feef9?source=rss-22947912adc0------2)
 - [Designing Cloud Resilient Frontend Systems](https://medium.com/towards-data-engineering/designing-cloud-resilient-frontend-systems-87a33a1b42c4?source=rss-22947912adc0------2)
 - [Disable AI data training on major chatbot platforms](https://medium.com/majordigest/disable-ai-data-training-on-major-chatbot-platforms-caead8f8501a?source=rss-22947912adc0------2)
 - [Strategies for Small Language Model Implementation](https://blog.stackademic.com/strategies-for-small-language-model-implementation-1112cf82296d?source=rss-22947912adc0------2)
-- [World Models Represent the Next Phase of AI Evolution](https://pub.aimind.so/world-models-represent-the-next-phase-of-ai-evolution-65f96daddf19?source=rss-22947912adc0------2)
-- [Public Cloud AI Strategies and Operational Costs](https://ai.plainenglish.io/public-cloud-ai-strategies-and-operational-costs-d0ed3bb82eca?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
