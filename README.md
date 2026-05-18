@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Remove Gemini Nano AI model from Google Chrome](https://medium.com/towards-data-engineering/remove-gemini-nano-ai-model-from-google-chrome-d8f56e84f245?source=rss-22947912adc0------2)
+- [Ideogram Features and Capabilities for Visual Content](https://medium.com/majordigest/ideogram-features-and-capabilities-for-visual-content-11cf19b83f6c?source=rss-22947912adc0------2)
 - [Solve Power Stability Issues in Gigascale AI Training](https://ai.plainenglish.io/solve-power-stability-issues-in-gigascale-ai-training-54592b90b444?source=rss-22947912adc0------2)
 - [Red Hat launches tools for enterprise AI agent development](https://medium.com/towards-data-engineering/red-hat-launches-tools-for-enterprise-ai-agent-development-3d5b67c31ab1?source=rss-22947912adc0------2)
 - [Build local-first web apps with reactive SQLite](https://levelup.gitconnected.com/build-local-first-web-apps-with-reactive-sqlite-0df81218fce8?source=rss-22947912adc0------2)
-- [Modern Database Design Removes Disk Bottlenecks](https://levelup.gitconnected.com/modern-database-design-removes-disk-bottlenecks-093bf3432d4e?source=rss-22947912adc0------2)
-- [Cloudflare shares drop after AI restructuring plan](https://medium.com/majordigest/cloudflare-shares-drop-after-ai-restructuring-plan-ea78554feef9?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
