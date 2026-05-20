@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Cisco Open-Sources Agentic AI Security Specification](https://medium.com/majordigest/cisco-open-sources-agentic-ai-security-specification-fa68e726be69?source=rss-22947912adc0------2)
 - [Notion Developer Platform Enables AI Agent Workflows](https://pub.aimind.so/notion-developer-platform-enables-ai-agent-workflows-bc59d026054a?source=rss-22947912adc0------2)
 - [Modern Tools for Spec-Driven Software Development](https://levelup.gitconnected.com/modern-tools-for-spec-driven-software-development-1943632a63e2?source=rss-22947912adc0------2)
 - [Remove Gemini Nano AI model from Google Chrome](https://medium.com/towards-data-engineering/remove-gemini-nano-ai-model-from-google-chrome-d8f56e84f245?source=rss-22947912adc0------2)
 - [Ideogram Features and Capabilities for Visual Content](https://medium.com/majordigest/ideogram-features-and-capabilities-for-visual-content-11cf19b83f6c?source=rss-22947912adc0------2)
-- [Solve Power Stability Issues in Gigascale AI Training](https://ai.plainenglish.io/solve-power-stability-issues-in-gigascale-ai-training-54592b90b444?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
