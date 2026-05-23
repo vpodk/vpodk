@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic acquires Stainless to improve Claude developer tools](https://levelup.gitconnected.com/anthropic-acquires-stainless-to-improve-claude-developer-tools-12053ca952c4?source=rss-22947912adc0------2)
+- [Amazon Bedrock adds Advanced Prompt Optimization](https://levelup.gitconnected.com/amazon-bedrock-adds-advanced-prompt-optimization-c7beab1e2569?source=rss-22947912adc0------2)
 - [AI tarpit defensive strategies protect digital intellectual property](https://blog.stackademic.com/ai-tarpit-defensive-strategies-protect-digital-intellectual-property-1dd51b3a65e9?source=rss-22947912adc0------2)
-- [Anthropic acquires Stainless to improve Claude developer tools](https://medium.com/majordigest/anthropic-acquires-stainless-to-improve-claude-developer-tools-6be4b8b9feda?source=rss-22947912adc0------2)
 - [Cisco Open-Sources Agentic AI Security Specification](https://medium.com/majordigest/cisco-open-sources-agentic-ai-security-specification-fa68e726be69?source=rss-22947912adc0------2)
 - [Notion Developer Platform Enables AI Agent Workflows](https://pub.aimind.so/notion-developer-platform-enables-ai-agent-workflows-bc59d026054a?source=rss-22947912adc0------2)
-- [Modern Tools for Spec-Driven Software Development](https://levelup.gitconnected.com/modern-tools-for-spec-driven-software-development-1943632a63e2?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
