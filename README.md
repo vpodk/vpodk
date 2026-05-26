@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Integrates CodeMender Into Agent Platform Strategy](https://medium.com/towards-data-engineering/google-integrates-codemender-into-agent-platform-strategy-db3df5dd1c80?source=rss-22947912adc0------2)
 - [Oracle Financial Risks Rise Amid AI Infrastructure Expansion](https://medium.com/majordigest/oracle-financial-risks-rise-amid-ai-infrastructure-expansion-2e690db00641?source=rss-22947912adc0------2)
 - [Gemini 3.5 Flash launches for enterprise agent workflows](https://medium.com/data-science-collective/gemini-3-5-flash-launches-for-enterprise-agent-workflows-93372bd6d898?source=rss-22947912adc0------2)
 - [Anthropic acquires Stainless to improve Claude developer tools](https://levelup.gitconnected.com/anthropic-acquires-stainless-to-improve-claude-developer-tools-12053ca952c4?source=rss-22947912adc0------2)
 - [Amazon Bedrock adds Advanced Prompt Optimization](https://levelup.gitconnected.com/amazon-bedrock-adds-advanced-prompt-optimization-c7beab1e2569?source=rss-22947912adc0------2)
-- [AI tarpit defensive strategies protect digital intellectual property](https://blog.stackademic.com/ai-tarpit-defensive-strategies-protect-digital-intellectual-property-1dd51b3a65e9?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
