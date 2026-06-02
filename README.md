@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Docker Sandboxes and microVMs for AI Agents](https://blog.stackademic.com/docker-sandboxes-and-microvms-for-ai-agents-749975dbedf2?source=rss-22947912adc0------2)
 - [AI Token Economics and Enterprise Resource Management](https://levelup.gitconnected.com/ai-token-economics-and-enterprise-resource-management-e87c945edf53?source=rss-22947912adc0------2)
 - [Snowflake Acquires Natoma for AI Agent Governance](https://medium.com/majordigest/snowflake-acquires-natoma-for-ai-agent-governance-139b4784e156?source=rss-22947912adc0------2)
 - [AWS CloudWatch Logs query capacity increases by tenfold](https://medium.com/illumination/aws-cloudwatch-logs-query-capacity-increases-by-tenfold-c02d4fbbf326?source=rss-22947912adc0------2)
 - [AI Traffic Reshapes Wide Area Networks](https://pub.aimind.so/ai-traffic-reshapes-wide-area-networks-03a8f2eaf669?source=rss-22947912adc0------2)
-- [Model Context Protocol role in software engineering](https://levelup.gitconnected.com/model-context-protocol-role-in-software-engineering-b6e0bbd08e85?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
