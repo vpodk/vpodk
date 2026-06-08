@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Workday releases Agent Passport to secure enterprise AI](https://medium.com/data-science-collective/workday-releases-agent-passport-to-secure-enterprise-ai-392df4620135?source=rss-22947912adc0------2)
 - [DNS-AID for AI Agent Discovery](https://pub.aimind.so/dns-aid-for-ai-agent-discovery-b4d0483775b5?source=rss-22947912adc0------2)
 - [Implement Bitnet LLM fine-tuning with Tether framework](https://medium.com/majordigest/implement-bitnet-llm-fine-tuning-with-tether-framework-7768eecf4752?source=rss-22947912adc0------2)
 - [Apple Strategy Shifts Toward Agentic Artificial Intelligence](https://pub.aimind.so/apple-strategy-shifts-toward-agentic-artificial-intelligence-83fd9575ee15?source=rss-22947912adc0------2)
 - [AI role in software engineering growth](https://medium.com/towards-data-engineering/ai-role-in-software-engineering-growth-f66adcd0a41b?source=rss-22947912adc0------2)
-- [Docker Sandboxes and microVMs for AI Agents](https://blog.stackademic.com/docker-sandboxes-and-microvms-for-ai-agents-749975dbedf2?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
