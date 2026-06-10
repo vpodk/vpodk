@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Releases Post-Quantum Cryptography Source Code](https://medium.com/readers-club/apple-releases-post-quantum-cryptography-source-code-358558e5bb98?source=rss-22947912adc0------2)
 - [Software Development Documentation Challenges](https://blog.devgenius.io/software-development-documentation-challenges-0b68a831cd5d?source=rss-22947912adc0------2)
 - [Google releases Gemma 4 12B for local AI agents](https://levelup.gitconnected.com/google-releases-gemma-4-12b-for-local-ai-agents-f488298c2b78?source=rss-22947912adc0------2)
 - [Workday releases Agent Passport to secure enterprise AI](https://medium.com/data-science-collective/workday-releases-agent-passport-to-secure-enterprise-ai-392df4620135?source=rss-22947912adc0------2)
 - [DNS-AID for AI Agent Discovery](https://pub.aimind.so/dns-aid-for-ai-agent-discovery-b4d0483775b5?source=rss-22947912adc0------2)
-- [Implement Bitnet LLM fine-tuning with Tether framework](https://medium.com/majordigest/implement-bitnet-llm-fine-tuning-with-tether-framework-7768eecf4752?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
