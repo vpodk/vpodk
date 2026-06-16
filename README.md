@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia Targets $500 Billion Physical AI Market](https://medium.datadriveninvestor.com/nvidia-targets-500-billion-physical-ai-market-6de6a626b748?source=rss-22947912adc0------2)
+- [Intel prioritizes power efficiency and cost in new chip designs](https://medium.datadriveninvestor.com/intel-prioritizes-power-efficiency-and-cost-in-new-chip-designs-f1b7defbce19?source=rss-22947912adc0------2)
 - [Snowflake Horizon Context improves AI agent business logic](https://medium.com/majordigest/snowflake-horizon-context-improves-ai-agent-business-logic-cd3c83df0cde?source=rss-22947912adc0------2)
 - [Manage Generative AI Back Ends for Applications](https://medium.com/illumination/manage-generative-ai-back-ends-for-applications-c4daa275f1c7?source=rss-22947912adc0------2)
 - [Apple Releases Post-Quantum Cryptography Source Code](https://medium.com/readers-club/apple-releases-post-quantum-cryptography-source-code-358558e5bb98?source=rss-22947912adc0------2)
-- [Software Development Documentation Challenges](https://blog.devgenius.io/software-development-documentation-challenges-0b68a831cd5d?source=rss-22947912adc0------2)
-- [Google releases Gemma 4 12B for local AI agents](https://levelup.gitconnected.com/google-releases-gemma-4-12b-for-local-ai-agents-f488298c2b78?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
