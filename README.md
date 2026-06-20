@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple iOS 27 Support Strategy Impacts AI Cycle](https://medium.com/majordigest/apple-ios-27-support-strategy-impacts-ai-cycle-e7bf029601e1?source=rss-22947912adc0------2)
+- [Modern AI Implementation Requires Standard ETL Engineering](https://medium.com/data-science-collective/modern-ai-implementation-requires-standard-etl-engineering-497e91bb7035?source=rss-22947912adc0------2)
 - [MCP servers for connecting LLMs to databases](https://levelup.gitconnected.com/mcp-servers-for-connecting-llms-to-databases-bcdaa4346154?source=rss-22947912adc0------2)
 - [Google introduces Gemini 3.5 Flash to cut enterprise AI costs](https://levelup.gitconnected.com/google-introduces-gemini-3-5-flash-to-cut-enterprise-ai-costs-e921071e0500?source=rss-22947912adc0------2)
 - [Nvidia Targets $500 Billion Physical AI Market](https://medium.datadriveninvestor.com/nvidia-targets-500-billion-physical-ai-market-6de6a626b748?source=rss-22947912adc0------2)
-- [Intel prioritizes power efficiency and cost in new chip designs](https://medium.datadriveninvestor.com/intel-prioritizes-power-efficiency-and-cost-in-new-chip-designs-f1b7defbce19?source=rss-22947912adc0------2)
-- [Snowflake Horizon Context improves AI agent business logic](https://medium.com/majordigest/snowflake-horizon-context-improves-ai-agent-business-logic-cd3c83df0cde?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
