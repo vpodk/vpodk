@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fix configuration file smells in AI coding agents](https://medium.com/codetodeploy/fix-configuration-file-smells-in-ai-coding-agents-56cfc0a2add1?source=rss-22947912adc0------2)
+- [Standardize Agentic AI with Agentic Resource Discovery](https://medium.com/data-science-collective/standardize-agentic-ai-with-agentic-resource-discovery-5ca0c82e5611?source=rss-22947912adc0------2)
 - [IBM Analysis Identifies Strategic Business Shift Toward Quantum Readiness](https://medium.com/majordigest/ibm-analysis-identifies-strategic-business-shift-toward-quantum-readiness-e08a415b7c87?source=rss-22947912adc0------2)
 - [Amazon AI search generates images from text descriptions](https://pub.towardsai.net/amazon-ai-search-generates-images-from-text-descriptions-6ce82e668974?source=rss-22947912adc0------2)
 - [Apple iOS 27 Support Strategy Impacts AI Cycle](https://medium.com/majordigest/apple-ios-27-support-strategy-impacts-ai-cycle-e7bf029601e1?source=rss-22947912adc0------2)
-- [Modern AI Implementation Requires Standard ETL Engineering](https://medium.com/data-science-collective/modern-ai-implementation-requires-standard-etl-engineering-497e91bb7035?source=rss-22947912adc0------2)
-- [MCP servers for connecting LLMs to databases](https://levelup.gitconnected.com/mcp-servers-for-connecting-llms-to-databases-bcdaa4346154?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
