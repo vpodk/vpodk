@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Apple Responds to Rising Component Costs](https://medium.com/majordigest/apple-responds-to-rising-component-costs-6a7fe5ac812f?source=rss-22947912adc0------2)
+- [AWS AgentCore Quota Increases for AI Scaling](https://aws.plainenglish.io/aws-agentcore-quota-increases-for-ai-scaling-4dfb5ba4edc6?source=rss-22947912adc0------2)
 - [Enterprise AI Cost Management Strategies and Tools](https://medium.datadriveninvestor.com/enterprise-ai-cost-management-strategies-and-tools-d69dfe53e210?source=rss-22947912adc0------2)
 - [GitHub Disables Automatic Npm Install Script Execution](https://levelup.gitconnected.com/github-disables-automatic-npm-install-script-execution-d84ffe284d1e?source=rss-22947912adc0------2)
 - [Meta Releases Pyrefly 1.0 Python Linter](https://levelup.gitconnected.com/meta-releases-pyrefly-1-0-python-linter-6d3c43c5d69b?source=rss-22947912adc0------2)
-- [Fix configuration file smells in AI coding agents](https://medium.com/codetodeploy/fix-configuration-file-smells-in-ai-coding-agents-56cfc0a2add1?source=rss-22947912adc0------2)
-- [Standardize Agentic AI with Agentic Resource Discovery](https://medium.com/data-science-collective/standardize-agentic-ai-with-agentic-resource-discovery-5ca0c82e5611?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
