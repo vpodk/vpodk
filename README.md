@@ -8,7 +8,7 @@ This experience allows me to code in most programming languages and technologies
 
 <!-- BLOG-POST-LIST:START -->
 - [Large Language Models Improve Robot Instruction Following](https://medium.datadriveninvestor.com/large-language-models-improve-robot-instruction-following-865142221acb?source=rss-22947912adc0------2)
-- [Network Modernization Strategies for Agentic AI Infrastructure](https://pub.towardsai.net/network-modernization-strategies-for-agentic-ai-infrastructure-c7f4f0f9b732?source=rss-22947912adc0------2)
+- [Network Modernization Strategies for Agentic AI Infrastructure](https://levelup.gitconnected.com/network-modernization-strategies-for-agentic-ai-infrastructure-c7f4f0f9b732?source=rss-22947912adc0------2)
 - [Essential Metrics for Large Language Model Performance](https://ai.plainenglish.io/essential-metrics-for-large-language-model-performance-1c2551f716ef?source=rss-22947912adc0------2)
 - [Europe Expands Quantum-GPU Computing](https://medium.com/majordigest/europe-expands-quantum-gpu-computing-287f0ebfa743?source=rss-22947912adc0------2)
 - [Apple Responds to Rising Component Costs](https://medium.com/majordigest/apple-responds-to-rising-component-costs-6a7fe5ac812f?source=rss-22947912adc0------2)
