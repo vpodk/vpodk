@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Quantum Processor Architecture Uses Mechanical Working Memory](https://medium.com/majordigest/quantum-processor-architecture-uses-mechanical-working-memory-50d95a235bc9?source=rss-22947912adc0------2)
 - [Amazon Deploys Energy Efficient Data Center Routing](https://medium.com/@vpodk/amazon-deploys-energy-efficient-data-center-routing-b58b2222d76b?source=rss-22947912adc0------2)
 - [Implement persistent memory systems for AI agents](https://medium.com/data-science-collective/implement-persistent-memory-systems-for-ai-agents-69ab6ff60a85?source=rss-22947912adc0------2)
 - [Linux Foundation creates DNS framework for AI agents](https://levelup.gitconnected.com/linux-foundation-creates-dns-framework-for-ai-agents-d50f8a0fb2e7?source=rss-22947912adc0------2)
 - [Large Language Models Improve Robot Instruction Following](https://medium.datadriveninvestor.com/large-language-models-improve-robot-instruction-following-865142221acb?source=rss-22947912adc0------2)
-- [Network Modernization Strategies for Agentic AI Infrastructure](https://levelup.gitconnected.com/network-modernization-strategies-for-agentic-ai-infrastructure-c7f4f0f9b732?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
