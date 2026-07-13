@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Reddit Ad Strategy Targets Search Intent Over Social Media](https://medium.com/majordigest/reddit-ad-strategy-targets-search-intent-over-social-media-5155aa292337?source=rss-22947912adc0------2)
+- [SRE AI Agent Safe Failure Implementation](https://medium.com/@vpodk/sre-ai-agent-safe-failure-implementation-b2a73207efc8?source=rss-22947912adc0------2)
 - [Building Scalable Quantum Computing Ecosystems](https://medium.com/majordigest/building-scalable-quantum-computing-ecosystems-e5eae5697a40?source=rss-22947912adc0------2)
 - [Autonomous Quantum Computer Calibration](https://medium.datadriveninvestor.com/autonomous-quantum-computer-calibration-d158e56e65ce?source=rss-22947912adc0------2)
 - [Quantum Processor Architecture Uses Mechanical Working Memory](https://medium.com/majordigest/quantum-processor-architecture-uses-mechanical-working-memory-50d95a235bc9?source=rss-22947912adc0------2)
-- [Amazon Deploys Energy Efficient Data Center Routing](https://medium.com/@vpodk/amazon-deploys-energy-efficient-data-center-routing-b58b2222d76b?source=rss-22947912adc0------2)
-- [Implement persistent memory systems for AI agents](https://medium.com/data-science-collective/implement-persistent-memory-systems-for-ai-agents-69ab6ff60a85?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
