@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Strategies for AI Token Cost Reduction](https://blog.devgenius.io/strategies-for-ai-token-cost-reduction-639e83994f14?source=rss-22947912adc0------2)
+- [Microsoft releases open source AI agent testing tool](https://levelup.gitconnected.com/microsoft-releases-open-source-ai-agent-testing-tool-467fc6606113?source=rss-22947912adc0------2)
 - [Google Search History Updates and AI Training Policies](https://medium.com/readers-club/google-search-history-updates-and-ai-training-policies-acbff5bcc0d8?source=rss-22947912adc0------2)
 - [Google DiffusionGemma AI breaks sequential processing limits](https://medium.com/towards-data-engineering/google-diffusiongemma-ai-breaks-sequential-processing-limits-4892407e225d?source=rss-22947912adc0------2)
 - [Reddit Ad Strategy Targets Search Intent Over Social Media](https://medium.com/majordigest/reddit-ad-strategy-targets-search-intent-over-social-media-5155aa292337?source=rss-22947912adc0------2)
-- [SRE AI Agent Safe Failure Implementation](https://blog.devgenius.io/sre-ai-agent-safe-failure-implementation-b2a73207efc8?source=rss-22947912adc0------2)
-- [Building Scalable Quantum Computing Ecosystems](https://medium.com/majordigest/building-scalable-quantum-computing-ecosystems-e5eae5697a40?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
