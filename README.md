@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Thinking Machines Inkling model challenges Anthropic branding](https://medium.com/majordigest/thinking-machines-inkling-model-challenges-anthropic-branding-a39486c20623?source=rss-22947912adc0------2)
+- [Intel integrates Google Gemini for chip development](https://medium.datadriveninvestor.com/intel-integrates-google-gemini-for-chip-development-faa0052a9773?source=rss-22947912adc0------2)
 - [MongoDB Adds Native Reranking to Atlas Database](https://medium.com/towards-data-engineering/mongodb-adds-native-reranking-to-atlas-database-73954e399256?source=rss-22947912adc0------2)
 - [Thermodynamic Computing Architecture Reduces AI Energy Demand](https://medium.com/majordigest/thermodynamic-computing-architecture-reduces-ai-energy-demand-34a0b69867ed?source=rss-22947912adc0------2)
 - [Strategies for AI Token Cost Reduction](https://blog.devgenius.io/strategies-for-ai-token-cost-reduction-639e83994f14?source=rss-22947912adc0------2)
-- [Microsoft releases open source AI agent testing tool](https://levelup.gitconnected.com/microsoft-releases-open-source-ai-agent-testing-tool-467fc6606113?source=rss-22947912adc0------2)
-- [Google Search History Updates and AI Training Policies](https://medium.com/readers-club/google-search-history-updates-and-ai-training-policies-acbff5bcc0d8?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
