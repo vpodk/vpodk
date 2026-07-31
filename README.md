@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Claude Opus 5 Performance and API Updates](https://pub.towardsai.net/anthropic-claude-opus-5-performance-and-api-updates-28e38eda8f6f?source=rss-22947912adc0------2)
+- [Databricks launches AI agent for legacy SQL migration](https://medium.com/towards-data-engineering/databricks-launches-ai-agent-for-legacy-sql-migration-fc4123f80dbb?source=rss-22947912adc0------2)
 - [Apple and Nvidia Battle for Market Capitalization Supremacy](https://medium.com/majordigest/apple-and-nvidia-battle-for-market-capitalization-supremacy-652c7146854a?source=rss-22947912adc0------2)
-- [Superconducting Circuit Design Advances Topological Quantum Computing](https://medium.com/@vpodk/superconducting-circuit-design-advances-topological-quantum-computing-7953e8903a0e?source=rss-22947912adc0------2)
+- [Superconducting Circuit Design Advances Topological Quantum Computing](https://medium.datadriveninvestor.com/superconducting-circuit-design-advances-topological-quantum-computing-7953e8903a0e?source=rss-22947912adc0------2)
 - [Thinking Machines Inkling model challenges Anthropic branding](https://medium.com/majordigest/thinking-machines-inkling-model-challenges-anthropic-branding-a39486c20623?source=rss-22947912adc0------2)
-- [Intel integrates Google Gemini for chip development](https://medium.datadriveninvestor.com/intel-integrates-google-gemini-for-chip-development-faa0052a9773?source=rss-22947912adc0------2)
-- [MongoDB Adds Native Reranking to Atlas Database](https://medium.com/towards-data-engineering/mongodb-adds-native-reranking-to-atlas-database-73954e399256?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
