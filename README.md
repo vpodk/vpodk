@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Releases C# SDK 2.0 for Model Context Protocol](https://levelup.gitconnected.com/microsoft-releases-c-sdk-2-0-for-model-context-protocol-f2e0092eeb70?source=rss-22947912adc0------2)
 - [Palantir performance highlights enterprise AI adoption trends](https://medium.com/majordigest/palantir-performance-highlights-enterprise-ai-adoption-trends-dd87ba213563?source=rss-22947912adc0------2)
 - [Microsoft Agent Framework Consolidation Impacts Enterprise AI](https://medium.com/@vpodk/microsoft-agent-framework-consolidation-impacts-enterprise-ai-713325010f5a?source=rss-22947912adc0------2)
 - [Anthropic Claude Opus 5 Performance and API Updates](https://ai.plainenglish.io/anthropic-claude-opus-5-performance-and-api-updates-28e38eda8f6f?source=rss-22947912adc0------2)
 - [Databricks launches AI agent for legacy SQL migration](https://medium.com/towards-data-engineering/databricks-launches-ai-agent-for-legacy-sql-migration-fc4123f80dbb?source=rss-22947912adc0------2)
-- [Apple and Nvidia Battle for Market Capitalization Supremacy](https://medium.com/majordigest/apple-and-nvidia-battle-for-market-capitalization-supremacy-652c7146854a?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
