@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Model Context Protocol Adopts Stateless Architecture](https://www.towardsdeeplearning.com/model-context-protocol-adopts-stateless-architecture-eb53892dd643?source=rss-22947912adc0------2)
+- [Quantum AI Memory Enhancement](https://medium.com/majordigest/quantum-ai-memory-enhancement-660df29d378a?source=rss-22947912adc0------2)
 - [Modern Compute Strategies for Agentic Workloads](https://medium.com/@vpodk/modern-compute-strategies-for-agentic-workloads-4febcaaa2497?source=rss-22947912adc0------2)
 - [Google reengineers data center hardware for AI agents](https://medium.com/majordigest/google-reengineers-data-center-hardware-for-ai-agents-ed2f043b8bc7?source=rss-22947912adc0------2)
 - [Meta releases Muse Code for persistent AI software engineering](https://levelup.gitconnected.com/meta-releases-muse-code-for-persistent-ai-software-engineering-b18fa2ca0294?source=rss-22947912adc0------2)
-- [IBM Quantum Hardware Powers QC Ware Chemistry Workflow](https://medium.com/majordigest/ibm-quantum-hardware-powers-qc-ware-chemistry-workflow-8568ee05aa2b?source=rss-22947912adc0------2)
-- [Alibaba releases Qwen3.8-Max to compete with western AI](https://www.towardsdeeplearning.com/alibaba-releases-qwen3-8-max-to-compete-with-western-ai-2a5cd96f7831?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
