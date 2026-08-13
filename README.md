@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Java 28 Development Progress and New JSON API Features](https://levelup.gitconnected.com/java-28-development-progress-and-new-json-api-features-74b7022ad980?source=rss-22947912adc0------2)
+- [Guide to AI software development environments](https://ai.plainenglish.io/guide-to-ai-software-development-environments-a37dc61adb76?source=rss-22947912adc0------2)
 - [AWS adds native vector search to DynamoDB](https://levelup.gitconnected.com/aws-adds-native-vector-search-to-dynamodb-f564d826527f?source=rss-22947912adc0------2)
 - [Model Context Protocol Adopts Stateless Architecture](https://www.towardsdeeplearning.com/model-context-protocol-adopts-stateless-architecture-eb53892dd643?source=rss-22947912adc0------2)
 - [Quantum AI Memory Enhancement](https://medium.com/majordigest/quantum-ai-memory-enhancement-660df29d378a?source=rss-22947912adc0------2)
-- [Modern Compute Strategies for Agentic Workloads](https://medium.com/@vpodk/modern-compute-strategies-for-agentic-workloads-4febcaaa2497?source=rss-22947912adc0------2)
-- [Google reengineers data center hardware for AI agents](https://medium.com/majordigest/google-reengineers-data-center-hardware-for-ai-agents-ed2f043b8bc7?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
