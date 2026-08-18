@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Fraunhofer Researchers Refine Quantum Advantage Assessment Metrics](https://medium.com/majordigest/fraunhofer-researchers-refine-quantum-advantage-assessment-metrics-9786d3f99cb6?source=rss-22947912adc0------2)
 - [Google Credentio C++ library enables local C2PA validation](https://levelup.gitconnected.com/google-credentio-c-library-enables-local-c2pa-validation-0bae73a20fb6?source=rss-22947912adc0------2)
 - [Google lowers Gemini 3.7 Flash costs for developers](https://medium.com/@vpodk/google-lowers-gemini-3-7-flash-costs-for-developers-a3ef884cb7a6?source=rss-22947912adc0------2)
 - [Anthropic enables auto mode by default for Claude Code](https://pub.towardsai.net/anthropic-enables-auto-mode-by-default-for-claude-code-123a088bd32c?source=rss-22947912adc0------2)
 - [AWS launches Kiro Crew for autonomous engineering teams](https://levelup.gitconnected.com/aws-launches-kiro-crew-for-autonomous-engineering-teams-f430c01ad4d6?source=rss-22947912adc0------2)
-- [Java 28 Development Progress and New JSON API Features](https://levelup.gitconnected.com/java-28-development-progress-and-new-json-api-features-74b7022ad980?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
