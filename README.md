@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AI System Observability Metrics](https://medium.com/majordigest/ai-system-observability-metrics-33928ea11f65?source=rss-22947912adc0------2)
+- [Microsoft and Google join Apache Ossie project](https://medium.com/majordigest/microsoft-and-google-join-apache-ossie-project-702f468d6402?source=rss-22947912adc0------2)
 - [Breaking Up with Google: My Journey Leaving the Google Ecosystem](https://medium.com/@vpodk/breaking-up-with-google-my-journey-leaving-the-google-ecosystem-e0de54d67715?source=rss-22947912adc0------2)
 - [Standardizing safe generative UI implementation](https://blog.stackademic.com/standardizing-safe-generative-ui-implementation-b38d4c2d1b3c?source=rss-22947912adc0------2)
 - [Meta Muse Glimmer shifts enterprise AI cost strategy](https://medium.datadriveninvestor.com/meta-muse-glimmer-shifts-enterprise-ai-cost-strategy-c8e1cfff9595?source=rss-22947912adc0------2)
-- [Databricks buys Electric to embed local Postgres in AI agents](https://medium.com/majordigest/databricks-buys-electric-to-embed-local-postgres-in-ai-agents-9897306bad4f?source=rss-22947912adc0------2)
-- [Fraunhofer Researchers Refine Quantum Advantage Assessment Metrics](https://medium.com/majordigest/fraunhofer-researchers-refine-quantum-advantage-assessment-metrics-9786d3f99cb6?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
