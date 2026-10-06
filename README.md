@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [IBM Expands Quantum and AI Research Partnerships in India](https://medium.com/majordigest/ibm-expands-quantum-and-ai-research-partnerships-in-india-37a1fffae745?source=rss-22947912adc0------2)
+- [Implementing AI-Driven Network Operations](https://medium.com/data-science-collective/implementing-ai-driven-network-operations-f4f5cd068c20?source=rss-22947912adc0------2)
 - [AI Coding: Harder Engineering](https://medium.com/majordigest/ai-coding-harder-engineering-987db02f9973?source=rss-22947912adc0------2)
 - [Tech Giants Move AI Data Centers into Orbit](https://medium.com/majordigest/tech-giants-move-ai-data-centers-into-orbit-e469e9ab61f2?source=rss-22947912adc0------2)
 - [AI System Observability Metrics](https://medium.com/majordigest/ai-system-observability-metrics-33928ea11f65?source=rss-22947912adc0------2)
-- [Microsoft and Google join Apache Ossie project](https://medium.com/majordigest/microsoft-and-google-join-apache-ossie-project-702f468d6402?source=rss-22947912adc0------2)
-- [Breaking Up with Google: My Journey Leaving the Google Ecosystem](https://medium.com/@vpodk/breaking-up-with-google-my-journey-leaving-the-google-ecosystem-e0de54d67715?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
