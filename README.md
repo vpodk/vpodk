@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Nvidia unveils Open Agent Safety Platform for AI governance](https://medium.com/majordigest/nvidia-unveils-open-agent-safety-platform-for-ai-governance-8c8b97eca1e7?source=rss-22947912adc0------2)
+- [Google Cloud Modernize Portfolio Update](https://medium.com/majordigest/google-cloud-modernize-portfolio-update-8ae7599f7de3?source=rss-22947912adc0------2)
 - [IBM Expands Quantum and AI Research Partnerships in India](https://medium.com/majordigest/ibm-expands-quantum-and-ai-research-partnerships-in-india-37a1fffae745?source=rss-22947912adc0------2)
 - [Implementing AI-Driven Network Operations](https://medium.com/data-science-collective/implementing-ai-driven-network-operations-f4f5cd068c20?source=rss-22947912adc0------2)
 - [AI Coding: Harder Engineering](https://medium.com/majordigest/ai-coding-harder-engineering-987db02f9973?source=rss-22947912adc0------2)
-- [Tech Giants Move AI Data Centers into Orbit](https://medium.com/majordigest/tech-giants-move-ai-data-centers-into-orbit-e469e9ab61f2?source=rss-22947912adc0------2)
-- [AI System Observability Metrics](https://medium.com/majordigest/ai-system-observability-metrics-33928ea11f65?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
