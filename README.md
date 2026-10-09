@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Arista Networks Challenges Nvidia with AI Ethernet Fabric](https://medium.com/majordigest/arista-networks-challenges-nvidia-with-ai-ethernet-fabric-30e5f3e8d52f?source=rss-22947912adc0------2)
+- [Modernize Software Workflows for AI Assisted Development](https://pub.towardsai.net/modernize-software-workflows-for-ai-assisted-development-1c9c918878d3?source=rss-22947912adc0------2)
 - [Nvidia unveils Open Agent Safety Platform for AI governance](https://medium.com/majordigest/nvidia-unveils-open-agent-safety-platform-for-ai-governance-8c8b97eca1e7?source=rss-22947912adc0------2)
 - [Google Cloud Modernize Portfolio Update](https://medium.com/majordigest/google-cloud-modernize-portfolio-update-8ae7599f7de3?source=rss-22947912adc0------2)
 - [IBM Expands Quantum and AI Research Partnerships in India](https://medium.com/majordigest/ibm-expands-quantum-and-ai-research-partnerships-in-india-37a1fffae745?source=rss-22947912adc0------2)
-- [Implementing AI-Driven Network Operations](https://medium.com/data-science-collective/implementing-ai-driven-network-operations-f4f5cd068c20?source=rss-22947912adc0------2)
-- [AI Coding: Harder Engineering](https://medium.com/majordigest/ai-coding-harder-engineering-987db02f9973?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
