@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Oracle manages AI power shortages with fuel trucking](https://medium.com/majordigest/oracle-manages-ai-power-shortages-with-fuel-trucking-d78539902e9e?source=rss-22947912adc0------2)
+- [AI Evolution in Modern Software Development Workflows](https://levelup.gitconnected.com/ai-evolution-in-modern-software-development-workflows-f42570c51cb0?source=rss-22947912adc0------2)
 - [AI Agent Integration Trends at TechCrunch Disrupt](https://levelup.gitconnected.com/ai-agent-integration-trends-at-techcrunch-disrupt-b8d7785a4c46?source=rss-22947912adc0------2)
 - [Unified AI Networking Architecture Bridges Data Center Gaps](https://medium.com/majordigest/unified-ai-networking-architecture-bridges-data-center-gaps-e3ae94ceb229?source=rss-22947912adc0------2)
 - [Enterprise AI Vendors Separate Decision Logic into Model Layers](https://medium.com/majordigest/enterprise-ai-vendors-separate-decision-logic-into-model-layers-daeb11a17f1a?source=rss-22947912adc0------2)
-- [Arista Networks Challenges Nvidia with AI Ethernet Fabric](https://medium.com/majordigest/arista-networks-challenges-nvidia-with-ai-ethernet-fabric-30e5f3e8d52f?source=rss-22947912adc0------2)
-- [Modernize Software Workflows for AI Assisted Development](https://medium.com/@vpodk/modernize-software-workflows-for-ai-assisted-development-1c9c918878d3?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
