@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Humanoid Robot Motion Planning for Athletic Performance](https://medium.com/majordigest/humanoid-robot-motion-planning-for-athletic-performance-40aa7f608f8c?source=rss-22947912adc0------2)
+- [Agent Development Lifecycle for AI Systems](https://medium.com/towards-data-engineering/agent-development-lifecycle-for-ai-systems-3d6a303283e4?source=rss-22947912adc0------2)
 - [Oracle manages AI power shortages with fuel trucking](https://medium.com/majordigest/oracle-manages-ai-power-shortages-with-fuel-trucking-d78539902e9e?source=rss-22947912adc0------2)
 - [AI Evolution in Modern Software Development Workflows](https://levelup.gitconnected.com/ai-evolution-in-modern-software-development-workflows-f42570c51cb0?source=rss-22947912adc0------2)
 - [AI Agent Integration Trends at TechCrunch Disrupt](https://levelup.gitconnected.com/ai-agent-integration-trends-at-techcrunch-disrupt-b8d7785a4c46?source=rss-22947912adc0------2)
-- [Unified AI Networking Architecture Bridges Data Center Gaps](https://medium.com/majordigest/unified-ai-networking-architecture-bridges-data-center-gaps-e3ae94ceb229?source=rss-22947912adc0------2)
-- [Enterprise AI Vendors Separate Decision Logic into Model Layers](https://medium.com/majordigest/enterprise-ai-vendors-separate-decision-logic-into-model-layers-daeb11a17f1a?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
