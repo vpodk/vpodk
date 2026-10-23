@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Implement Model Routing to Reduce Inference Costs](https://medium.com/@vpodk/implement-model-routing-to-reduce-inference-costs-90cc665577c4?source=rss-22947912adc0------2)
+- [Network Compute for Local AI Applications](https://medium.com/data-science-collective/network-compute-for-local-ai-applications-bd22df285818?source=rss-22947912adc0------2)
 - [Quantum Circuit Design Optimization Using Claude AI](https://medium.com/majordigest/quantum-circuit-design-optimization-using-claude-ai-3c297833720a?source=rss-22947912adc0------2)
 - [Germany Plans Post-Quantum Cryptography Shift](https://medium.com/majordigest/germany-plans-post-quantum-cryptography-shift-b9ba1e1805e4?source=rss-22947912adc0------2)
 - [Neural networks demonstrate autonomous learning mechanisms](https://medium.com/majordigest/neural-networks-demonstrate-autonomous-learning-mechanisms-49b5c778389d?source=rss-22947912adc0------2)
-- [Agentic AI Production Strategies and Performance Trade-offs](https://medium.datadriveninvestor.com/agentic-ai-production-strategies-and-performance-trade-offs-98b06733fa1c?source=rss-22947912adc0------2)
-- [Humanoid Robot Motion Planning for Athletic Performance](https://medium.com/majordigest/humanoid-robot-motion-planning-for-athletic-performance-40aa7f608f8c?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
