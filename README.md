@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI PCs reduce token costs](https://levelup.gitconnected.com/agentic-ai-pcs-reduce-token-costs-bfebaa815971?source=rss-22947912adc0------2)
 - [Reduce AI Data Center Deployment Time](https://medium.datadriveninvestor.com/reduce-ai-data-center-deployment-time-59d53a863d04?source=rss-22947912adc0------2)
 - [AI infrastructure trends and technology shifts](https://medium.com/majordigest/ai-infrastructure-trends-and-technology-shifts-5c4d9bb0242c?source=rss-22947912adc0------2)
 - [Implement Model Routing to Reduce Inference Costs](https://medium.com/@vpodk/implement-model-routing-to-reduce-inference-costs-90cc665577c4?source=rss-22947912adc0------2)
 - [Network Compute for Local AI Applications](https://medium.com/data-science-collective/network-compute-for-local-ai-applications-bd22df285818?source=rss-22947912adc0------2)
-- [Quantum Circuit Design Optimization Using Claude AI](https://medium.com/majordigest/quantum-circuit-design-optimization-using-claude-ai-3c297833720a?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
