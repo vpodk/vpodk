@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Kiro Bots Coordinate Multi-Agent AI Workflows](https://aws.plainenglish.io/aws-kiro-bots-coordinate-multi-agent-ai-workflows-4eb2724c27f8?source=rss-22947912adc0------2)
 - [Distributed AI Strategies Using Edge and Cloud Inference](https://medium.com/majordigest/distributed-ai-strategies-using-edge-and-cloud-inference-dac4f19fee16?source=rss-22947912adc0------2)
 - [MariaDB Enterprise Platform 2027 Adds AI Agent Capabilities](https://levelup.gitconnected.com/mariadb-enterprise-platform-2027-adds-ai-agent-capabilities-13ea3515002f?source=rss-22947912adc0------2)
 - [Meta buys AI coding startup Conductor to boost development](https://medium.datadriveninvestor.com/meta-buys-ai-coding-startup-conductor-to-boost-development-5a206daea883?source=rss-22947912adc0------2)
 - [GitHub Copilot Redesign Focuses on Multi-Agent Collaboration](https://medium.com/@vpodk/github-copilot-redesign-focuses-on-multi-agent-collaboration-ea7aa97bf6bf?source=rss-22947912adc0------2)
-- [Enterprise AI Infrastructure and Organizational Learning](https://medium.com/majordigest/enterprise-ai-infrastructure-and-organizational-learning-1b5e89cebb79?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
