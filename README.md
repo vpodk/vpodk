@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AWS Upgrades Bedrock AgentCore for Faster AI Agent Deployment](https://aws.plainenglish.io/aws-upgrades-bedrock-agentcore-for-faster-ai-agent-deployment-43482f8a3358?source=rss-22947912adc0------2)
+- [Enterprise AI Architecture Shifts Beyond Agent Models](https://medium.com/majordigest/enterprise-ai-architecture-shifts-beyond-agent-models-68106d41e99a?source=rss-22947912adc0------2)
+- [AWS Emulator provides local environment for cloud testing](https://aws.plainenglish.io/aws-emulator-provides-local-environment-for-cloud-testing-a764a26704cf?source=rss-22947912adc0------2)
+- [Google expands TPU lineup to solve AI memory and security gaps](https://medium.com/majordigest/google-expands-tpu-lineup-to-solve-ai-memory-and-security-gaps-47009e2e4f48?source=rss-22947912adc0------2)
 - [AWS Kiro Bots Coordinate Multi-Agent AI Workflows](https://aws.plainenglish.io/aws-kiro-bots-coordinate-multi-agent-ai-workflows-4eb2724c27f8?source=rss-22947912adc0------2)
-- [Distributed AI Strategies Using Edge and Cloud Inference](https://medium.com/majordigest/distributed-ai-strategies-using-edge-and-cloud-inference-dac4f19fee16?source=rss-22947912adc0------2)
-- [MariaDB Enterprise Platform 2027 Adds AI Agent Capabilities](https://levelup.gitconnected.com/mariadb-enterprise-platform-2027-adds-ai-agent-capabilities-13ea3515002f?source=rss-22947912adc0------2)
-- [Meta buys AI coding startup Conductor to boost development](https://medium.datadriveninvestor.com/meta-buys-ai-coding-startup-conductor-to-boost-development-5a206daea883?source=rss-22947912adc0------2)
-- [GitHub Copilot Redesign Focuses on Multi-Agent Collaboration](https://medium.com/@vpodk/github-copilot-redesign-focuses-on-multi-agent-collaboration-ea7aa97bf6bf?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
