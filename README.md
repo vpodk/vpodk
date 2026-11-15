@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Google Integrates Multi-Model Orchestrator into Antigravity](https://levelup.gitconnected.com/google-integrates-multi-model-orchestrator-into-antigravity-ef5881716cdd?source=rss-22947912adc0------2)
 - [Examine AI Exposure in Value Funds](https://medium.datadriveninvestor.com/examine-ai-exposure-in-value-funds-0d2e54c7b74f?source=rss-22947912adc0------2)
 - [Google Agent Compute Engine Lowers AI Idle Costs](https://medium.com/beyond-localhost/google-agent-compute-engine-lowers-ai-idle-costs-a307dad92b03?source=rss-22947912adc0------2)
 - [AWS Upgrades Bedrock AgentCore for Faster AI Agent Deployment](https://aws.plainenglish.io/aws-upgrades-bedrock-agentcore-for-faster-ai-agent-deployment-43482f8a3358?source=rss-22947912adc0------2)
 - [Enterprise AI Architecture Shifts Beyond Agent Models](https://medium.com/majordigest/enterprise-ai-architecture-shifts-beyond-agent-models-68106d41e99a?source=rss-22947912adc0------2)
-- [AWS Emulator provides local environment for cloud testing](https://aws.plainenglish.io/aws-emulator-provides-local-environment-for-cloud-testing-a764a26704cf?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
