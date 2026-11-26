@@ -7,11 +7,11 @@ This experience allows me to code in most programming languages and technologies
 ### Latest blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Anthropic Claude Ship Automates Pull Request Approvals](https://ai.plainenglish.io/anthropic-claude-ship-automates-pull-request-approvals-e36a851f48ba?source=rss-22947912adc0------2)
+- [Reduce CI costs by optimizing front-end DOM testing](https://levelup.gitconnected.com/reduce-ci-costs-by-optimizing-front-end-dom-testing-bb251382bfa2?source=rss-22947912adc0------2)
 - [Effective Strategies for Optimizing AI Model Performance](https://medium.com/data-science-collective/effective-strategies-for-optimizing-ai-model-performance-33156e0b4e5b?source=rss-22947912adc0------2)
 - [Nokia and Telia Test Quantum Encryption in 5G Networks](https://medium.com/majordigest/nokia-and-telia-test-quantum-encryption-in-5g-networks-1afd53db7dcf?source=rss-22947912adc0------2)
 - [AI accelerates software development while challenging system stability](https://levelup.gitconnected.com/ai-accelerates-software-development-while-challenging-system-stability-f6c137c373d5?source=rss-22947912adc0------2)
-- [FAA Infrastructure Modernization Needs Face Outdated Systems](https://medium.com/majordigest/faa-infrastructure-modernization-needs-face-outdated-systems-315e5307d3e0?source=rss-22947912adc0------2)
-- [Google Integrates Multi-Model Orchestrator into Antigravity](https://levelup.gitconnected.com/google-integrates-multi-model-orchestrator-into-antigravity-ef5881716cdd?source=rss-22947912adc0------2)
 <!-- BLOG-POST-LIST:END -->
 - [more posts...](https://medium.com/@vpodk)
 
